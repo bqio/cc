@@ -783,10 +783,10 @@
 21	49	{ERROR}
 21	50	{ERROR}
 21	51	{ERROR}
-22	0	{LEENA%}:\nWhat is it, {SERGE%}?\nYou look troubled.{bpage}\nThis is it.\nThere's no turning\nback now!{mend}
-22	1	{PARTY2%}:\nЧто случилось, {SERGE}?\nТы выглядишь взволнованным.{bpage}\n{Cap}{thd}i{sth}{-}i{stz}{-umeth}{-}it.\n{Cap}{thd}e{rr}e{'s}{-}n{o}{-}tu{rr}nin{g'}{-umeth}\nback, now!{mend}
-22	2	{KID%}:\nOi!\nC'mon {SERGE%},\n{PARTY2%}!{mend}
-22	3	{KID%}:\nJust you wait, Lynx!\nToday's gonna be the\nday of reckonin'!!!{bpage}\nSay yer prayers!{wait(20)}\n...Not that it'll\ndo ya any good!!!{mend}
+22	0	{LEENA%}:\nWhat is it,\n{SERGE%}?\nYou look troubled.{bpage}\nЭто здесь.\nНазад дороги нет!{mend}
+22	1	{PARTY2%}:\nЧто случилось, {SERGE%}?\nТы выглядишь взволнованным.{bpage}\nЭто здесь.\nНазад дороги нет!{mend}
+22	2	{KID%}:\nОй!\nВперёд, {SERGE%},\n{PARTY2%}!{mend}
+22	3	{KID%}:\nТолько дождись, Lynx!\nДень расплаты настал!!!{bpage}\nНачинай молиться!{wait(20)}\nХотя... тебя это не спасёт!!!{mend}
 22	4	{KID%}:\nHeh-heh-heh......{wait(60)}\nHA-HA-HA-HA-HAAA!{mend}
 22	5	{LEENA%}:\n{SERGE%}!{mend}
 22	6	{PARTY2%}:\n{Cap}{SERGE}!{mend}
