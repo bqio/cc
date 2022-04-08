@@ -1,0 +1,256 @@
+﻿0	0	Under construction!{mend}
+16	0	SSSQUWAAAARRRRKKK!!!{wend(60)}
+16	1	SSSQUWAAAARRRRKKK!!!{wend(60)}
+17	0	SSSQUWAAAARRRRKKK!!!{wend(60)}
+17	1	SSSQUWAAAARRRRKKK!!!{wend(60)}
+31	0	Angggerrrrrr!!!{wend(60)}
+31	1	Angggerrrrrr!!!{wend(60)}
+31	2	Angggerrrrrr!!!{wend(60)}
+32	0	Angggerrrrrr!!!{wend(60)}
+32	1	Angggerrrrrr!!!{wend(60)}
+32	2	Angggerrrrrr!!!{wend(60)}
+33	0	Angggerrrrrr!!!{wend(60)}
+33	1	Angggerrrrrr!!!{wend(60)}
+33	2	Angggerrrrrr!!!{wend(60)}
+150	0	Rrrriiiiipppp!!!\nRrrriiiiipppp!!!{wend(60)}
+150	1	Rrrriiiiipppp!!!\nRrrriiiiipppp!!!{wend(60)}
+151	0	Rrrriiiiipppp!!!\nRrrriiiiipppp!!!{wend(60)}
+151	1	Rrrriiiiipppp!!!\nRrrriiiiipppp!!!{wend(60)}
+152	0	Rrrriiiiipppp!!!\nRrrriiiiipppp!!!{wend(60)}
+152	1	Rrrriiiiipppp!!!\nRrrriiiiipppp!!!{wend(60)}
+153	0	Rrrriiiiipppp!!!\nRrrriiiiipppp!!!{wend(60)}
+153	1	Rrrriiiiipppp!!!\nRrrriiiiipppp!!!{wend(60)}
+153	2	Rrrriiiiipppp!!!\nRrrriiiiipppp!!!{wend(60)}
+153	3	Rrrriiiiipppp!!!\nRrrriiiiipppp!!!{wend(60)}
+187	0	Angggerrrrrr!!!{wend(60)}
+187	1	Angggerrrrrr!!!{wend(60)}
+187	2	Angggerrrrrr!!!{wend(60)}
+188	0	Angggerrrrrr!!!{wend(60)}
+188	1	Angggerrrrrr!!!{wend(60)}
+188	2	Angggerrrrrr!!!{wend(60)}
+189	0	Angggerrrrrr!!!{wend(60)}
+189	1	Angggerrrrrr!!!{wend(60)}
+189	2	Angggerrrrrr!!!{wend(60)}
+241	0	Entry number 1...{wend(40)}
+241	1	Entry number 2...{wend(40)}
+241	2	Entry number 3...{wend(40)}
+241	3	Entry number 4...{wend(40)}
+241	4	Nice to meet you.{wend(40)}
+241	5	Yo! I'm Amanda and I\nam 14 years old.{wend(120)}
+241	6	I'm Renata and I'm a\n25-year-old Aries.{wend(120)}
+241	7	I'm Movel. I'm 16,\nand I'm a Taurus.{wend(120)}
+241	8	My name is Shannon.\nI'm a 14-year-old Gemini.{wend(120)}
+241	9	Hi, I'm Gemma. I'm 10,\nand I'm a Cancer!{wend(120)}
+241	10	Andrea is my name. I'm 14,\nand my star sign is Leo!{wend(120)}
+241	11	Hello. I'm Marianella.\nI'm a Virgo, and I'm 15.{wend(120)}
+241	12	Tina here! I'm 16,\nand a Libra.{wend(120)}
+241	13	Hola, soy Arianna. Tengo 17 años.\nSoy del signo Escorpio.{wend(120)}
+241	14	I'm Marijana, and I am\na 25-year-old Sagittarius.{wend(120)}
+241	15	I am Jouraine. I am 14.\nI am a Capricorn.{wend(120)}
+241	16	Hi! I'm Valentini.\nI'm an Aquarius, and I'm 15.{wend(120)}
+241	17	Petra the Pisces here! I'm 16,\nand I love tall boys!{wend(120)}
+241	18	Hi. Luz is the name...\nand luv is the game!{wait(40)}\nAnd if it matters, I'm 17!{wend(120)}
+241	19	I'm Carolina, and I'm 10.\nWhen I grow up, I want to\nbe Miss Universe.{wend(120)}
+241	20	I'm Cynthia. I'm 15 years\nof age, and a vegetarian.{wend(120)}
+241	21	I'm Richard. I'm 29.\nAnd I'm here to protest\nbeauty pageant sexism!{wend(120)}
+241	22	My hobby is\n{color(1)}Poison Gas{color(0)}!{wend(120)}
+241	23	My favorite pastime\nis {color(1)}Volcano{color(0)}!{wend(120)}
+241	24	My ambition is to\n{color(1)}Cure Plus{color(0)}!{wend(120)}
+241	25	I like to\n{color(1)}Suck Blood{color(0)}!{wend(120)}
+241	26	I do a mean\n{color(1)}Tornado{color(0)}!{wend(120)}
+241	27	My future goal is\nto {color(1)}Fireball{color(0)}!{wend(120)}
+241	28	My proudest accomplishment\nis the {color(1)}Black Hole{color(0)}!{wend(120)}
+241	29	My favorite sport is\nthe {color(1)}Aqua Beam{color(0)}!{wend(120)}
+241	30	I love to sing in the\n{color(1)}Black Rain{color(0)}!{wend(120)}
+241	31	My specialty is\n{color(1)}Recover All{color(0)}!{wend(120)}
+386	0	Radius:\nHoh-hoh-hoh... C'mon, {playwork(0)}!\nDon't hold back!{mend}
+386	1	Radius:\nFirst, here's some basic advice on attacking, \nso listen up, young'un...{bpage}\nYou know that the three different attack levels \n-- Weak(1), Strong(2), and Fierce(3) -- \neach have differing accuracy, or \n“HIT%” values, don't you?{bpage}\nEvery time you hit your opponent, each of \nthese values increases, making it easier \nfor your next attack to hit its mark.{bpage}\nA good strategy is to start with Weak(1) blows, \nwhich have the highest chance of succeeding, \nand then build up to \nStrong(2) and Fierce(3) blows.{bpage}\nSo, rather than attacking willy-nilly,\nyou should aim to build up your HIT%.\nIf your Fierce(3) attacks don't hit home, \nyou're just wasting your energy!{mend}
+386	2	Weak(1)!{wend(60)}
+386	3	Strong(2)!!{wend(60)}
+386	4	Fierce(3)!!!{wend(60)}
+386	5	Radius:\nHoh-hoh-hoh! You're not even close! \nDon't be trusting in your HIT%\ntoo much there, boy!{bpage}\nAs long as it's not 100%, \nyou still run the risk of \nmissing continuously!{bpage}\nSometimes it pays to muster up the courage \nto use Strong(2) and Fierce(3) attacks \nstraight from the start, too!{mend}
+386	6	Fierce(3)!{wend(60)}
+386	7	Fierce(3)!!{wend(60)}
+386	8	Radius:\nNext, let's check out the use of Elements.{bpage}\nWhen you use an Element, the color of \nthat Element's attribute remains on the battlefield \nin the form of the “Field Effect.”{bpage}\nEach time you consecutively use \nthe same color Element, the effectiveness of \nthat colored Element group increases.{bpage}\nHere, I'll show you...{wait(5)} Let's fill up all \nthe Field Effect attributes with the color blue. \nTry using a blue Element after me...{mend}
+386	9	Radius:\nSee! The field is completely blue. \nAny blue Elements you use now will \nsurely pack a punch!{mend}
+386	10	Here. Try this out...{mend}
+386	11	Radius:\nHey there! Hurry up and turn\nall the Field Effect attributes\nblue, for crying out loud!{bpage}\nDon't you know how to use them\nElements or something, young'un?\nIf that's the case, then listen up! \nIt takes some explaining!{mend}
+386	12	Radius:\nFirst, you've got to choose “Attack” to do \nsome physical damage to your opponent \nin order to get started.{bpage}\nWeak(1), Strong(2), and Fierce(3) attacks \neach add 1, 2, or 3 points to your \nElement Power Level.{bpage}\nYour current level is the number that \nappears above the “Lv” symbol under \nyour name there.{bpage}\nOh, I nearly forgot to tell you -- you won't \naccumulate any power unless you actually \nsucceed in hitting your opponent.{bpage}\nSo be careful! You can't afford to miss!{mend}
+386	13	Radius:\nDischarging this accumulated power is what \nusing Elements is all about!{bpage}\nOnce you've built up some power, \nyou will be able to choose \nthe “Element” option from the battle menu.{bpage}\nWhen you select the Element option, gray-colored\nrectangular plates appear on the screen, \ndon't they?{bpage}\nThose plates are the Elements you\ncurrently have allocated.{mend}
+386	14	Radius:\nSo...why don't you try using one of those \nblue Elements you have there, boy?{bpage}\nRelax! They won't disappear when\nyou use them. You just won't be able to \nuse them again for the rest of this battle, \nthat's all!{bpage}\nOnce you enter another battle, you'll be able to \nuse them again. So don't hold back now.{bpage}\nBut even though I say this, I still have to stress \nthat you've got to consider the appropriate\ntime to use your Elements.{bpage}\nOtherwise, you'll never be able to beat some of \nthe harder enemies you're bound to meet! \nYou've got to form the proper strategy, boy!{mend}
+386	15	Radius:\nOh, but wait -- I'm forgetting something \nimportant. (It must be my old age.){bpage}\nThere are some Elements that disappear \nin a puff of smoke each time you use them. \nThe Element “αTablet” is just one example!{bpage}\nThese are called “Consumable Elements,” and \nthey have the symbol “α” in front of their names. \nThese don't regenerate after each battle.{bpage}\nHowever, the benefit of such \nConsumable Elements is that you can allocate up \nto five of them to the same Element Grid space.{bpage}\nDoing so allows you to use several of them in \nthe same battle, unlike Basic Elements, \nwhich normally can only be used once in any one battle.{bpage}\nThat is why Consumable Elements also\nhave a number such as “x5” after\ntheir names. That's the number you\ncurrently hold in that Grid position.{bpage}\nThis number will decrease as the\nElements are used.\nHowever, after each battle, you can\nrestock more to use next time.{mend}
+386	16	Radius:\nAnyway, enough about that.\nMore about actually using Elements...{bpage}\nI'm sure you'll notice that each\ntime you use an Element, your\nElement Power Level (as shown by\nthe “Lv” number) will go down.{bpage}\nIt's just simple subtraction, really.{bpage}\nFor instance, say you're currently\nat Lv 3 and you decide to use a\n“αTablet” Element allocated at\nLv 1 in your Element Grid.{bpage}\nIn this case, 3 minus 1 leaves 2.\nSo your current Element Power Level\nwill now be changed to Lv 2.{bpage}\nYou can use Elements anytime, so long\nas your Stamina value is above 1.0.{bpage}\nSo in this case, you'll still be\nable to use Elements with a Power \nLevel of up to Lv 2 right\nafter using the “αTablet” Element!{mend}
+386	17	Radius:\nDid you get the gist of it, sonny?\nNow do you see the importance of\ndeveloping good battle tactics?{bpage}\nYou could build up a little power, then use an\nElement, build up a little more power, \nthen use another Element... repeating \nthis over and over. That's OK!{bpage}\nOr you can build up your Element Power to its\nmaximum level and unleash a barrage \nof Elements, one after another.\nThat's no problem either!{bpage}\nUse whatever strategy you think will work to \ndefeat each of the enemies you come across.\nIt's up to you.{bpage}\nThere are hordes of monsters out there that \nyou'll never be able to defeat with physical \nattacks alone. You're going to need to master\nElements to get by!{bpage}\nWell, sorry for the long lecture there, sonny. \nMy explanation about Elements is officially over.\nWhy don't you try and use one now?{mend}
+386	18	Radius:\nWhat's this? You still haven't managed to turn \nall the Field Effect attributes blue yet?{bpage}\nWhat, you expect an old man to do everything \nfor you? You slacker! Anyway, here we go...{mend}
+386	19	Radius:\nHoh-hoh-hoh!\nWas that too much for you?\nSorry about that, young'un!{bpage}\nConversely, when there is a lot of blue in \nthe Field Effect attributes, the Elements of \nthe opposite color -- red -- will be weakened.{bpage}\nSo try to discern your enemy's attack pattern \nand fill the Field with the opposite color of his\nattacks as a form of defense.{bpage}\nThis strategy of using Elements is sure to come \nin handy, so put it to good use, sonny!{mend}
+386	20	Radius:\nHoh-hoh-hoh... How was that?\nYou learn something there, boy?{bpage}\nAnyway, I guess it's time to \nbring this lesson to an end.\nHere you go... Hah!{mend}
+386	21	Radius:\nHuh?\nYou've grown mighty strong since \nthe last time I fought you!{bpage}\nIf that's how it is then, try this for size, young'un!\nThis'll teach you to respect your elders... Hah!{mend}
+386	22	Radius:\nHo-ho-houch! \nI'm getting tired more easily in my old age!{bpage}\nBut nonetheless, well done there, young'un!\nYou're quite proficient now...{wait(30)}\nthanks to my tutoring!{mend}
+386	23	Radius:\nHo-ho-houch! \nI'm getting tired more easily in my old age!{bpage}\nBut nonetheless, well done there, young'un!\nYou're quite proficient now...{wait(30)}\nthanks to my tutoring!{mend}
+390	0	Solt:\nSir! His innately \nINNATE Element color attribute is...\n        WHITE!        {mend}
+390	1	Karsh:\nRight! That does it!{bpage}\nQuick, attack him with the opposite \nElement attribute color...\n        BLACK!        {mend}
+390	2	Solt:\nHow unfortunately unfortunate!\nI do not seem to have any, sir!{mend}
+390	3	Karsh:\nYou nincompoop! You should always carry\nElements of every color!{bpage}\nThen how about you there...?{mend}
+390	4	Peppor:\nI'm shakin' in my shoes to tell you this, sir, \nbut I don't have any either!{bpage}\nWe'll have to let you, Sir Karsh, \nshow us how it's done...{mend}
+390	5	Karsh:\n!?\nUseless fools!{bpage}\nErr......{bpage}\nReal men don't need magic when \nthey can fight with their might!{mend}
+391	0	SSSQUWAAAARRRRKKK!!!{wend(60)}
+392	0	SSSQUWAAAARRRRKKK!!!{wend(60)}
+393	0	Solt:\nThis time I made sure to bring a \nBLACK Element with me, Peppor!{mend}
+393	1	Peppor:\nGood work.{wait(5)}\nWell, shake it on up and attack him with it!{mend}
+393	2	Solt:\nAffirmatively affirmative, Peppor...{mend}
+393	3	Solt:\nOh deary dear!\n......?{mend}
+393	4	Peppor:\nThat was no BLACK ATTACK\nElement you used just now!{bpage}\nIt was a Black Element that makes your foe \nMORE SUSCEPTIBLE TO attacks of the opposite\ncolor attribute, WHITE, wasn't it!?{mend}
+393	5	Solt:\nI'm afraid you're right...{wait(5)}\nHow terribly terrible!{mend}
+393	6	Peppor:\nYou DID bring a WHITE ATTACK Element \nwith you, didn't you!?{bpage}\nIf you didn't bring one with you, \nyou're more stupid than I thought!{mend}
+393	7	Solt:\nErr......{bpage}\nHow awfully awful! \nI'm afraid I didn't, Peppor...{mend}
+394	0	Ow...\nThis does not look good!{wend(60)}
+396	0	Peppor:\nIt's them again... those tough guys!{bpage}\nYou said you brought a shakingly awesome \nElement with you, didn't you?{mend}
+396	1	Solt:\nI have a brilliantly brilliant Element\nthis time, Peppor.{bpage}\nIt's a new... Summoning Element!{mend}
+396	2	Peppor:\nShaking!!! It sure sounds good.{bpage}\nWell then, shake a leg! \nHurry up and use it on these smart alecks!{mend}
+396	3	Solt:\nAffirmatively affirmative!\nHere I go, Peppor...{mend}
+396	4	Peppor:\nHuh?\nNothing happened!{bpage}\nI wonder what went wrong...{mend}
+396	5	Solt:\nAh......\nI forgetfully forgot!{bpage}\nYou can't use a Summoning Element \nuntil all the Field Effect attributes are \nthe same color!{mend}
+396	6	Peppor:\n......\nYou muddle-head!{bpage}\nWell then -- hurry up and turn all the Field Effect\nattributes the same color and try again!{mend}
+396	7	Solt:\nBut Peppor...{bpage}\nYou can't use the same Element twice \nin the same battle! \nAny foolish fool knows that!{mend}
+396	8	Peppor:\n...............\n...............{bpage}\nOh my god, Solt! \nCan't you ever do anything right?{mend}
+396	9	ZOAH:\n...............\n...............\n...............{bpage}\nARE YOU CLOWNS FINISHED WITH YOUR\nCOMEDY ACT YET?{mend}
+402	0	Peppor:\nThe nerve of these guys!\nThinking they can storm our front gate!{bpage}\nThis time we ought to give them the shaking\nthey deserve!{mend}
+402	1	Solt:\nI agreeingly agree!{mend}
+402	2	Peppor:\nToday we brought along\na helping hand!{bpage}\nHe's tough! He's mean!\nAnd he's really, really big, too!{bpage}\nShow them what you can do!!!{bpage}\n......{wait(90)}\nI said show them what you can do!{wait(90)}\n......{bpage}\nYoo~hoo~!{wait(60)} Oh, Ketcho~p!{wait(60)}\nCome out, come out, wherever you are!{mend}
+402	3	Ketchop:\nT-T-T-TOOOMMAAAATTTOOOO!!!{mend}
+402	4	Peppor:\nOoooohhh! You see...\nMy, my! Aren't we strong now?{bpage}\nThis time we're going to beat you for sure!!!{mend}
+402	5	Solt:\nWhat a manly man!{mend}
+402	6	Ketchop:\nS-S-S-SSAAAAUUUUCCCEE!{wait(30)}\n(He seems happy...{wait(60)}perhaps?){mend}
+402	7	Peppor:\nYes, that's the spirit!{bpage}\nShow us what you can do!{mend}
+402	8	Solt:\nGo! Go! Ketchop!!!{bpage}\nTry out your special \nKarate Ket-Chop on them!{mend}
+402	9	Ketchop:\nT-T-TOOOMMMAAATTTOOO!!!{wait(30)}\n(He seems pumped...{wait(60)}perhaps?){mend}
+402	10	Peppor:\nHey!\nWhat the hell are you doing!?\nWhat did you heal them for!?{mend}
+402	11	Solt:\nWell...{bpage}\nI thought that we all wouldn't get to see \nhow fiercely fierce Ketchop was if they \nwere all passed out!{mend}
+402	12	Peppor:\n.........{bpage}\nHave you got your priorities straight!?{bpage}\nDoesn't that defeat our whole purpose!?{bpage}\nDo it again, and you're shaken dead meat,\nSolt!{mend}
+402	13	Ketchop:\nS-S-SSSAAAUUCCCE!{wait(30)}\n(He seems angry...{wait(60)}perhaps?){mend}
+402	14	Peppor:\nThis doesn't look good!\nWe could be shaken here...{bpage}\nHey! Ketchop! Why don't you shaking\nwell do something?{mend}
+402	15	Ketchop:\nT-T-TTOOMMAATTOO!!!{mend}
+402	16	Peppor:\nHuh???{bpage}\nWwaaaaaaah!? What are you doing?{wend(60)}
+406	0	Weed{wend(60)}
+406	1	Bubbubbub{wend(60)}
+406	2	Weeeeed{wend(60)}
+406	3	Weed{wend(60)}
+406	4	Bubbubbub{wend(60)}
+406	5	Weeeeed{wend(60)}
+407	0	You think you're so smart!{wait(30)}\nThen how about this?{wend(60)}
+407	1	Why you...!{wait(30)}\nThat does it!{wend(60)}
+407	2	Oooohhhwww!{wait(30)}\nI can't take thiiis!{wend(60)}
+407	3	Take this!{wend(30)}
+407	4	And this!{wend(30)}
+407	5	And take that!{wend(30)}
+407	6	And that!{wend(30)}
+409	0	The Boxer Boys:\nWell, well... Which of us do you choose?\nYou only have one chance!{mend}
+409	1	The Boxer Boys:\nToo bad! Too bad! WROOONG!!!\nSU~CKE~R!{wend(120)}
+409	2	The Boxer Boys:\nYou blew your chance. You had to pick one of us!\nWe don't reward CHEATERS!!!{wend(120)}
+410	0	The Boxer Boys:\nWell, well... Which of us do you choose?\nYou only have one chance!{mend}
+410	1	The Boxer Boys:\nToo bad! Too bad! WROOONG!!!\nSU~CKE~R!{wend(120)}
+414	0	Hi-Ho Team Leader:\nCalling reinforcements!\nHiiii-hoooooooo!{wend(60)}
+414	1	Hi-Ho Team Leader:\nHi-yiyiyiiiikes-ho!{wend(60)}
+414	2	Hi-Ho Team Leader:\nOh... Hi-pooh-ho!{wend(60)}
+414	3	Hi-Ho Team Leader:\nHi-Ho Team chaaaaarge!!!{wend(60)}
+416	0	Beeba:\nLeave it to Beeba!{wait(30)}\nBeeba call friend!{wend(60)}
+416	1	Beeba:\nBeeba call another friend!{wend(60)}
+416	2	Beeba:\nBeeba call even one more friend!{wend(60)}
+416	3	Beeba:\nBeeba la révolution!!!{wend(60)}
+416	4	Beeba:\nAh!{wait(10)} No more friend come...?{wait(60)}\nBeeba no friend left...{wait(60)}\nI beebary lonely now...{wend(60)}
+419	0	Harle:\nEnfin... Take all\nze time you wish.{mend}
+419	1	Harle:\nMon dieu!\nMoi iz défaited!{mend}
+422	0	Fargo:\nJolly ho!\nUp and at 'em!{mend}
+422	1	Fargo:\nNow that smarts...{mend}
+427	0	You enjoy pain?{wend(60)}
+427	1	Eat this!{wend(60)}
+427	2	Hiyaaah!{wend(60)}
+427	3	Die, fiends, die!{wend(60)}
+427	4	HAH!{wend(60)}
+427	5	HWAAAH!!{wend(60)}
+427	6	THWORH!!!{wend(60)}
+427	7	I hate you!{wend(60)}
+427	8	I abhor you!!!{wend(60)}
+427	9	Drop dead!!!{wend(60)}
+427	10	You make me sooo angry!{wend(60)}
+427	11	Hurry up and die!{wend(60)}
+427	12	Why, you!!!{wend(60)}
+432	0	General Viper:\nCare for some warming up first, eh? \nThen come now lads, I will take you on!{mend}
+432	1	General Viper:\nHah-hah-hah!!!{mend}
+434	0	Radius:\nEn garde!{mend}
+434	1	Radius:\nI stand defeated!{mend}
+435	0	SSSQUWAAAARRRRKKK!!!{wend(60)}
+436	0	SSSQUWAAAARRRRKKK!!!{wend(60)}
+450	0	Criosphinx:\nVerus... Thou art correct.{wend(120)}
+450	1	Criosphinx:\nFalsus...Thou art incorrect.{wend(120)}
+450	2	Criosphinx:\nNigra in candida vertere.\nHere be an easy one to start off with!{bpage}\nWhat the extorted one is bled...\nWith knuckles of fear...\nThe plumage of a coward when...\nFaced with the hottest of heat...{bpage}\nAnswer my question! \nWhat is it I be?{mend}
+450	3	Criosphinx:\nDimidium facti qui bene coepit habet.\nWell begun is half done.\nNow, here my second riddle be...{bpage}\nAuburn less the burn...\nIron pyrite less the fool...\nAll that glitters is not thus...\nThough silence is...{bpage}\nAnswer my question!\nWhat is it I be?{mend}
+450	4	Criosphinx:\nNow riddle number three! \nBene rem gere!{bpage}\nIn my anger, I see...\nBoth the rag to charge at...\nAnd the flag to stop at...\nBlushing, I walk the royal carpet...{bpage}\nAnswer my question!\nWhat is it I be?{mend}
+450	5	Criosphinx:\nThou art quick on the uptake!\nQuestion four... Accipe!{bpage}\nIt isn't easy being...\nA friend of the planet...\nWith the jealous monster's eyes...\nGiving me a sign to proceed!{bpage}\nAnswer my question!\nWhat is it I be?{mend}
+450	6	Criosphinx:\nVelim tibi ita persuadeas.\nJust two more to go!{bpage}\nMare et caelum et viola!\nGive me a melancholy gloom...\nBut a first prize ribbon...\nMakes me feel I've royal blood!{bpage}\nAnswer my question!\nWhat is it I be?{mend}
+450	7	Criosphinx:\nUsus est magister optimus.\nBy deduction alone ye should\nmy answer already know...{bpage}\nLike pontoon less the knave...\nOr Jolly Roger less the bones...\nEven the top rank of self-defense...\nIs no protection from the Plague!{bpage}\nAnswer my question!\nWhat is it I be?{mend}
+450	8	Mysterious Monster:\nQuid me vis? I am the Criosphinx.\nAnd thou hast trespassed on my domain!{bpage}\nWhy must thou turmoil unto this land bring?\nThen turmoil I bring unto thee!\nDepending on how thou meet this trial,\nthou may be allowed to leave this place alive!{bpage}\nThis be an island which no man \nhath visited for aeons.\nThe Criosphinx has grown quite bored...{bpage}\nIf thou possessest the courage\nto match thy wits to mine,\nthy sins may be forgiven when thou answer \ncorrectly my questions six!{bpage}\nNow riddle me this...{mend}
+450	9	Criosphinx:\nQuid est? Quidnam tu hominis es?{bpage}\nWhat? Thou sayest thou canst\nnot answer my question?\nMale factum!{bpage}\nThen what have I to do with thee?\nBegone from my sight!\nAbi in malem rem!{mend}
+450	10	Criosphinx:\nQuid ais?\nMira narras!{bpage}\nImpressive! Ne'er thought I there'd be\nhumans who could defeat the\nCriosphinx by force alone!{bpage}\nThy way of life intrigues me!\nTo conquer all obstacles with\nbrawn rather than brain...{wait(30)}\n.........{bpage}\nBut I warn ye, woes shalt surely \nbefall one such as thee!{mend}
+450	11	Vale!{mend}
+450	12	Criosphinx:\nSat prata biberunt!\nGratulor felicitati tuae!{bpage}\nWell done! Thou hast solved all of my riddles!{bpage}\nThy brains art as impressive as thy brawn!{mend}
+450	13	Bene vale! Bene valeto!\nAlways be diligent in thy practice!{bpage}\nMe tibi commendo! Vale!\nI take my leave of thee! Farewell!{mend}
+458	0	Atropos has stopped functioning.{wend(60)}
+458	1	Lachesis has stopped functioning.{wend(60)}
+459	0	Clotho has stopped functioning.{wend(60)}
+459	1	Atropos has stopped functioning.{wend(60)}
+460	0	Lachesis has stopped functioning.{wend(60)}
+460	1	Clotho has stopped functioning.{wend(60)}
+462	0	  - - - COMMENCING COUNTDOWN - - -  {wait(60)}\n                             5                {wend(60)}
+462	1	 - - - RECOMMENCING COUNTDOWN - - - {wait(60)}\n                              5                {wend(60)}
+462	2	4                {wend(60)}
+462	3	3                {wend(60)}
+462	4	2                {wend(60)}
+462	5	1                {wend(60)}
+462	6	0                {wend(60)}
+478	0	Solt:\nThis time we shall not be beaten!{bpage}\nI shall blow them to pieces with one of those \npowerfully powerful Elements you bought me,\nPeppor!{mend}
+478	1	Peppor:\nYou mean one of those Summoning Elements?\nNow we're shaking!{mend}
+478	2	Solt:\nHow tragically tragic!!!\nI hate to tell you this, Peppor, but...{bpage}\nI just remembered that I lost \nthe Summoning Element I had with me!{mend}
+478	3	Peppor:\n......!?\nWhat do you mean, you “lost” it?{bpage}\nDon't tell me you dropped it or your dog ate \nit or some other stupid excuse like that!{bpage}\nYou're asking for a darn good shaking!{mend}
+478	4	Solt:\nI'm not that stupidly\nstupid, you know, Peppor!{bpage}\nActually, if you must know...\nthat centipede monster in the\nHydra Marshes stole it from me!{bpage}\nAnd I was enjoying that excitingly exciting\nexpedition up till then, too...{mend}
+478	5	Peppor:\nWhat do you mean, a centipede\nmonster stole your Element???{bpage}\nWhat, he snuck up behind you and picked \nall your pockets with his hundreds of \nlegs or something!?{mend}
+478	6	Solt:\nNo, Peppor.{bpage}\nWhen I say stole, I don't mean he picked \nmy pockets or anything like that!{bpage}\nI mean he took it from me by laying a \nTrap Element in which my Element got caught!{mend}
+478	7	Peppor:\nWhat in spice's name are you talking about?{bpage}\nWould you kindly explain to me what a shaking \nTrap Element is?{mend}
+478	8	Solt:\nWell...{wait(10)}\nErrr...{bpage}\nIt's difficultly difficult to explain in words, \nPeppor, so I will give you a demonstration.{bpage}\nI will lay a Trap in front of you, Peppor, \nand then get you to use one of \nyour special Elements.{mend}
+478	9	Peppor:\nAlright.\nLet's give it a go...{mend}
+478	10	Solt:\n10-4, Peppor!{mend}
+478	11	Solt:\nNow, you see how I took \nyour Element there, Peppor?{bpage}\nI used a Trap Element designed exclusively \nto capture “Black Hole” Elements!{bpage}\nYou see, each Trap Element only works \non one kind of Element.{bpage}\nThey can't capture any Elements other \nthan the ones they were designed to capture!{mend}
+478	12	Peppor:\nShaking!{wait(10)}\nHmm...{bpage}\nI see what you mean about having your \nSummoning Element stolen there...{bpage}\nAlright, now I understand.{wait(10)}\nSo you can give me back my\nBlack Hole Element now!{mend}
+478	13	Solt:\nOops!\nI should have told you.\nI can't give it back to you.{bpage}\nYou can't get that Element back again unless\nanother monster is silly enough to have its \nElement captured...{mend}
+478	14	Peppor:\nHuh......?{bpage}\nWell, I guess it doesn't matter, seeing as \nyou've got your hands on it now...{bpage}\nSo...{wait(10)}why don't you hurry on up \nand use that Element you just trapped \non the enemy!{bpage}\nCome on! What are you waiting for?{bpage}\nHuh......?{mend}
+478	15	Solt:\nYou know you can't use an Element until \nyou have equipped it properly!{bpage}\nSo we'll have to wait until after this battle is \nover before we can re-equip it and use it!{bpage}\n......{wait(20)}\nOops!{mend}
+478	16	Peppor:\n...{wait(120)}WH-{wait(120)}WH-{wait(110)}WH-{wait(100)}WH-{wait(90)}WH-{wait(80)}WH-{wait(70)}WH-{wait(60)}WH-{wait(50)}WH-\n{wait(40)}WH-{wait(30)}WH-{wait(20)}WH-{wait(15)}WH-{wait(10)}WH-{wait(5)}WH-{wait(1)}WH-{wait(1)}WH-{wait(1)}WH-{wait(1)}WH-\nWHAT DID YOU JUST SAY!?!{bpage}\nWHY THE HELL DO YOU ALWAYS\nHAVE TO BE SO DAMNED STUPID?{bpage}\nTHAT DOES IT!!!{wait(10)}\nYOU'RE IN FOR A REAL SHAKING NOW!{mend}
+478	17	Solt:\nAaaaah! I'm sorrily sorry, Peppor!{bpage}\nPlease don't hit me...{wait(30)} too hard!{mend}
+487	0	Hiromichi Tanaka:\nMuahahaah!!!{wend(60)}
+487	1	Toshiaki Suzuki:\nHiiyyaaaa!{wend(30)}
+487	2	Toshiaki Suzuki:\nIt's no use!{wend(30)}
+487	3	Toshiaki Suzuki:\nI'll never win...{wend(30)}
+487	4	Toshiaki Suzuki:\nHiiyyaaaa!{wend(30)}
+487	5	Toshiaki Suzuki:\nIt's no use!{wend(30)}
+487	6	Toshiaki Suzuki:\nI'll never win...{wend(30)}
+487	7	Toshiaki Suzuki:\nHiiyyaaaa!{wend(30)}
+487	8	Toshiaki Suzuki:\nIt's no use!{wend(30)}
+487	9	Toshiaki Suzuki:\nI'll never win...{wend(30)}
+487	10	Toshiaki Suzuki:\nHiiyyaaaa!{wend(30)}
+487	11	Toshiaki Suzuki:\nIt's no use!{wend(30)}
+487	12	Toshiaki Suzuki:\nI'll never win...{wend(30)}
+487	13	Toshiaki Suzuki:\nHiiyyaaaa!{wend(30)}
+487	14	Toshiaki Suzuki:\nIt's no use!{wend(30)}
+487	15	Toshiaki Suzuki:\nI'll never win...{wend(30)}
+488	0	Katsuhisa Higuchi:\nHello, people! I'm Katsuhisa, \nand I'm a programmer.{bpage}\nUnlike the artists, musicians, \nand scenario writers, etc., we programmers \ndon't stand out that much, I guess.{bpage}\nSo today I thought I'd teach you folks just\nwhat a program is!{bpage}\nHold on while I call some of my friends!{bpage}\nHeeeey yooouuu guuuuuysss!!!!{mend}
+488	1	Kazumi Kobayashi:\nHi. I'm Kazumi.\nNice to meet you.{mend}
+488	2	Katsuhisa Higuchi:\nKazumi programmed the sections that display \nand maneuver polygon models.{bpage}\nWhy don't you show 'em, Kazumi?{mend}
+488	3	Katsuhisa Higuchi:\nThat was moving!{bpage}\nWho's next?{mend}
+488	4	Yoshiyuki Miyagawa:\nI guess that's me...\nYou can call me Miya!{mend}
+488	5	Katsuhisa Higuchi:\nMiya wrote the program sections that \nmanipulate effects.{bpage}\nHis effects look like this...{mend}
+488	6	Katsuhisa Higuchi:\nMighty “effective,” don't you think?{bpage}\nAnd lastly, but not leastly, we have...{mend}
+488	7	Kohji Ohno:\nOHNO!!!{wait(30)}\nNo, I'm not in trouble{wait(10)}\n...that's my name!{mend}
+488	8	Katsuhisa Higuchi:\nHe coded the special effects used in the battles,\nas well as the menu system.{bpage}\nGo for it, Ohno!{mend}
+488	9	Katsuhisa Higuchi:\nHow “handy”!{mend}
+488	10	Katsuhisa Higuchi:\nOh, and as for me...{wait(5)}\nWell, I was responsible for the overall battle\nprogramming.{bpage}\nWhy, I even wrote the data and \nfunctions that allow this image of me \nto talk to you like this!{bpage}\nThe artificial intelligence and logic of \nthe monsters and other enemies was \nalso written by yours truly.{mend}
+488	11	Katsuhisa Higuchi:\nThanks for listening to my long speech here.{bpage}\nOh, and I really appreciate that you bought \na copy of Chrono Cross, too!{bpage}\nWell, until we meet again in some other game, \ntake care and...{bpage}\nSA~YO~NA~RA~~~!{mend}
