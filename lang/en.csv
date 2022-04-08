@@ -785,11 +785,11 @@
 21	51	{ERROR}
 22	0	{LEENA%}:\nWhat is it,\n{SERGE%}?\nYou look troubled.{bpage}\nЭто здесь.\nНазад дороги нет!{mend}
 22	1	{PARTY2%}:\nЧто случилось, {SERGE%}?\nТы выглядишь взволнованным.{bpage}\nЭто здесь.\nНазад дороги нет!{mend}
-22	2	{KID%}:\nОй!\nВперёд, {SERGE%},\n{PARTY2%}!{mend}
-22	3	{KID%}:\nТолько дождись, Lynx!\nДень расплаты настал!!!{bpage}\nНачинай молиться!{wait(20)}\nХотя... тебя это не спасёт!!!{mend}
-22	4	{KID%}:\nHeh-heh-heh......{wait(60)}\nHA-HA-HA-HA-HAAA!{mend}
+22	2	{KID%}:\nОй!\nВперед, {SERGE%}, {PARTY2%}!{mend}
+22	3	{KID%}:\nТолько дождись, Lynx!\nДень расплаты настал!!!{bpage}\nНачинай молиться!{wait(20)}\nХотя... тебя это не спасет!!!{mend}
+22	4	{KID%}:\nХех-хех-хех......{wait(60)}\nХА-ХА-ХА-ХА-ХААА!{mend}
 22	5	{LEENA%}:\n{SERGE%}!{mend}
-22	6	{PARTY2%}:\n{Cap}{SERGE}!{mend}
+22	6	{PARTY2%}:\n{SERGE%}!{mend}
 22	7	{ERROR}
 22	8	{ERROR}
 22	9	{ERROR}
@@ -946,8 +946,8 @@
 24	49	{ERROR}
 24	50	{ERROR}
 24	51	{ERROR}
-25	0	{PARTY2%}:\n{Cap}{wha}t{'s}{-umeth}{-}{thd}at\nc{rwr}y{sth}tal-{l}{i}ke{-}{thf}in{g'}?{mend}
-25	1	{KID%}:\nSome kinda switch?{wait(10)}\nBugger!\nSo close and yet so far...{mend}
+25	0	{PARTY2%}:\nЧто это за штука, похожая\nна кристалл?{mend}
+25	1	{KID%}:\nКакой-то переключатель?{wait(10)}\nГадство!\nТак близко и так далеко...{mend}
 25	2	{ERROR}
 25	3	{ERROR}
 25	4	{ERROR}
@@ -1000,13 +1000,13 @@
 25	51	{ERROR}
 25	52	{ERROR}
 25	53	{ERROR}
-26	0	{KID%}:\nOi!\nWhat the bloody hell\njust happened?{mend}
-26	1	{KID%}:\nWhat are we\ndoin' out here?{mend}
-26	2	{KID%}:\nWooooow!{wait(15)} Bugger!!!{wait(15)}\nWe're so high up!{wait(10)}\nIs this thing floatin'!?{mend}
-26	3	{PARTY2%}:\nDid{-}it{-}{f}{e}el{-umeth}{-}{l}{i}ke{-}{-your-}\nbody{-}pa{ss}ed{-umeth}{-}{thf}{rwr}ough\n{-the-}{f}{l}oo{rr}{-}ju{sth}t{-}now?{mend}
-26	4	{KID%}:\nThis sure is\nsome fort.{bpage}\nEh, {SERGE%}?{mend}
+26	0	{KID%}:\nОй!\nЧто, черт возьми, сейчас произошло?{mend}
+26	1	{KID%}:\nКак мы сюда попали?{mend}
+26	2	{KID%}:\nВоооооу!{wait(15)} Гадство!!!{wait(15)}\nМы так высоко!{wait(10)}\nЭта штука парит!?{mend}
+26	3	{PARTY2%}:\nВам тоже показалось, что ваше тело только что прошло сквозь пол?{mend}
+26	4	{KID%}:\nЭто какая-то крепость.{bpage}\nТак ведь, {SERGE%}?{mend}
 26	5	!?{mend}
-26	6	{KID%}:\nYou alright, mate?\nYou've been actin'\nall weird.{bpage}\nWe dunno what's up\nahead, so just stay\non yer toes, eh?{mend}
+26	6	{KID%}:\nТы в порядке, приятель?\nТы ведешь себя очень странно.{bpage}\nМы не знаем, где сейчас находимся,\nтак что держи себя в руках,\nхорошо?{mend}
 26	7	{ERROR}
 26	8	{ERROR}
 26	9	{ERROR}
@@ -1346,8 +1346,8 @@
 29	34	Marge:\nYou wouldn't want that, right?\n　　　She'd never do that!\n　　　That would be bad...{mend}
 29	35	Marge:\nMy, aren't we confident?{wait(20)}\nWell, I hope you can\nkeep your nerve!{mend}
 29	36	Marge:\nThen get your priorities\nstraight, and let her\nknow how you feel.{bpage}\nUnderstand?{wait(20)}\nTomorrow is a new\nday. Who knows\nwhat will happen...{mend}
-29	37	Marge:\nGood morning,\n{SERGE%}.{bpage}\nYou're finally up.{wait(20)}\nThe sun's already\nreached high noon.{mend}
-29	38	Marge:\nBy the way, didn't you\nhave plans to meet with\n{LEENA%} this morning?{bpage}\n{LEENA%} came by to see if\nyou were up, but you,\nyoung man, were still\noff in never-never land.{bpage}\nYou shouldn't break\npromises like that.{wait(20)}\nGirls can be pretty scary\nif you make them angry!{mend}
+29	37	Marge:\nДоброе утро, {SERGE%}.{bpage}\nТы наконец-то проснулся.{wait(20)}\nУже полдень.{mend}
+29	38	Marge:\nКстати, разве ты не планировал\nвстретиться с {LEENA%} этим утром?{bpage}\n{LEENA%} came by to see if\nyou were up, but you,\nyoung man, were still\noff in never-never land.{bpage}\nYou shouldn't break\npromises like that.{wait(20)}\nGirls can be pretty scary\nif you make them angry!{mend}
 29	39	Marge:\nYou want to give\nthat to your mother?{bpage}\nI think there's someone\nelse out there who would\nappreciate it even more.{mend}
 29	40	{RADIUS%}:\nHalt!{wait(20)}\nWe haven't\nsettled anything!{mend}
 29	41	{RADIUS%}:\nHalt!{wait(20)}\nWe haven't\nsettled anything!{mend}
@@ -1463,14 +1463,14 @@
 30	59	{ERROR}
 30	60	{ERROR}
 31	0	{speed(255)}{SERGE%}......{wait(80)}{wend(60)}
-31	1	{speed(255)}Good morning, {SERGE%}!{wait(80)}{wend(120)}
-31	2	{speed(255)}Come on, sleepyhead!\nGet up!{wait(80)}{wend(140)}
+31	1	{speed(255)}Доброе утро, {SERGE%}!{wait(80)}{wend(120)}
+31	2	{speed(255)}Вставай, лежебока!\nБыстро!{wait(80)}{wend(140)}
 31	3	{SERGE%} woke up to find the\nTime Egg in his hands.{mend}
 31	4	{PARTY0%} received\n{color(4)}Time Egg{color(0)}!{mend}
-31	5	Would you like to rest?{wait(20)}\n　　　Sure!\n　　　Nah, not now.{mend}
-31	6	{PARTY0%} took out {SERGE%}'s\nnot-so-secret savings.{mend}
-31	7	Received\n200G!{mend}
-31	8	{PARTY0%} took the\n{color(3)}αTablet{color(0)} out of the pot.{mend}
+31	5	Вы хотите отдохнуть?{wait(20)}\n　　　Конечно!\n　　　Не сейчас.{mend}
+31	6	{PARTY0%} взял\nплохо спрятанные сбережения {SERGE%}.{mend}
+31	7	Получено:\n200З!{mend}
+31	8	{PARTY0%} взял {color(3)}αТаблетку{color(0)} из горшка.{mend}
 31	9	{ERROR}
 31	10	{ERROR}
 31	11	{ERROR}
