@@ -786,7 +786,7 @@
 22	0	{LEENA%}:\nWhat is it,\n{SERGE%}?\nYou look troubled.{bpage}\nЭто здесь.\nНазад дороги нет!{mend}
 22	1	{PARTY2%}:\nЧто случилось, {SERGE%}?\nТы выглядишь взволнованным.{bpage}\nЭто здесь.\nНазад дороги нет!{mend}
 22	2	{KID%}:\nОй!\nВперед, {SERGE%}, {PARTY2%}!{mend}
-22	3	{KID%}:\nТолько дождись, Lynx!\nДень расплаты настал!!!{bpage}\nНачинай молиться!{wait(20)}\nХотя... тебя это не спасет!!!{mend}
+22	3	{KID%}:\nТолько дождись, Lynx!\nДень расплаты настал!!!{bpage}\nНачинай молиться!{wait(20)}\nХотя... тебя это не спасёт!!!{mend}
 22	4	{KID%}:\nХех-хех-хех......{wait(60)}\nХА-ХА-ХА-ХА-ХААА!{mend}
 22	5	{LEENA%}:\n{SERGE%}!{mend}
 22	6	{PARTY2%}:\n{SERGE%}!{mend}
@@ -1000,7 +1000,7 @@
 25	51	{ERROR}
 25	52	{ERROR}
 25	53	{ERROR}
-26	0	{KID%}:\nОй!\nЧто, черт возьми, сейчас произошло?{mend}
+26	0	{KID%}:\nОй!\nЧто, чёрт возьми, сейчас произошло?{mend}
 26	1	{KID%}:\nКак мы сюда попали?{mend}
 26	2	{KID%}:\nВоооооу!{wait(15)} Гадство!!!{wait(15)}\nМы так высоко!{wait(10)}\nЭта штука парит!?{mend}
 26	3	{PARTY2%}:\nВам тоже показалось, что ваше тело только что прошло сквозь пол?{mend}
@@ -1347,7 +1347,7 @@
 29	35	Marge:\nMy, aren't we confident?{wait(20)}\nWell, I hope you can\nkeep your nerve!{mend}
 29	36	Marge:\nThen get your priorities\nstraight, and let her\nknow how you feel.{bpage}\nUnderstand?{wait(20)}\nTomorrow is a new\nday. Who knows\nwhat will happen...{mend}
 29	37	Marge:\nДоброе утро, {SERGE%}.{bpage}\nТы наконец-то проснулся.{wait(20)}\nУже полдень.{mend}
-29	38	Marge:\nКстати, разве ты не планировал\nвстретиться с {LEENA%} этим утром?{bpage}\n{LEENA%} came by to see if\nyou were up, but you,\nyoung man, were still\noff in never-never land.{bpage}\nYou shouldn't break\npromises like that.{wait(20)}\nGirls can be pretty scary\nif you make them angry!{mend}
+29	38	Marge:\nКстати, разве ты не планировал\nвстретиться с {LEENA%} этим утром?{bpage}\n{LEENA%} приходила утром в надежде, что\nты уже не спишь.{bpage}\nОднако застала тебя, юноша, спящим сном младенца.{bpage}\nYou shouldn't break\npromises like that.{wait(20)}\nGirls can be pretty scary\nif you make them angry!{mend}
 29	39	Marge:\nYou want to give\nthat to your mother?{bpage}\nI think there's someone\nelse out there who would\nappreciate it even more.{mend}
 29	40	{RADIUS%}:\nHalt!{wait(20)}\nWe haven't\nsettled anything!{mend}
 29	41	{RADIUS%}:\nHalt!{wait(20)}\nWe haven't\nsettled anything!{mend}
@@ -1468,9 +1468,9 @@
 31	3	{SERGE%} woke up to find the\nTime Egg in his hands.{mend}
 31	4	{PARTY0%} received\n{color(4)}Time Egg{color(0)}!{mend}
 31	5	Вы хотите отдохнуть?{wait(20)}\n　　　Конечно!\n　　　Не сейчас.{mend}
-31	6	{PARTY0%} взял\nплохо спрятанные сбережения {SERGE%}.{mend}
+31	6	{PARTY0%} взял свои плохо спрятанные\nсбережения.{mend}
 31	7	Получено:\n200З!{mend}
-31	8	{PARTY0%} взял {color(3)}αТаблетку{color(0)} из горшка.{mend}
+31	8	{PARTY0%} взял {color(3)}Таблетку{color(0)} из горшка.{mend}
 31	9	{ERROR}
 31	10	{ERROR}
 31	11	{ERROR}
