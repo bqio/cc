@@ -1,12 +1,20 @@
 module.exports = {
   glossary: [
-    ["{SERGE}", "{SERGE%}"],
+    ["{SERGE_N}", "Серж"],
     ["{KID_N}", "Кид"],
     ["{MARGE_N}", "Мардж"],
     ["{LEENA_N}", "Лина"],
-    ["{LEENA_I}", "Линой"],
-    ["{PARTY_2}", "{PARTY2%}"],
     ["{LYNX_N}", "Линкс"],
+    ["{LEENA_I}", "Линой"],
   ],
-  entries: ["lang/en.csv"],
+  entries: [
+    {
+      path: "lang/en.csv",
+      enc: "utf-8",
+    },
+    {
+      path: "lang/sysmes.txt",
+      enc: "utf16le",
+    },
+  ],
 };
