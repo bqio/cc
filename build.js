@@ -4,19 +4,14 @@ const config = require("./config");
 const fs = require("fs");
 const path = require("path");
 
-async function createZip() {
-  try {
-    const zip = new AdmZip();
-    const out = "lang.zip";
-    zip.addLocalFolder("./build");
-    zip.writeZip(`${process.env.GAME_PATH}data\\${out}`);
-    console.log(`Created ${out} successfully`);
-  } catch (error) {
-    console.log(error);
-  }
+function createZip() {
+  const zip = new AdmZip();
+  const out = "lang.zip";
+  zip.addLocalFolder("./build");
+  zip.writeZip(`${process.env.GAME_PATH}data\\${out}`);
 }
 
-async function applyGlossary() {
+function applyGlossary() {
   for (let entry of config.entries) {
     let data = fs.readFileSync(entry, { encoding: "utf8" });
     for (let g of config.glossary) {
@@ -30,3 +25,4 @@ async function applyGlossary() {
 
 applyGlossary();
 createZip();
+console.log(`Successfully`);

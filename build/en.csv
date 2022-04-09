@@ -783,12 +783,12 @@
 21	49	{ERROR}
 21	50	{ERROR}
 21	51	{ERROR}
-22	0	{LEENA%}:\nWhat is it,\n{SERGE%}?\nYou look troubled.{bpage}\nЭто здесь.\nНазад дороги нет!{mend}
-22	1	{PARTY2%}:\nЧто случилось, {SERGE%}?\nТы выглядишь взволнованным.{bpage}\nЭто здесь.\nНазад дороги нет!{mend}
-22	2	{KID%}:\nОй!\nВперед, {SERGE%}, {PARTY2%}!{mend}
-22	3	{KID%}:\nТолько дождись, Lynx!\nДень расплаты настал!!!{bpage}\nНачинай молиться!{wait(20)}\nХотя... тебя это не спасёт!!!{mend}
-22	4	{KID%}:\nХех-хех-хех......{wait(60)}\nХА-ХА-ХА-ХА-ХААА!{mend}
-22	5	{LEENA%}:\n{SERGE%}!{mend}
+22	0	Лина:\nЧто случилось, {SERGE%}?\nТы выглядишь взволнованным.{bpage}\nМы пришли.\nНазад дороги нет!{mend}
+22	1	{PARTY2%}:\nЧто случилось, {SERGE%}?\nТы выглядишь взволнованным.{bpage}\nМы пришли.\nНазад дороги нет!{mend}
+22	2	Кид:\nОй!\nВперед, {SERGE%}, {PARTY2%}!{mend}
+22	3	Кид:\nТолько дождись, Линкс!\nНастал час расплаты!!!{bpage}\nНачинай молиться!{wait(20)}\nХотя... тебя это не спасёт!!!{mend}
+22	4	Кид:\nХех-хех-хех......{wait(60)}\nХА-ХА-ХА-ХА-ХААА!{mend}
+22	5	Лина:\n{SERGE%}!{mend}
 22	6	{PARTY2%}:\n{SERGE%}!{mend}
 22	7	{ERROR}
 22	8	{ERROR}
@@ -947,7 +947,7 @@
 24	50	{ERROR}
 24	51	{ERROR}
 25	0	{PARTY2%}:\nЧто это за штука, похожая\nна кристалл?{mend}
-25	1	{KID%}:\nКакой-то переключатель?{wait(10)}\nГадство!\nТак близко и так далеко...{mend}
+25	1	Кид:\nКакой-то переключатель?{wait(10)}\nГадство!\nТак близко и так далеко...{mend}
 25	2	{ERROR}
 25	3	{ERROR}
 25	4	{ERROR}
@@ -1000,13 +1000,13 @@
 25	51	{ERROR}
 25	52	{ERROR}
 25	53	{ERROR}
-26	0	{KID%}:\nОй!\nЧто, чёрт возьми, сейчас произошло?{mend}
-26	1	{KID%}:\nКак мы сюда попали?{mend}
-26	2	{KID%}:\nВоооооу!{wait(15)} Гадство!!!{wait(15)}\nМы так высоко!{wait(10)}\nЭта штука парит!?{mend}
+26	0	Кид:\nОй!\nЧто, чёрт возьми, сейчас произошло?{mend}
+26	1	Кид:\nКак мы сюда попали?{mend}
+26	2	Кид:\nВоооооу!{wait(15)} Гадство!!!{wait(15)}\nМы так высоко!{wait(10)}\nЭта штука парит!?{mend}
 26	3	{PARTY2%}:\nВам тоже показалось, что ваше тело только что прошло сквозь пол?{mend}
-26	4	{KID%}:\nЭто какая-то крепость.{bpage}\nТак ведь, {SERGE%}?{mend}
+26	4	Кид:\nЭто какая-то крепость.{bpage}\nТак ведь, {SERGE%}?{mend}
 26	5	!?{mend}
-26	6	{KID%}:\nТы в порядке, приятель?\nТы ведешь себя очень странно.{bpage}\nМы не знаем, где сейчас находимся,\nтак что держи себя в руках,\nхорошо?{mend}
+26	6	Кид:\nТы в порядке, приятель?\nТы ведёшь себя очень странно.{bpage}\nМы не знаем, где сейчас находимся,\nтак что держи себя в руках,\nхорошо?{mend}
 26	7	{ERROR}
 26	8	{ERROR}
 26	9	{ERROR}
@@ -1341,14 +1341,14 @@
 29	29	Marge:\nI wonder where\nmy son wandered\noff to?{bpage}\nWell, I guess\nboys will be\nboys...{mend}
 29	30	Marge:\nOh my.{wait(30)}\nA demi-human\nin our village?{bpage}\nI strongly advise you\nto be on your guard.{bpage}\nThe village folks\ndon't take too kindly\nto demi-humans.{mend}
 29	31	Marge:\nThen get your priorities\nstraight, and let her\nknow how you feel.{bpage}\nUnderstand?{wait(20)}\nTomorrow is a new\nday. Who knows\nwhat will happen...{mend}
-29	32	Marge:\nHurry along now and\ngo apologize to {LEENA%}.{mend}
-29	33	Marge:\nWeren't you supposed to\nmeet {LEENA%} this morning?{bpage}\nHurry along now and\ngo apologize to her.{bpage}\nDon't expect me to stick up\nfor you if {LEENA%} ever\ndecides to blow you off.{mend}
-29	34	Marge:\nYou wouldn't want that, right?\n　　　She'd never do that!\n　　　That would be bad...{mend}
-29	35	Marge:\nMy, aren't we confident?{wait(20)}\nWell, I hope you can\nkeep your nerve!{mend}
-29	36	Marge:\nThen get your priorities\nstraight, and let her\nknow how you feel.{bpage}\nUnderstand?{wait(20)}\nTomorrow is a new\nday. Who knows\nwhat will happen...{mend}
+29	32	Мардж:\nПоспеши и не забудь извиниться перед Линой.{mend}
+29	33	Мардж:\nРазве Лина тебя не ждёт?{bpage}\nНу-ка беги найди её и извинись.{bpage}\nДаже и не думай, что я тебя прикрою,\nесли она захочет устроить тебе взбучку.{mend}
+29	34	Мардж:\nТы бы не хотел этого, да?\n　　　Она не такая!\n　　　Да, не хотел бы...{mend}
+29	35	Мардж:\nО, какие мы уверенные!{wait(20)}\nНадеюсь, ты не ошибаешься.{mend}
+29	36	Мардж:\nТогда соберись и скажи ей о своих чувствах.{bpage}\nЛадно?{wait(20)}\nКто знает, что ждёт нас завтра...{mend}
 29	37	Мардж:\nДоброе утро, {SERGE%}.{bpage}\nТы наконец-то проснулся.{wait(20)}\nУже полдень.{mend}
-29	38	Marge:\nКстати, разве ты не планировал\nвстретиться с {LEENA%} этим утром?{bpage}\n{LEENA%} приходила утром в надежде, что\nты уже не спишь.{bpage}\nОднако застала тебя, юноша, спящим сном младенца.{bpage}\nYou shouldn't break\npromises like that.{wait(20)}\nGirls can be pretty scary\nif you make them angry!{mend}
-29	39	Marge:\nYou want to give\nthat to your mother?{bpage}\nI think there's someone\nelse out there who would\nappreciate it even more.{mend}
+29	38	Мардж:\nКстати, разве ты не планировал\nвстретиться с Линой этим утром?{bpage}\nОна надеялась с тобой встретиться.\nОднако ты, юноша, спал как убитый.{bpage}\nТы не должен нарушать такие обещания.{wait(20)}\nДевушек лучше не злить!{mend}
+29	39	Мардж:\nYou want to give\nthat to your mother?{bpage}\nI think there's someone\nelse out there who would\nappreciate it even more.{mend}
 29	40	{RADIUS%}:\nHalt!{wait(20)}\nWe haven't\nsettled anything!{mend}
 29	41	{RADIUS%}:\nHalt!{wait(20)}\nWe haven't\nsettled anything!{mend}
 29	42	{ERROR}
@@ -1469,7 +1469,7 @@
 31	4	{PARTY0%} received\n{color(4)}Time Egg{color(0)}!{mend}
 31	5	Вы хотите отдохнуть?{wait(20)}\n　　　Конечно!\n　　　Не сейчас.{mend}
 31	6	{PARTY0%} взял свои плохо спрятанные\nсбережения.{mend}
-31	7	Получено:\n200З!{mend}
+31	7	Получено:\n{color(3)}200{color(0)}З{mend}
 31	8	{PARTY0%} взял {color(3)}Таблетку{color(0)} из горшка.{mend}
 31	9	{ERROR}
 31	10	{ERROR}
