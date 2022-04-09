@@ -1,0 +1,256 @@
+﻿0	0	Lavori in corso!{mend}
+16	0	SSSQUWAAARRRKKK!{wend(60)}
+16	1	SSSQUWAAARRRKKK!{wend(60)}
+17	0	SSSQUWAAARRRKKK!{wend(60)}
+17	1	SSSQUWAAARRRKKK!{wend(60)}
+31	0	Grrr! Fuuuriaaa!{wend(60)}
+31	1	Grrr! Fuuuriaaa!{wend(60)}
+31	2	Grrr! Fuuuriaaa!{wend(60)}
+32	0	Grrr! Fuuuriaaa!{wend(60)}
+32	1	Grrr! Fuuuriaaa!{wend(60)}
+32	2	Grrr! Fuuuriaaa!{wend(60)}
+33	0	Grrr! Fuuuriaaa!{wend(60)}
+33	1	Grrr! Fuuuriaaa!{wend(60)}
+33	2	Grrr! Fuuuriaaa!{wend(60)}
+150	0	Rrriiiiippppp!\nRrriiiiippppp!{wend(60)}
+150	1	Rrriiiiippppp!\nRrriiiiippppp!{wend(60)}
+151	0	Rrriiiiippppp!\nRrriiiiippppp!{wend(60)}
+151	1	Rrriiiiippppp!\nRrriiiiippppp!{wend(60)}
+152	0	Rrriiiiippppp!\nRrriiiiippppp!{wend(60)}
+152	1	Rrriiiiippppp!\nRrriiiiippppp!{wend(60)}
+153	0	Rrriiiiippppp!\nRrriiiiippppp!{wend(60)}
+153	1	Rrriiiiippppp!\nRrriiiiippppp!{wend(60)}
+153	2	Rrriiiiippppp!\nRrriiiiippppp!{wend(60)}
+153	3	Rrriiiiippppp!\nRrriiiiippppp!{wend(60)}
+187	0	Grrr! Fuuuriaaa!{wend(60)}
+187	1	Grrr! Fuuuriaaa!{wend(60)}
+187	2	Grrr! Fuuuriaaa!{wend(60)}
+188	0	Grrr! Fuuuriaaa!{wend(60)}
+188	1	Grrr! Fuuuriaaa!{wend(60)}
+188	2	Grrr! Fuuuriaaa!{wend(60)}
+189	0	Grrr! Fuuuriaaa!{wend(60)}
+189	1	Grrr! Fuuuriaaa!{wend(60)}
+189	2	Grrr! Fuuuriaaa!{wend(60)}
+241	0	Numero 1...{wend(40)}
+241	1	Numero 2...{wend(40)}
+241	2	Numero 3...{wend(40)}
+241	3	Numero 4...{wend(40)}
+241	4	Piacere di conoscervi.{wend(40)}
+241	5	Ciao, sono Amanda e ho 14 anni!{wend(120)}
+241	6	Ciao, mi chiamo Renata, \nsono dell'Ariete e ho 25 anni.{wend(120)}
+241	7	Ciao, sono Mimì. \nSono del Toro e ho 16 anni.{wend(120)}
+241	8	Ciao, mi chiamo Shannon. \nSono dei Gemelli e ho 14 anni.{wend(120)}
+241	9	Ciao! Mi chiamo Gemma, \nsono del Cancro e ho 10 anni!{wend(120)}
+241	10	Mi chiamo Anna, \nho 14 anni e il mio segno \nzodiacale è Leone!{wend(120)}
+241	11	Ciao, sono Mariastella. \nSono della Vergine e ho 15 anni.{wend(120)}
+241	12	Mi chiamo Tina! \nSono della Bilancia e ho 16 anni!{wend(120)}
+241	13	Hola, soy Arianna.\nTengo 17 años y soy dello Scorpione.{wend(120)}
+241	14	Ciao! Sono Gianna, \nho 25 anni e sono del Sagittario.{wend(120)}
+241	15	Mi chiamo Jolanda, ho 14 anni e sono\ndel Capricorno.{wend(120)}
+241	16	Ciao! Sono Valentina, dell'Acquario.\nHo 15 anni.{wend(120)}
+241	17	Ciao, sono Palmira dei Pesci! \nHo 16 anni e mi piacciono i ragazzi alti!{wend(120)}
+241	18	Ciao, mi chiamo Luciana... \ne sono un po' strana!{wait(40)} \nHo 17 anni, se la cosa v'interessa!{wend(120)}
+241	19	Sono Carolina e ho 10 anni. \nDa grande voglio diventare Miss Universo.{wend(120)}
+241	20	Sono Cinzia, ho 15 anni e sono vegetariana.{wend(120)}
+241	21	Mi chiamo Richard, ho 29 anni e sono\nqui per protestare contro il sessismo\ndei concorsi di bellezza!{wend(120)}
+241	22	Il mio hobby è {color(1)}Gas velenoso{color(0)}!{wend(120)}
+241	23	Il mio luogo preferito è il {color(1)}Vulcano{color(0)}!{wend(120)}
+241	24	Il mio sogno è donare a tutti tanta {color(1)}Energira{color(0)}!{wend(120)}
+241	25	La mia passione è il {color(1)}Vampirismo{color(0)}!{wend(120)}
+241	26	Nessuno batte il mio {color(1)}Tornado{color(0)}!{wend(120)}
+241	27	Il mio obiettivo per il futuro è una \n{color(1)}Palla di fuoco{color(0)}!{wend(120)}
+241	28	La cosa più importante che ho \nfatto è un {color(1)}Buco nero{color(0)}!{wend(120)}
+241	29	Il mio sport preferito è {color(1)}Acquaraggio{color(0)}!{wend(120)}
+241	30	Amo cantare sotto la {color(1)}Pioggia nera{color(0)}!{wend(120)}
+241	31	La mia specialità è il {color(1)}Recupero multiplo{color(0)}!{wend(120)}
+386	0	Radius:\nOh oh oh... Avanti, {playwork(0)}, fatti sotto!{mend}
+386	1	Radius:\nCominciamo con alcune \nnozioni basilari sull'attacco. \nPrestami bene attenzione, ora...{bpage}\nPenso tu sappia già che i tre livelli d'attacco, \ncioè Leggero (1), Medio (2) e Forte (3), \nposseggono ciascuno valori diversi \ndi PREC. (Precisione), giusto?{bpage}\nOgni volta che colpisci un avversario,\nquesti valori salgono, aumentando le probabilità \nche l'attacco successivo vada a segno!{bpage}\nUna strategia valida sarebbe partire con \ncolpi Leggeri (1), che hanno le maggiori\nprobabilità di riuscita, per poi procedere \ncon i colpi Medi (2) e Forti (3).{bpage}\nPerciò, anziché attaccare a casaccio, \nti conviene far salire il valore della PREC. \nSe i tuoi attacchi Forti (3) non vanno a segno, \nnon farai che sprecare le tue energie!{mend}
+386	2	Leggero (1)!{wend(60)}
+386	3	Medio (2)!{wend(60)}
+386	4	Forte (3)!{wend(60)}
+386	5	Radius:\nOh oh oh! Hai ancora molta strada da fare! \nNon devi fidarti così ciecamente della tua PREC.!{bpage}\nFinché non l'avrai al 100%, correrai sempre \nil rischio che i tuoi colpi vadano \ncontinuamente a vuoto!{bpage}\nA volte, trovare il coraggio di cominciare subito \ncon attacchi Medi (2) e Forti (3) dà i suoi frutti!{mend}
+386	6	Forte (3)!{wend(60)}
+386	7	Forte (3)!{wend(60)}
+386	8	Radius:\nPassiamo ora a come usare gli Elementi.{bpage}\nQuando si utilizza un Elemento, il colore del \nsuo attributo rimane in campo sotto forma di\n"Effetto di campo"!{bpage}\nOgni volta che si utilizzano consecutivamente\nElementi dello stesso colore, l'efficacia di \nquel gruppo di Elementi aumenta!{bpage}\nEcco, ora ti faccio vedere...{wait(5)} \nRiempiamo l'indicatore dell'Effetto \ndi campo con il colore blu! \nProva a usare un Elemento Blu dopo di me...{mend}
+386	9	Radius:\nVedi? Ora il campo è completamente blu. \nTutti gli Elementi Blu che userai avranno di \nsicuro molto effetto!{mend}
+386	10	Ecco, prova questo...{mend}
+386	11	Radius:\nEhi, cosa stai facendo? \nSbrigati a rendere blu tutti gli \nattributi dell'Effetto di campo!{bpage}\nPer caso non sai come usare gli Elementi? \nSe è così, ora ti spiego, ma non distrarti perché \nci vorrà un po'!{mend}
+386	12	Radius:\nPer cominciare, devi scegliere "Attacco" per \ncausare dei danni fisici all'avversario.{bpage}\nGli attacchi Leggeri (1), Medi (2) e Forti (3) \naggiungono ciascuno 1, 2 o 3 punti al livello \ndi Potenza Elementale.{bpage}\nIl livello attuale è rappresentato dal numero \nche appare sopra al simbolo "Liv." subito \nsotto al tuo nome.{bpage}\nOh, quasi dimenticavo: non accumulerai \npotenza se il tuo colpo non va a segno.{bpage}\nQuindi fa' attenzione, perché non puoi \npermetterti di mancare il bersaglio!{mend}
+386	13	Radius:\nLa potenza accumulata serve proprio \na usare gli Elementi!{bpage}\nUna volta che hai della potenza a disposizione, \npotrai scegliere l'opzione "Elementi" dal menu \ndella battaglia.{bpage}\nHai visto che quando la selezioni, \nsullo schermo appaiono delle \nplacche rettangolari grigie?{bpage}\nSi tratta degli Elementi che tieni posizionati \nin quel momento sulla Griglia.{mend}
+386	14	Radius:\nAllora... Perché non provi a usare \nuno di quegli Elementi Blu che hai là, giovanotto?{bpage}\nTranquillo! Non scompariranno quando li usi!\nSemplicemente, non potrai servirtene \ndi nuovo per il resto della battaglia, tutto qui!{bpage}\nQuando entrerai in un'altra battaglia, \npotrai riutilizzarli, quindi non serve \nche li tenga per te ora.{bpage}\nDevo comunque raccomandarti di riflettere \nbene sul momento giusto per usare un dato \nElemento.{bpage}\nIn caso contrario, non riuscirai mai a battere \nalcuni dei nemici più ostici che inevitabilmente\nincontrerai! Devi elaborare la giusta strategia,\nfigliolo!{mend}
+386	15	Radius:\nOh, ma aspetta un momento... \nStavo dimenticando una cosa importante.\nDev'essere colpa dell'età...{bpage}\nAlcuni Elementi svaniscono nel nulla ogni \nvolta che ne usi uno. \nUn esempio è l'Elemento "αPastiglia"!{bpage}\nSi chiamano "Elementi consumabili" e sono\ncontraddistinti dal simbolo "α" davanti al nome. \nQuesti non si rigenerano dopo ogni scontro.{bpage}\nTuttavia, il vantaggio degli Elementi consumabili \nè che ne puoi posizionare fino a cinque nello \nstesso spazio della Griglia degli Elementi.{bpage}\nIn questo modo potrai usarne più di uno nello \nstesso scontro, a differenza degli Elementi \nbase che normalmente sono utilizzabili una \nsola volta per battaglia.{bpage}\nEcco perché gli Elementi consumabili hanno \nanche un numero, per esempio "x5", dopo il nome.\nÈ la quantità di tale Elemento che hai attribuito \na quella posizione della Griglia e che possiedi \nlà al momento.{bpage}\nQuesto numero diminuirà \nogni volta che usi l'Elemento. \nTuttavia, dopo ogni scontro potrai acquistarne \ndegli altri da usare la volta successiva.{mend}
+386	16	Radius:\nMa torniamo all'uso pratico degli Elementi...{bpage}\nDi sicuro ti accorgerai che, ogni volta che usi un\nElemento, il tuo livello di Potenza Elementale\n(mostrato dal numero dopo "Liv.") scende.{bpage}\nIl principio è quello di una \nsemplicissima sottrazione.{bpage}\nMettiamo per esempio che ti trovi al Liv. 3 e che\ndecida di usare un Elemento "αPastiglia" \nsituato al livello 1 della tua Griglia degli Elementi.{bpage}\nIn questo caso, 3 meno 1 fa 2, perciò\nil tuo livello di Potenza Elementale \ndiventerà 2.{bpage}\nPuoi usare gli Elementi quando vuoi, \npurché il tuo Vigore sia 1.0 o più.{bpage}\nPerciò, in questo caso potrai ancora usare \nElementi con un livello di Potenza fino a \n2 subito dopo l'Elemento "αPastiglia"!{mend}
+386	17	Radius:\nPiù o meno ti è chiaro, figliolo? \nHai capito adesso quant'è importante \nelaborare una buona tattica?{bpage}\nPotresti decidere di accumulare un po' di Potenza,\nusare un Elemento, accumularne ancora un \npo' e usare un altro Elemento... e ripetere \npiù e più volte. E andrebbe bene!{bpage}\nOppure, potresti portare la Potenza Elementale \nal suo livello massimo e scatenare una tempesta \ndi Elementi, usandoli uno dopo l'altro. \nAnche questo va benissimo!{bpage}\nAttua qualunque strategia riterrai \nnecessaria per battere i nemici che incontrerai. \nDipende tutto da te.{bpage}\nTroverai orde di nemici che non riuscirai mai \na sconfiggere affidandoti ai soli attacchi fisici. \nDovrai imparare a padroneggiare gli \nElementi per cavartela!{bpage}\nBene, figliolo, scusami se mi sono dilungato. \nLa mia spiegazione sugli Elementi è \nufficialmente terminata. \nChe ne dici di provare a usarne uno subito?{mend}
+386	18	Radius:\nBeh? Non hai ancora trasformato tutti \ngli attributi dell'Effetto di campo in blu?{bpage}\nVuoi lasciar fare tutto a un vecchio come me?\nFannullone! Ecco qua!{mend}
+386	19	Radius:\nOh oh oh! Cos'è, ho esagerato? \nMi spiace, figliolo!{bpage}\nQuando il blu domina gli attributi \ndell'Effetto di campo, gli Elementi del colore\nopposto, il rosso, ne risultano indeboliti.{bpage}\nCerca dunque di trovare il filo conduttore negli\nattacchi del nemico e difenditi colmando il \ncampo col colore opposto a quello che lui usa.{bpage}\nQuesta strategia per gli Elementi\nti tornerà senz'altro utile, quindi\nfanne buon uso, figliolo!{mend}
+386	20	Radius:\nOh oh oh... Che te ne è parso? \nHai imparato qualcosa, giovanotto?{bpage}\nComunque sia, credo sia ora di \nterminare la lezione. \nEcco qua... Hah!{mend}
+386	21	Radius:\nUh? Sei molto più forte dell'ultima \nvolta che abbiamo combattuto!{bpage}\nIn tal caso, cosa ne pensi di questo? \nOra t'insegno a rispettare gli anziani... Hah!{mend}
+386	22	Radius:\nOh oh ohi! Certo che con l'età \nci si stanca facilmente!{bpage}\nComunque sia, complimenti!\nSei davvero molto abile...{wait(30)} \nTutto merito dei miei insegnamenti!{mend}
+386	23	Radius:\nOh oh ohi! Certo che con l'età \nci si stanca facilmente!{bpage}\nComunque sia, complimenti!\nSei davvero molto abile...{wait(30)} \nTutto merito dei miei insegnamenti!{mend}
+390	0	Sal:\nSignore! Il suo attributo cromatico \ninnatamente INNATO è...\n        BIANCO!        {mend}
+390	1	Karsh:\nBene, capito!{bpage}\nPresto allora, attaccalo con un Elemento\ndell'attributo cromatico opposto, ovvero...\n        NERO!        {mend}
+390	2	Sal:\nOh, sono desolatamente desolato, \nma temo di non averne nessuno, signore!{mend}
+390	3	Karsh:\nRazza di mentecatto! Bisogna sempre portare\nElementi di tutti i colori!{bpage}\nE tu là, invece...?{mend}
+390	4	Pep:\nSono condito di dovervi dire che purtroppo \nnon ne ho nessuno anch'io, signore!{bpage}\nPurtroppo, sir Karsh, dovremo chiedervi di\nmostrarci come si fa...{mend}
+390	5	Karsh:\nCosa?! Inutili idioti!{bpage}\nEhmmm...{bpage}\nI veri uomini non hanno bisogno della magia \nquando possono farsi strada a pugni!{mend}
+391	0	SSSQUWAAARRRKKK!{wend(60)}
+392	0	SSSQUWAAARRRKKK!{wend(60)}
+393	0	Sal:\nStavolta mi sono sicuramente assicurato \ndi portare con me un Elemento NERO, Pep!{mend}
+393	1	Pep:\nBen fatto.{wait(5)} Allora, sbrigati\na condirglielo addosso!{mend}
+393	2	Sal:\nCertamente certo, Pep...{mend}
+393	3	Sal:\nOh, poveramente povero me! Eh...?{mend}
+393	4	Pep:\nQuello che hai appena usato non era un\nElemento Nero DI ATTACCO!{bpage}\nEra un Elemento Nero che rende il nemico\nPIÙ SUSCETTIBILE agli attacchi dell'attributo\ndel colore opposto, ovvero BIANCO,\no sbaglio?!{mend}
+393	5	Sal:\nTemo tu abbia ragionevolmente ragione...{wait(5)}\nAccidenti, che guaio!{mend}
+393	6	Pep:\nHai portato un Elemento Bianco DI\nATTACCO, vero?!{bpage}\nSe non l'hai fatto, sei ancora più stupido di\nquanto credessi!{mend}
+393	7	Sal:\nEhmmm...{bpage}\nOh, che cosa terribilmente terribile! \nTemo di no, Pep...{mend}
+394	0	Ahia... Qui si mette male!{wend(60)}
+396	0	Pep:\nDi nuovo loro... Quella banda di ossi duri!{bpage}\nHai detto di aver condito un \nElemento fantastico con te, giusto?{mend}
+396	1	Sal:\nProprio così, Pep, ho qui un Elemento \nmeravigliosamente meraviglioso.{bpage}\nÈ un nuovissimo... "Elemento di evocazione"!{mend}
+396	2	Pep:\nSalatissimo! Sembra decisamente fantastico.{bpage}\nBene, allora, sbrigati a condirlo su questi\npresuntuosetti!{mend}
+396	3	Sal:\nCertamente certo! Eccomi, Pep...{mend}
+396	4	Pep:\nUh? Non è successo niente!{bpage}\nChissà cos'è che non è andato...{mend}
+396	5	Sal:\nAh... Ho dimentichevolmente dimenticato!{bpage}\nGli Elementi di evocazione si possono usare \nsolo quando gli attributi dell'Effetto di campo \nsono tutti dello stesso colore!{mend}
+396	6	Pep:\nMa tu hai il cervello in salsa!{bpage}\nE va bene allora... Sbrigati a far diventare \ntutti gli attributi dell'Effetto di campo dello\nstesso colore e riprova!{mend}
+396	7	Sal:\nMa Pep...{bpage}\nNon si può usare lo stesso Elemento \ndue volte nello stesso scontro! \nPersino la persona più stupidamente \nstupida del mondo lo sa!{mend}
+396	8	Pep:\n... ... ...{bpage}\nMa santissimi numi, Sal!\nRiuscirai mai a imbroccarne una?!{mend}
+396	9	ZOAH:\n... ... ...{bpage}\nALLORA, BUFFONI, AVETE FINITO \nCON LA VOSTRA PAGLIACCIATA?{mend}
+402	0	Pep:\nAh, che faccia tosta questa gente! \nCredere di poter entrare dal cancello\nprincipale!{bpage}\nMa stavolta li condiremo per le feste\ncome meritano!{mend}
+402	1	Sal:\nSono d'accordevolmente d'accordo!{mend}
+402	2	Pep:\nE abbiamo anche portato rinforzi!{bpage}\nÈ forte, cattivo e molto, molto grosso!{bpage}\nAvanti, fagli vedere cosa sai fare!{bpage}\nHo detto...{wait(90)} Fagli vedere cosa sai\nfare!!!{wait(90)} Uhm...{bpage}\nYuuuhuuu!{wait(60)} Ehi, Tomodooor!{wait(60)} \nVieni fuori, su, ovunque tu sia!{mend}
+402	3	Tomodor:\nT-T-TOMODOOORRR!!!{mend}
+402	4	Pep:\nOoohhh! Ecco, che vi dicevo? \nOra sì che siamo forti!{bpage}\nStavolta vi batteremo di sicuro!!!{mend}
+402	5	Sal:\nCom'è fortemente forte!{mend}
+402	6	Tomodor:\nS-S-SUGOOO!{wait(30)}\n(Sembra felice...{wait(60)} O forse no?){mend}
+402	7	Pep:\nSì, sì, così!{bpage}\nFacci vedere di cosa sei capace!{mend}
+402	8	Sal:\nVai, vai, Tomodor!{bpage}\nFagli assaggiare il tuo speciale \nColpo Strizzasugo!{mend}
+402	9	Tomodor:\nS-S-SUGOOO!{wait(30)}\n(Sembra elettrizzato...{wait(60)} O forse no?){mend}
+402	10	Pep:\nEhi, ma cosa diamine fai?! \nPerché li hai guariti?!{mend}
+402	11	Sal:\nBeh...{bpage}\nHo pensato che non avremmo visto \nquanto sa essere ferocemente feroce \nTomodor se erano già tutti svenuti!{mend}
+402	12	Pep:\n...{bpage}\nMa hai capito cosa stiamo cercando di fare?!{bpage}\nTi rendi conto che questo è l'esatto opposto?!{bpage}\nRiprovaci e ti riduco in pepe, Sal!{mend}
+402	13	Tomodor:\nS-S-SUGOOO!{wait(30)}\n(Sembra arrabbiato...{wait(60)} O forse no?){mend}
+402	14	Pep:\nQui si mette male! Rischiamo di essere\nconditi di brutto...{bpage}\nEhi, Tomodor! Perché non fai qualcosa?{mend}
+402	15	Tomodor:\nS-S-SUGOOO!{mend}
+402	16	Pep:\nUh?{bpage}\nEeeeeh?! Ma cosa fai?{wend(60)}
+406	0	Wiiih!{wend(60)}
+406	1	Bubbubbub!{wend(60)}
+406	2	Wiiiiiiiiih!{wend(60)}
+406	3	Wiiih!{wend(60)}
+406	4	Bubbubbub!{wend(60)}
+406	5	Wiiiiiiiiih!{wend(60)}
+407	0	No, ma complimenti!{wait(30)} \nChe ne pensate di questo, allora?{wend(60)}
+407	1	Brutti...!{wait(30)} \nNe ho abbastanza!{wend(60)}
+407	2	Ahiaaa!{wait(30)} \nNon ce la posso fare!{wend(60)}
+407	3	Prendi questo!{wend(30)}
+407	4	E quest'altro!{wend(30)}
+407	5	E prendi anche questo!{wend(30)}
+407	6	E quest'altro!{wend(30)}
+409	0	I Forzieri:\nBene, bene, bene... Chi scegli? \nHai un solo tentativo a disposizione!{mend}
+409	1	I Forzieri:\nPeccato, peccato! HAI SBAGLIATO!\nBABBEO!{wend(120)}
+409	2	I Forzieri:\nHai sprecato la tua occasione! \nDovevi scegliere uno di noi! \nE noi non premiamo gli imbroglioni!{wend(120)}
+410	0	I Forzieri:\nBene, bene, bene... Chi scegli? \nHai un solo tentativo a disposizione!{mend}
+410	1	I Forzieri:\nPeccato, peccato! HAI SBAGLIATO!\nBABBEO!{wend(120)}
+414	0	Caposquadra Ehi-ho:\nChiamo rinforzi! Ehi-hooo!{wend(60)}
+414	1	Caposquadra Ehi-ho:\nEhi-ahiahiahi-ho!{wend(60)}
+414	2	Caposquadra Ehi-ho:\nOh... Ehi-cacchi-ho!{wend(60)}
+414	3	Caposquadra Ehi-ho:\nCarica Squadra Ehi-hooo!{wend(60)}
+416	0	Beeba:\nCi pensa Beeba!{wait(30)} \nBeeba chiama amico!{wend(60)}
+416	1	Beeba:\nBeeba chiama altro amico!{wend(60)}
+416	2	Beeba:\nBeeba chiama ancora altro amico!{wend(60)}
+416	3	Beeba:\nBeeba Beeba arreeba arreeba!{wend(60)}
+416	4	Beeba:\nAh!{wait(10)} Non vengono amici...?{wait(60)} \nBeeba non più amici...{wait(60)} \nBeeba solo...{wend(60)}
+419	0	Harle:\nEnfin... Fai con tutta calma.{mend}
+419	1	Harle:\nSacre bleu! Je ho perso!{mend}
+422	0	Fargo:\nFuoco alle polveri e fatevi sotto!{mend}
+422	1	Fargo:\nFa un po' male...{mend}
+427	0	Vi piace soffrire?{wend(60)}
+427	1	Prendete questo!{wend(60)}
+427	2	Yaaah!{wend(60)}
+427	3	Morite, maledetti!{wend(60)}
+427	4	HAH!{wend(60)}
+427	5	HWAAAH!{wend(60)}
+427	6	GWOH!{wend(60)}
+427	7	Vi odio!{wend(60)}
+427	8	Vi detesto!{wend(60)}
+427	9	Dovete morire!{wend(60)}
+427	10	Non vi sopporto!{wend(60)}
+427	11	Avanti, su, morite!{wend(60)}
+427	12	Aaah, uffa!{wend(60)}
+432	0	Generale Viper:\nAnzitutto, miei giovani amici, vi metterò alla prova.\nForza, fatevi avanti!{mend}
+432	1	Generale Viper:\nAh ah ah!{mend}
+434	0	Radius:\nIn guardia!{mend}
+434	1	Radius:\nSono sconfitto!{mend}
+435	0	SSSQUWAAARRRKKK!{wend(60)}
+436	0	SSSQUWAAARRRKKK!{wend(60)}
+450	0	Ariesfinge:\nVerus est... Avete indovinato.{wend(120)}
+450	1	Ariesfinge:\nFalsus est... Avete sbagliato.{wend(120)}
+450	2	Ariesfinge:\nNigra in candida vertere.\nPer cominciare, troppo non vi voglio\narrovellare!{bpage}\nDi una tela lo stato intonso...\nDi un astro il calore più intenso...\nDi una nuvola la soffice purezza...{bpage}\nRispondete al mio quesito!\nA cosa mi son riferito?{mend}
+450	3	Ariesfinge:\nDimidium facti qui bene coepit habet.\nChi ben comincia è a metà dell'opera.\nProseguiamo, ché il tedio mio ancora\nnon si modera.{bpage}\nCome il cuore dell'uovo...\nCome il grano nei campi...\nCome la sabbia sotto il sole...{bpage}\nRispondi al mio quesito!\nA cosa mi son riferito?{mend}
+450	4	Ariesfinge:\nE ora, il mio terzo quesito!\nBene rem gere!{bpage}\nVela il mio sguardo quando l'ira mi coglie...\nChi vuol adularmi stende un tappeto ai miei\npiedi... e tal quale in viso mi rende.{bpage}\nRispondete al mio quesito!\nA cosa mi son riferito?{mend}
+450	5	Ariesfinge:\nVedo che di comprendonio non difettate!\nE ora via, sul quarto quesito ponderate!{bpage}\nL'ama chi rispetta il pianeta...\nLe immense distese d'alberi...\nE il vento che ne scompiglia le chiome!{bpage}\nRispondete al mio quesito!\nA cosa mi son riferito?{mend}
+450	6	Ariesfinge:\nVelim tibi ita persuadeas.\nSolo due ancora: non mandate tutto\nin malora!{bpage}\nMare et caelum! Un guizzo di malinconia...\nE il sangue dell'aristocrazia!{bpage}\nRispondete al mio quesito!\nA cosa mi son riferito?{mend}
+450	7	Ariesfinge:\nUsus est magister optimus.\nTosto trovate la risposta, ché dovrebbe\nessere tutt'altro che nascosta...{bpage}\nSenza la luna il cielo...\nSenza confini il vuoto...\nSenz'ossa la bandiera pirata...{bpage}\nRispondete al mio quesito!\nA cosa mi son riferito?{mend}
+450	8	Mostro misterioso:\nQuid me vis? Son l'Ariesfinge.\nQual vento nelle mie terre vi spinge?{bpage}\nSe siete giunti a portar guai,\ndesidererete di non essere venuti mai!\nAffrontate il mio cimento\ne vedrete che non mento!{bpage}\nNessun visita quest'isola da un'eternità,\naccrescendo il tedio dell'Ariesfinge\nfino alla mostruosità!{bpage}\nOrsù, cercate di tener testa al mio intelletto,\nche sei enigmi ha generato nel cercar\ndiletto!{bpage}\nRispondete a questo...{mend}
+450	9	Ariesfinge:\nQuid est? Quidnam tu hominis es?{bpage}\nCome? Il mio quesito vi lascia ammutoliti? \nMale, male factum!{bpage}\nNon mi siete di utilità alcuna! \nAndate, andate a cercare altrove la fortuna! \nAbi in malam rem!{mend}
+450	10	Ariesfinge:\nQuid ais? Mira narras!{bpage}\nMi stupite! Mai avrei creduto che degli \numani potessero sconfiggere l'Ariesfinge\ncon le nude mani!{bpage}\nIl vostro modo di vivere mi sorprende, \naffrontar gli ostacoli non con la mente, \nma con forze tremende{wait(30)}...{bpage}\nMa vi avverto, il vostro cammino\nsarà arduo di certo!{mend}
+450	11	Vale!{mend}
+450	12	Ariesfinge:\nSat prata biberunt! \nGratulor felicitati tuae!{bpage}\nComplimenti! \nAvete risolto ogni mio enigma!{bpage}\nIl vostro intelletto eguaglia la forza\nnel vostro braccio!{mend}
+450	13	Bene vale! Bene valete! \nNon dimenticate mai che la pratica\nrende perfetti!{bpage}\nMe tibi commendo! Vale! \nE con questo m'accomiato! \nAddio!{mend}
+458	0	Atropos ha smesso di funzionare.{wend(60)}
+458	1	Lachesis ha smesso di funzionare.{wend(60)}
+459	0	Clotho ha smesso di funzionare.{wend(60)}
+459	1	Atropos ha smesso di funzionare.{wend(60)}
+460	0	Lachesis ha smesso di funzionare.{wend(60)}
+460	1	Clotho ha smesso di funzionare.{wend(60)}
+462	0	  - - - AVVIO CONTO ALLA ROVESCIA - - -  {wait(60)}\n                             5                {wend(60)}
+462	1	  - - - RIAVVIO CONTO ALLA ROVESCIA - - -{wait(60)}\n                              5                {wend(60)}
+462	2	4                {wend(60)}
+462	3	3                {wend(60)}
+462	4	2                {wend(60)}
+462	5	1                {wend(60)}
+462	6	0                {wend(60)}
+478	0	Sal:\nStavolta non ci sconfiggeranno!{bpage}\nLi polverizzerò con uno di questi \nElementi così possentemente possenti \nche mi hai comprato, Pep!{mend}
+478	1	Pep:\nVuoi dire uno di quegli Elementi di\nevocazione? Questo sì che è condire!{mend}
+478	2	Sal:\nChe tragica tragedia! \nVorrei non dovertelo dire, Pep, ma...{bpage}\nMi sono appena ricordato di aver perso \nl'Elemento di evocazione che avevo!{mend}
+478	3	Pep:\nCome? Come sarebbe a dire che\nl'hai perso?{bpage}\nNon dirmi che ti è caduto, che te l'ha\nmangiato il cane o altre scemenze!{bpage}\nTi ci vorrebbe una bella condita!{mend}
+478	4	Sal:\nNon sono così stupidamente stupido, Pep!{bpage}\nSe proprio lo vuoi sapere... Me l'ha rubato\nquel centopiedi alle Paludi dell'Idra!{bpage}\nE dire che fino ad allora mi ero goduto quella\nspedizione così esaltantemente esaltante...{mend}
+478	5	Pep:\nCome sarebbe a dire che un centopiedi \nti ha rubato l'Elemento?!{bpage}\nCos'ha fatto, ti è venuto alle spalle e ti ha \nfrugato nelle tasche con le sue cento \nzampe o che altro?!{mend}
+478	6	Sal:\nNo, Pep.{bpage}\nQuando dico "rubato", non intendo che mi\nha frugato nelle tasche!{bpage}\nVoglio dire che me lo ha preso piazzando un \nElemento trappola da cui il mio Elemento\nè stato catturato!{mend}
+478	7	Pep:\nMa si può sapere di cosa stai parlando, \nper tutti i condimenti?{bpage}\nOra mi spieghi cosa sarebbe un \nElemento trappola!{mend}
+478	8	Sal:\nBeh...{wait(10)} \nEcco...{bpage}\nÈ difficilmente difficile spiegarlo a parole, \nPep, quindi ora te lo mostro.{bpage}\nPiazzerò un Elemento trappola davanti a te, \ne poi ti chiederò di usare uno dei tuoi \nElementi speciali.{mend}
+478	9	Pep:\nE va bene, proviamo...{mend}
+478	10	Sal:\nRicevuto, Pep!{mend}
+478	11	Sal:\nHai visto come ho preso il tuo Elemento, Pep?{bpage}\nHo usato un Elemento trappola pensato per\ncatturare esclusivamente gli Elementi \n"Buco nero"!{bpage}\nPerché vedi, ogni Elemento trappola\nfunziona con un solo tipo di Elemento.{bpage}\nPossono catturare unicamente quello \nper cui sono stati creati!{mend}
+478	12	Pep:\nCondimentoso!{wait(10)} Uhm...{bpage}\nOra capisco cosa intendevi quando dicevi che\nti hanno rubato l'Elemento di evocazione...{bpage}\nD'accordo, va bene.{wait(10)} \nOra puoi restituirmi il mio Buco nero!{mend}
+478	13	Sal:\nOps! Avrei dovuto dirtelo... \nNon te lo posso restituire.{bpage}\nNon puoi riavere quell'Elemento a meno che\nun altro mostro non sia così sciocco da farsi\nrubare il suo...{mend}
+478	14	Pep:\nUh?{bpage}\nBeh, comunque non credo importi, \nvisto che ce l'hai comunque tu...{bpage}\nQuindi...{wait(10)} sbrigati e usa sul nemico\nl'Elemento che hai appena preso in trappola!{bpage}\nForza! Che aspetti?{bpage}\nEh...?{mend}
+478	15	Sal:\nLo sai che non si può usare un Elemento\nfinché non lo si è messo sulla Griglia!{bpage}\nDovremo aspettare che finisca la battaglia\nprima di poterlo riposizionare e usare!{bpage}\nEhm...{wait(20)} Ops!{mend}
+478	16	Pep:\nC-{wait(120)}C-{wait(120)}C-{wait(110)}C-{wait(100)}C-{wait(90)}C-{wait(80)}C-{wait(70)}C-{wait(60)}C-{wait(50)}C-\n{wait(40)}C-{wait(30)}C-{wait(20)}C-{wait(15)}C-{wait(10)}C-{wait(5)}C-{wait(1)}C-{wait(1)}C-{wait(1)}C-{wait(1)}C-\nCHE COS'HAI DETTO?!{bpage}\nPERCHÉ DEVI ESSERE SEMPRE COSÌ IDIOTA?!{bpage}\nBASTA, MI SONO STUFATO!{wait(10)} \nADESSO CONDISCO TE PER LE FESTE!!!{mend}
+478	17	Sal:\nAaah! Sono spiacentemente spiacente, Pep!{bpage}\nNon mi colpire...{wait(30)} troppo forte!{mend}
+487	0	Hiromichi Tanaka:\nMuah ah ah!{wend(60)}
+487	1	Toshiaki Suzuki:\nYaaahhh!{wend(30)}
+487	2	Toshiaki Suzuki:\nÈ tutto inutile!{wend(30)}
+487	3	Toshiaki Suzuki:\nNon vincerò mai...{wend(30)}
+487	4	Toshiaki Suzuki:\nYaaahhh!{wend(30)}
+487	5	Toshiaki Suzuki:\nÈ tutto inutile!{wend(30)}
+487	6	Toshiaki Suzuki:\nNon vincerò mai...{wend(30)}
+487	7	Toshiaki Suzuki:\nYaaahhh!{wend(30)}
+487	8	Toshiaki Suzuki:\nÈ tutto inutile!{wend(30)}
+487	9	Toshiaki Suzuki:\nNon vincerò mai...{wend(30)}
+487	10	Toshiaki Suzuki:\nYaaahhh!{wend(30)}
+487	11	Toshiaki Suzuki:\nÈ tutto inutile!{wend(30)}
+487	12	Toshiaki Suzuki:\nNon vincerò mai...{wend(30)}
+487	13	Toshiaki Suzuki:\nYaaahhh!{wend(30)}
+487	14	Toshiaki Suzuki:\nÈ tutto inutile!{wend(30)}
+487	15	Toshiaki Suzuki:\nNon vincerò mai...{wend(30)}
+488	0	Katsuhisa Higuchi:\nSalve, gente! \nMi chiamo Katsuhisa e faccio il\nprogrammatore.{bpage}\nA differenza dei disegnatori, dei compositori, \ndegli sceneggiatori eccetera, noi\nprogrammatori tendiamo ad apparire di meno,\ntemo.{bpage}\nPerciò, oggi ho pensato d'insegnarvi cos'è\nun programma!{bpage}\nAspettate, chiamo alcuni miei amici!{bpage}\nEhiii, ragazziiii!{mend}
+488	1	Kazumi Kobayashi:\nCiao, sono Kazumi. Piacere di conoscervi.{mend}
+488	2	Katsuhisa Higuchi:\nKazumi ha programmato le sezioni che\nvisualizzano e fanno muovere i modelli\npoligonali.{bpage}\nFagli vedere, Kazumi!{mend}
+488	3	Katsuhisa Higuchi:\nDecisamente... commovente!{bpage}\nA chi tocca adesso?{mend}
+488	4	Yoshiyuki Miyagawa:\nA me, credo... Chiamatemi Miya!{mend}
+488	5	Katsuhisa Higuchi:\nMiya ha scritto le sezioni del programma\nche controllano gli effetti.{bpage}\nEcco che aspetto hanno questi ultimi...{mend}
+488	6	Katsuhisa Higuchi:\nMolto "d'effetto", non trovate?{bpage}\nE ultimo, ma non meno importante, abbiamo...{mend}
+488	7	Koji Ohno:\nOHNO!{wait(30)} No, tranquilli, \nva tutto bene...{wait(10)} \nÈ solo il mio nome!{mend}
+488	8	Katsuhisa Higuchi:\nLui ha scritto il codice per gli effetti speciali\nusati nelle battaglie, oltre che per il sistema\ndei menu.{bpage}\nAvanti, Ohno!{mend}
+488	9	Katsuhisa Higuchi:\nDavvero "speciale"!{mend}
+488	10	Katsuhisa Higuchi:\nOh, e io invece...{wait(5)} \nBeh, mi sono occupato della programmazione\ngenerale delle battaglie.{bpage}\nHo anche scritto i dati e le funzioni che \npermettono a questa mia rappresentazione \ndi parlare con voi, il gruppo controllato dal\ngiocatore!{bpage}\nIl sottoscritto ha realizzato anche la logica\ne l'intelligenza artificiale dei mostri e degli\naltri nemici.{mend}
+488	11	Katsuhisa Higuchi:\nGrazie per aver ascoltato la mia \nlunghissima spiegazione.{bpage}\nOh, e grazie per aver acquistato \nuna copia di Chrono Cross!{bpage}\nAllora ci rivediamo in qualche altro gioco! \nBuona vita e...{bpage}\nSAYONARAAA!{mend}

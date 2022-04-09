@@ -1,0 +1,256 @@
+﻿0	0	En construction !{mend}
+16	0	SSSQUAAARRRRKKK !!!{wend(60)}
+16	1	SSSQUAAARRRRKKK !!!{wend(60)}
+17	0	SSSQUAAARRRRKKK !!!{wend(60)}
+17	1	SSSQUAAARRRRKKK !!!{wend(60)}
+31	0	Carrrnaaage !!!{wend(60)}
+31	1	Carrrnaaage !!!{wend(60)}
+31	2	Carrrnaaage !!!{wend(60)}
+32	0	Carrrnaaage !!!{wend(60)}
+32	1	Carrrnaaage !!!{wend(60)}
+32	2	Carrrnaaage !!!{wend(60)}
+33	0	Carrrnaaage !!!{wend(60)}
+33	1	Carrrnaaage !!!{wend(60)}
+33	2	Carrrnaaage !!!{wend(60)}
+150	0	Laacééérrer !!!\nLaacééérrer !!!{wend(60)}
+150	1	Laacééérrer !!!\nLaacééérrer !!!{wend(60)}
+151	0	Laacééérrer !!!\nLaacééérrer !!!{wend(60)}
+151	1	Laacééérrer !!!\nLaacééérrer !!!{wend(60)}
+152	0	Laacééérrer !!!\nLaacééérrer !!!{wend(60)}
+152	1	Laacééérrer !!!\nLaacééérrer !!!{wend(60)}
+153	0	Laacééérrer !!!\nLaacééérrer !!!{wend(60)}
+153	1	Laacééérrer !!!\nLaacééérrer !!!{wend(60)}
+153	2	Laacééérrer !!!\nLaacééérrer !!!{wend(60)}
+153	3	Laacééérrer !!!\nLaacééérrer !!!{wend(60)}
+187	0	Carrrnaaage !!!{wend(60)}
+187	1	Carrrnaaage !!!{wend(60)}
+187	2	Carrrnaaage !!!{wend(60)}
+188	0	Carrrnaaage !!!{wend(60)}
+188	1	Carrrnaaage !!!{wend(60)}
+188	2	Carrrnaaage !!!{wend(60)}
+189	0	Carrrnaaage !!!{wend(60)}
+189	1	Carrrnaaage !!!{wend(60)}
+189	2	Carrrnaaage !!!{wend(60)}
+241	0	Entrée numéro 1...{wend(40)}
+241	1	Entrée numéro 2...{wend(40)}
+241	2	Entrée numéro 3...{wend(40)}
+241	3	Entrée numéro 4...{wend(40)}
+241	4	Bonjour.{wend(40)}
+241	5	Salut ! Je m'appelle Amanda\net j'ai 14 ans.{wend(120)}
+241	6	Je m'appelle Renata,\nj'ai 25 ans et je suis Bélier.{wend(120)}
+241	7	Je m'appelle Movel.\nJ'ai 16 ans et je suis Taureau.{wend(120)}
+241	8	Moi, c'est Shannon.\nJ'ai 14 ans et je suis Gémeaux.{wend(120)}
+241	9	Salut, moi c'est Gemma.\nJ'ai 10 ans et je suis Cancer !{wend(120)}
+241	10	Je m'appelle Andrea. J'ai 14 ans et\nmon signe astrologique, c'est Lion !{wend(120)}
+241	11	Hello. Je m'appelle Marianella.\nJe suis Vierge et j'ai 15 ans.{wend(120)}
+241	12	Moi c'est Tina !\nJ'ai 16 ans et je suis Balance.{wend(120)}
+241	13	Hola, soy Arianna. Tengo 17 años.\nSoy del signo Escorpio.{wend(120)}
+241	14	Je m'appelle Marijana,\nj'ai 25 ans et je suis Sagittaire.{wend(120)}
+241	15	Je m'appelle Jouraine.\nJ'ai 14 ans. Je suis Capricorne.{wend(120)}
+241	16	Coucou ! Je m'appelle Valentini.\nJe suis Verseau et j'ai 15 ans.{wend(120)}
+241	17	Moi c'est Petra le Poisson ! J'ai 16 ans et\nj'aime les garçons qui sont grands !{wend(120)}
+241	18	Salut. Mon nom, c'est Luz...\nVive l'amour !{wait(40)} J'ai 17 ans,\nsi ça vous intéresse !{wend(120)}
+241	19	Je m'appelle Carolina et j'ai 10 ans.\nQuand je serai grande, je veux être\nMiss Univers.{wend(120)}
+241	20	Je m'appelle Cynthia. J'ai 15 ans\net je suis végétarienne.{wend(120)}
+241	21	Je m'appelle Richard. J'ai 29 ans.\nEt je suis là pour protester contre le sexisme\ndes concours de beauté !{wend(120)}
+241	22	Mon truc, c'est le {color(1)}Gaz\nde combat{color(0)} !{wend(120)}
+241	23	Mon passe-temps préféré,\nc'est le {color(1)}Volcan{color(0)} !{wend(120)}
+241	24	Je veux devenir pro\ndes {color(1)}Soins intensifs{color(0)} !{wend(120)}
+241	25	Je suis une vraie {color(1)}Sangsue{color(0)} !{wend(120)}
+241	26	Ma {color(1)}Tornade{color(0)} déchire !{wend(120)}
+241	27	Mon prochain objectif, c'est de maîtriser\nla {color(1)}Boule de feu{color(0)} !{wend(120)}
+241	28	Mon plus grand accomplissement,\nc'est le {color(1)}Trou noir{color(0)} !{wend(120)}
+241	29	Mon sport préféré, c'est\nle {color(1)}Rayon aquatique{color(0)} !{wend(120)}
+241	30	J'adore chanter sous\nla {color(1)}Pluie acide{color(0)} !{wend(120)}
+241	31	Ma spécialité, c'est\nles {color(1)}Soins de groupe{color(0)} !{wend(120)}
+386	0	Radius :\nHo ho ho... Allez, {playwork(0)} !\nDonne tout ce que tu as !{mend}
+386	1	Radius :\nJe vais commencer par t'enseigner les bases de\nl'attaque. Alors, écoute bien, mon garçon.{bpage}\nTu sais déjà que les trois niveaux d'attaque\n(Faible (1), Fort (2) et Redoutable (3)) ont\nchacun des degrés de précision (ou « % réussite »)\ndifférents, n'est-ce pas ?{bpage}\nÀ chaque fois que tu frappes ton adversaire,\nces valeurs augmentent et permettent\nà ton attaque suivante de faire mouche\nplus facilement.{bpage}\nJe te conseille de commencer par des coups\nFaibles (1) qui ont de grandes chances d'atteindre\nleur cible, puis d'enchaîner sur des coups Forts (2)\net Redoutables (3).{bpage}\nPlutôt que d'attaquer à tort et à travers, tu devrais\nessayer d'augmenter ton % de réussite. Si tes\nattaques Redoutables (3) ne fonctionnent pas,\ntu gaspilleras ton énergie !{mend}
+386	2	Faible (1) !{wend(60)}
+386	3	Fort (2) !!{wend(60)}
+386	4	Redoutable (3) !!!{wend(60)}
+386	5	Radius :\nHo ho ho ! Ce n'est pas encore ça ! Ne te fie\npas trop à ton % de réussite, mon garçon !{bpage}\nTant qu'il n'est pas de 100 %, tu cours le risque\nde rater systématiquement !{bpage}\nC'est parfois payant d'avoir l'audace d'utiliser\ndes attaques Fortes (2) et Redoutables (3)\ndès le début !{mend}
+386	6	Redoutable (3) !{wend(60)}
+386	7	Redoutable (3) !!{wend(60)}
+386	8	Radius :\nVoyons maintenant comment utiliser\nles éléments.{bpage}\nQuand tu utilises un élément, la couleur\nde son attribut reste sur le champ de bataille\nsous forme d'« effet de champ ».{bpage}\nÀ chaque fois que tu utilises un élément\nde la même couleur, l'efficacité du groupe\nd'éléments de cette couleur augmente.{bpage}\nRegarde, je vais te montrer...{wait(5)}\nRemplissons tous les attributs d'effet\nde champ avec la couleur bleue. Essaie\nd'utiliser un élément bleu après moi.{mend}
+386	9	Radius :\nTu vois ? Le champ est complètement bleu.\nSi tu utilises des éléments bleus maintenant,\nils seront bien plus puissants !{mend}
+386	10	Tiens. Essaie ça.{mend}
+386	11	Radius :\nAllez, du nerf ! Dépêche-toi de rendre\ntous les attributs d'effet de champ bleus !{bpage}\nQuoi, tu as oublié comment utiliser\nles éléments, mon garçon ? Si c'est le cas,\nécoute bien ! Ça mérite une explication.{mend}
+386	12	Radius :\nTout d'abord, tu dois choisir « Attaque »\npour infliger des dégâts physiques\nà ton adversaire pour commencer.{bpage}\nLes attaques Faibles (1), Fortes (2) et\nRedoutables (3) ajoutent respectivement\n1, 2 et 3 points à ton pouvoir d'élément.{bpage}\nTon niveau actuel est le chiffre qui se trouve\nau-dessus du symbole « Niv. », sous ton nom.{bpage}\nOh, j'ai failli oublier... Tu n'accumuleras\ndu pouvoir que si tu parviens à frapper\nton adversaire avec succès.{bpage}\nAlors, fais attention ! Tu n'as pas droit\nà l'erreur.{mend}
+386	13	Radius :\nTout l'intérêt des éléments est justement\nde libérer ce pouvoir accumulé !{bpage}\nQuand tu en auras stocké suffisamment,\ntu pourras choisir « Élément » dans le menu\nde combat.{bpage}\nQuand tu sélectionnes cette option,\ndes plaques rectangulaires grises s'affichent,\nn'est-ce pas ?{bpage}\nElles correspondent aux éléments\nqui sont attribués en ce moment.{mend}
+386	14	Radius :\nVoyons... Pourquoi tu n'essaierais pas\nd'utiliser un de ces éléments bleus\nque tu as là, mon garçon ?{bpage}\nNe t'en fais pas ! Ils ne vont pas\ndisparaître parce que tu les utilises.\nTu ne pourras plus t'en servir pendant\nce combat, c'est tout.{bpage}\nIls seront à nouveau disponibles lors du combat\nsuivant. Alors, ne te prive pas.{bpage}\nCeci étant dit, il est important de calculer\nle bon moment pour utiliser tes éléments.{bpage}\nSinon, tu n'arriveras jamais à battre\nles ennemis les plus puissants.\nTu dois mettre au point ta propre stratégie,\nmon garçon !{mend}
+386	15	Radius :\nOh, mais attends ! J'oublie quelque chose\nd'important. Ça doit être mon grand âge...{bpage}\nCertains éléments partent en fumée\nà chaque fois que tu les utilises. C'est\nle cas de la « αPastille », par exemple.{bpage}\nOn les appelle des « éléments consommables »\net ils sont précédés du symbole « α ».\nCes éléments ne se régénèrent pas\naprès chaque bataille.{bpage}\nToutefois, leur avantage est que tu peux\nen placer jusqu'à cinq sur un même espace\nde la grille d'éléments.{bpage}\nTu peux ainsi en utiliser plusieurs\ndans un même combat, contrairement\naux éléments de base qui ne peuvent être\nutilisés qu'une seule fois, en principe.{bpage}\nC'est pour ça que ces éléments sont suivis\nd'un chiffre comme « x5 », par exemple.\nC'est la quantité dont tu disposes\nsur cet emplacement de la grille.{bpage}\nCette quantité diminue à mesure\nque tu utilises ces éléments. Mais après\nchaque combat, tu peux refaire le plein\nen prévision du prochain affrontement.{mend}
+386	16	Radius :\nBref, assez de théorie ! Voyons\ncomment utiliser ces éléments.{bpage}\nTu remarqueras qu'à chaque fois que tu utilises\nun élément, ton niveau de pouvoir d'élément\n(indiqué par le chiffre au-dessus de « Niv. »)\ndiminue.{bpage}\nIl s'agit d'une simple soustraction, rien de plus.{bpage}\nPar exemple, disons que tu es au niveau 3 et\nque tu décides d'utiliser l'élément « αPastille »\nattribué au niveau 1 de ta grille d'éléments.{bpage}\nDans ce cas, 3 moins 1 égale 2. Donc, ton niveau\nde pouvoir d'élément descendra à 2.{bpage}\nTu peux utiliser les éléments à tout moment,\ntant que ta valeur d'endurance est supérieure\nà 1.0.{bpage}\nDans mon exemple, après avoir utilisé\nla « αPastille », tu pourras toujours utiliser\ndes éléments de niveau de pouvoir 2\nou inférieur.{mend}
+386	17	Radius :\nC'est bon, tu as compris le truc ? Tu saisis\nl'importance de développer une solide tactique\nde combat, maintenant ?{bpage}\nTu peux accumuler un peu de pouvoir, utiliser\nun élément, accumuler encore un peu de pouvoir,\nutiliser un autre élément... et ainsi de suite.\nÇa fonctionne !{bpage}\nOu bien tu peux attendre d'avoir atteint le niveau\nde pouvoir d'élément maximal pour libérer\nune nuée d'éléments, les uns après les autres.\nÇa marche aussi.{bpage}\nUtilise la stratégie qui te semble convenir\nle mieux pour chacun des ennemis\nque tu affronteras. C'est toi qui décides.{bpage}\nIl y a des hordes de monstres que tu ne pourras\npas vaincre avec de simples attaques physiques.\nTu vas devoir apprendre à maîtriser les éléments\npour t'en sortir !{bpage}\nDésolé pour ce laïus, mon garçon ! Mon cours\nsur les éléments est officiellement terminé.\nPourquoi tu n'essaierais pas d'en utiliser un\ntout de suite ?{mend}
+386	18	Radius :\nComment ça ? Tu n'arrives toujours pas à rendre\ntous les attributs d'effet de champ bleus ?{bpage}\nTu t'attends peut-être à ce qu'un vieillard fasse\ntout le travail pour toi ? Espèce de fainéant ! Bon,\nallons-y...{mend}
+386	19	Radius :\nHo ho ho ! C'était trop pour toi ?\nDésolé, mon garçon.{bpage}\nÀ l'inverse, quand il y a beaucoup de bleu \ndans les attributs d'effet de champ,\nles éléments de la couleur opposée (ici,\nle rouge) sont affaiblis.{bpage}\nAlors, analyse la stratégie de ton ennemi et\nremplis le champ avec la couleur opposée\nà celle de ses attaques pour te défendre.{bpage}\nCette technique d'utilisation des éléments\nest imparable, alors pense à l'appliquer !{mend}
+386	20	Radius :\nHo ho ho ! Comment c'était ?\nTu as appris quelque chose, mon garçon ?{bpage}\nBien, notre leçon touche à sa fin.\nVoilà... Ha !{mend}
+386	21	Radius :\nHein ?\nTu es devenu très fort\ndepuis notre dernier combat !{bpage}\nVoyons ce que tu dis de ça ! Je vais\nt'apprendre à respecter tes aînés ! Ha !{mend}
+386	22	Radius :\nHo ho aïe !\nJe me fatigue plus vite à mon âge !{bpage}\nQuoi qu'il en soit, bien joué, mon garçon !\nTu commences à connaître ton affaire...{wait(30)}\ngrâce à mon enseignement !{mend}
+386	23	Radius :\nHo ho aïe !\nJe me fatigue plus vite à mon âge !{bpage}\nQuoi qu'il en soit, bien joué, mon garçon !\nTu commences à connaître ton affaire...{wait(30)}\ngrâce à mon enseignement !{mend}
+390	0	Anselme :\nCapitaine ! Sa couleur d'élément\nélémentaire est le...\n        BLANC !        {mend}
+390	1	Karsh :\nBon ! Ça suffit !{bpage}\nVite, attaque-le avec la couleur\nd'élément opposée, le...\n        NOIR !        {mend}
+390	2	Anselme :\nÇa alors, ça tombe vraiment mal !\nJ'ai bien peur de ne pas en avoir, capitaine !{mend}
+390	3	Karsh :\nEspèce d'abruti ! Tu devrais toujours avoir\ndes éléments de chaque couleur sur toi !{bpage}\nBon, et toi, là ?{mend}
+390	4	Cayenne :\nJ'ai les foies de vous le dire, capitaine,\nmais je n'en ai pas non plus !{bpage}\nJe crois que vous allez devoir nous faire\nune démonstration vous-même.{mend}
+390	5	Karsh :\n... !? Bande d'incapables !{bpage}\nBah...{bpage}\nPas besoin de magie quand on est\nun puissant guerrier !{mend}
+391	0	SSSQUAAAARRRRKKK !!!{wend(60)}
+392	0	SSSQUAAAARRRRKKK !!!{wend(60)}
+393	0	Anselme :\nCette fois, j'ai pensé à prendre\nun élément NOIR avec moi, Cayenne !{mend}
+393	1	Cayenne :\nBien joué.{wait(5)} Allez,\nprépare-le et envoie la sauce !{mend}
+393	2	Anselme :\nAffirmativement affirmatif, Cayenne.{mend}
+393	3	Anselme :\nOh là là ! ... ?{mend}
+393	4	Cayenne :\nCe n'était pas un élément d'ATTAQUE\nNOIRE que tu viens d'utiliser !{bpage}\nC'était un élément noir qui rend\nton adversaire PLUS VULNÉRABLE\nAUX attaques de l'attribut opposé,\nc'est-à-dire le BLANC... C'est ça ?{mend}
+393	5	Anselme :\nJe crois que tu as raison...{wait(5)}\nQuelle tragédie tragique !{mend}
+393	6	Cayenne :\nMais tu as BIEN un élément d'ATTAQUE\nBLANC sur toi, pas vrai ?{bpage}\nSi ce n'est pas le cas, alors tu es encore\nplus stupide que je le pensais !{mend}
+393	7	Anselme :\nEuh...{bpage}\nC'est vraiment regrettable !\nJe crois que j'ai oublié, Cayenne...{mend}
+394	0	Oh... Je crois qu'on est mal !{wend(60)}
+396	0	Cayenne :\nLes revoilà...\nLes gros durs à cuire !{bpage}\nTu as bien dit que tu avais apporté\nun élément survitaminé, pas vrai ?{mend}
+396	1	Anselme :\nJ'ai un élément incroyablement incroyable,\ncette fois, Cayenne.{bpage}\nC'est un nouvel... élément d'invocation !{mend}
+396	2	Cayenne :\nGénial ! Ça sonne bien.{bpage}\nBon allez, remue-toi !\nDépêche-toi de le balancer\nsur ces poseurs !{mend}
+396	3	Anselme :\nAttention les yeux !\nJ'y vais, Cayenne.{mend}
+396	4	Cayenne :\nEt alors ? Il ne s'est rien passé !{bpage}\nJe me demande pourquoi\nça n'a pas marché...{mend}
+396	5	Anselme :\nAh... J'avais oublié.{bpage}\nOn ne peut pas utiliser un élément d'invocation\ntant que les attributs d'effet de champ ne sont\npas tous de la même couleur !{mend}
+396	6	Cayenne :\n...\nQuelle tête de linotte !{bpage}\nDans ce cas, dépêche-toi de rendre\ntous les attributs d'effet de champ\nde la même couleur et réessaie !{mend}
+396	7	Anselme :\nEnfin, Cayenne...{bpage}\nOn ne peut pas utiliser le même élément\ndeux fois dans le même combat !\nTout le monde sait ça !{mend}
+396	8	Cayenne :\n...\n...{bpage}\nBon sang, Anselme !\nPourquoi tu fais toujours tout de travers ?{mend}
+396	9	ZOAH :\n...\n...\n...{bpage}\nVOUS AVEZ FINI VOTRE SKETCH,\nLES COMIQUES ?{mend}
+402	0	Cayenne :\nIls sont vraiment gonflés d'attaquer\nnotre porte principale comme ça !{bpage}\nCette fois, on va leur mettre\nla pâtée qu'ils méritent !{mend}
+402	1	Anselme :\nJe suis on ne peut plus d'accord !{mend}
+402	2	Cayenne :\nAujourd'hui, on a amené des renforts !{bpage}\nIl est fort ! Il est méchant !\nEt il est très, très grand !{bpage}\nMontre-leur ce que tu sais faire !!!{bpage}\n...{wait(90)}\nJ'ai dit, montre-leur ce que tu sais faire !{wait(90)}\n...{bpage}\nYouhou !{wait(60)} Hé, Thomate !{wait(60)}\nAllez, sors de ta cachette !{mend}
+402	3	Thomate :\nKEEETTCHUUUUUP !!!{mend}
+402	4	Cayenne :\nOoooohhh ! Mazette...\nAlors ? C'est un beau morceau,\nvous ne trouvez pas ?{bpage}\nCette fois, vous êtes cuits, mes cocos !!!{mend}
+402	5	Anselme :\nQuel homme viril !{mend}
+402	6	Thomate :\nS-S-S-SSAAAAUUUUCCCEE !{wait(30)}\n(Il a l'air content...{wait(60)} peut-être ?){mend}
+402	7	Cayenne :\nVoilà, c'est ça !{bpage}\nMontre-nous ce que tu as dans le ventre !{mend}
+402	8	Anselme :\nAllez ! Vas-y, Thomate !!!{bpage}\nConcasse-les !{mend}
+402	9	Thomate :\nK-K-KEEETTCHUUUUUP !!!{wait(30)}\n(Il a l'air remonté...{wait(60)} peut-être ?){mend}
+402	10	Cayenne :\nHé ! Qu'est-ce que c'est que cette tambouille ?\nPourquoi tu les as soignés ?{mend}
+402	11	Anselme :\nEh bah, je...{bpage}\nJe me suis dit qu'on ne verrait pas à quel point\nThomate est redoutablement redoutable\ns'ils étaient tous dans les choux !{mend}
+402	12	Cayenne :\n...{bpage}\nT'es complètement aux fraises ?{bpage}\nLe but, c'est pas de les battre, justement ?{bpage}\nFais ça encore une fois, et je te transforme\nen civet, Anselme !{mend}
+402	13	Thomate :\nS-S-SSSAAAUUCCCE !{wait(30)}\n(Il a l'air furieux...{wait(60)} peut-être ?){mend}
+402	14	Cayenne :\nÇa ne va pas du tout !\nÇa sent le roussi...{bpage}\nHé ! Thomate ! Tu veux bien\nmettre la main à la pâte ?{mend}
+402	15	Thomate :\nK-K-KEEETTCHUUUUUP !!!{mend}
+402	16	Cayenne :\nHein ?{bpage}\nMais... Qu'est-ce que tu fais ?{wend(60)}
+406	0	Germe...{wend(60)}
+406	1	Bulbi bulbi bulbi...{wend(60)}
+406	2	Geeeerme...{wend(60)}
+406	3	Germe...{wend(60)}
+406	4	Bulbi bulbi bulbi...{wend(60)}
+406	5	Geeeerme...{wend(60)}
+407	0	Vous vous croyez malins ?{wait(30)}\nQu'est-ce que vous pensez de ça ?{wend(60)}
+407	1	Nom de... !{wait(30)}\nÇa suffit !{wend(60)}
+407	2	Oooouuuhhh !{wait(30)}\nMaman, j'ai peur !{wend(60)}
+407	3	Prenez ça !{wend(30)}
+407	4	Et ça !{wend(30)}
+407	5	Et ça, aussi !{wend(30)}
+407	6	Et ça !{wend(30)}
+409	0	Les coffrères :\nAlors... Lequel de nous deux tu choisis ?\nTu n'as qu'une seule chance !{mend}
+409	1	Les coffrères :\nDommage ! Pas de chance !\nRATÉÉÉ ! MINABLE !{wend(120)}
+409	2	Les coffrères :\nTu as raté ta chance. Il fallait que\ntu choisisses l'un d'entre nous !\nOn ne récompense pas les\nTRICHEURS !!!{wend(120)}
+410	0	Les coffrères :\nAlors... Lequel de nous deux tu choisis ?\nTu n'as qu'une seule chance !{mend}
+410	1	Les coffrères :\nDommage ! Pas de chance !\nRATÉÉÉ ! MINABLE !{wend(120)}
+414	0	Chef de l'équipe heigh-ho :\nRenforts demandé !\nHeeeiigh-hoooo !{wend(60)}
+414	1	Chef de l'équipe heigh-ho :\nHeeeiigh-hiiiiiiiiii-hoooo !{wend(60)}
+414	2	Chef de l'équipe heigh-ho :\nOh... Heigh-pouh-ho !{wend(60)}
+414	3	Chef de l'équipe heigh-ho :\nÉquipe heigh-ho, chaaaargez !!!{wend(60)}
+416	0	Biba :\nC'est parti mon Biba !{wait(30)}\nJ'appelle un ami !{wend(60)}
+416	1	Biba :\nJ'appelle un autre ami !{wend(60)}
+416	2	Biba :\nJ'appelle encore un ami !{wend(60)}
+416	3	Biba :\nBiba la revolución !!!{wend(60)}
+416	4	Biba :\nAh !{wait(10)} Plus d'amis disponibles ?{wait(60)}\nBiba plus d'amis...{wait(60)}\nBiba tout seul, maintenant...{wend(60)}
+419	0	Arle :\nFinalmente...\nPrenez tutto votre temps.{mend}
+419	1	Arle :\nSanto cielo !\nJe suis vaincue !{mend}
+422	0	Fargo :\nSacrebleu !\nÀ l'abordage !{mend}
+422	1	Fargo :\nJe mets pavillon bas...{mend}
+427	0	Vous aimez souffrir ?{wend(60)}
+427	1	Mangez ça !{wend(60)}
+427	2	Hiyaaah !{wend(60)}
+427	3	Mourez, démons, mourez !{wend(60)}
+427	4	HA !{wend(60)}
+427	5	RAAAAAH !!{wend(60)}
+427	6	GRROOOAH !!!{wend(60)}
+427	7	Je vous déteste !{wend(60)}
+427	8	Je vous hais !!!{wend(60)}
+427	9	Mourez !!!{wend(60)}
+427	10	Vous me mettez hors de moi !{wend(60)}
+427	11	Mais vous allez crever, oui ?!{wend(60)}
+427	12	Mais euh !!!{wend(60)}
+432	0	Général Ophide :\nQue diriez-vous d'un petit échauffement,\npour commencer ? Allez, venez,\nje vous attends !{mend}
+432	1	Général Ophide :\nHa ha ha !!!{mend}
+434	0	Radius :\nEn garde !{mend}
+434	1	Radius :\nJe suis vaincu !{mend}
+435	0	SSSQUAAAARRRRKKK !!!{wend(60)}
+436	0	SSSQUAAAARRRRKKK !!!{wend(60)}
+450	0	Kriosphinx :\nVerus... Bonne réponse.{wend(120)}
+450	1	Kriosphinx :\nFalsus... Mauvaise réponse.{wend(120)}
+450	2	Kriosphinx :\nNigra in candida vertere.\nEn voici une facile pour commencer !{bpage}\nJe peux être saigné, chauffé ou tiré, mais\ndans tous les cas, mon vote ne compte pas.{bpage}\nRépondez à ma question ! Que suis-je ?{mend}
+450	3	Kriosphinx :\nDimidium facti qui bene coepit habet.\nTâche bien commencée est à moitié achevée.\nVoici maintenant la deuxième énigme.{bpage}\nOn peut me rouler dessus...\nJ'ai les reflets de la pyrite...\nTout ce qui brille n'est pas moi...\nMais le silence, si.{bpage}\nRépondez à ma question ! Que suis-je ?{mend}
+450	4	Kriosphinx :\nÉnigme numéro trois !\nBene rem gere !{bpage}\nEn colère, on me voit...\nJe suis la cape à charger...\nEt sur la gorge je me déploie.\nLe feu aux joues, je foule le tapis.{bpage}\nRépondez à ma question ! Que suis-je ?{mend}
+450	5	Kriosphinx :\nVous comprenez vite !\nÉnigme numéro quatre... Accipe !{bpage}\nJe symbolise l'espoir, et les amis de la planète\nainsi que la fée attendent mon feu !{bpage}\nRépondez à ma question ! Que suis-je ?{mend}
+450	6	Kriosphinx :\nVelim tibi ita persuadeas.\nPlus que deux énigmes !{bpage}\nMare et caelum et viola !\nMême si j'ai parfois le cafard...\nÀ la fois ruban et cordon...\nMon sang est royal !{bpage}\nRépondez à ma question ! Que suis-je ?{mend}
+450	7	Kriosphinx :\nUsus est magister optimus.\nVous devriez déjà connaître la réponse\npar simple déduction.{bpage}\nOn peut me broyer...\nMais quand je deviens marée, même\nle mouton ne réchappera de ma peste !{bpage}\nRépondez à ma question ! Que suis-je ?{mend}
+450	8	Mystérieux monstre :\nQuid me vis ? Je suis le Kriosphinx.\nEt vous n'êtes pas les bienvenus\nsur mes terres !{bpage}\nPourquoi venez-vous semer le trouble ici ?\nÀ mon tour, je vais semer le trouble en vous.\nSi vous parvenez à surmonter cette épreuve,\nvous quitterez peut-être cet endroit vivants !{bpage}\nAucun homme n'a foulé cette île depuis\nune éternité. Le Kriosphinx s'ennuie...{bpage}\nSi vous avez le courage de mesurer\nvotre intelligence à la mienne, vos crimes\npourraient être pardonnés quand vous aurez\nrésolu mes six énigmes !{bpage}\nMaintenant, répondez à cela...{mend}
+450	9	Kriosphinx :\nQuid est ? Quidnam tu hominis es ?{bpage}\nQuoi ? Vous dites ne pas pouvoir répondre\nà ma question ? Male factum !{bpage}\nAlors, pourquoi perdrais-je mon temps\navec vous ? Hors de ma vue !\nAbi in malem rem !{mend}
+450	10	Kriosphinx :\nQuid ais ?\nMira narras !{bpage}\nImpressionnant ! Jamais je n'aurais cru\nque des humains pourraient vaincre\nle Kriosphinx par la force !{bpage}\nVotre style de vie m'intrigue ! Surmonter\nainsi les obstacles en utilisant la force\net non l'esprit...{bpage}\nMais je vous préviens, le malheur guette\nles êtres de votre espèce !{mend}
+450	11	Vale !{mend}
+450	12	Kriosphinx :\nSat prata biberunt !\nGratulor felicitati tuae !{bpage}\nFélicitations !\nVous avez résolu toutes mes énigmes.{bpage}\nVotre esprit est aussi redoutable\nque votre force.{mend}
+450	13	Bene vale ! Bene valeto !\nAppliquez-vous dans tout\nce que vous entreprenez !{bpage}\nMe tibi commendo ! Vale !\nLe moment est venu pour moi\nde vous quitter. Adieu !{mend}
+458	0	Atropos a cessé de fonctionner.{wend(60)}
+458	1	Lachésis a cessé de fonctionner.{wend(60)}
+459	0	Clotho a cessé de fonctionner.{wend(60)}
+459	1	Atropos a cessé de fonctionner.{wend(60)}
+460	0	Lachésis a cessé de fonctionner.{wend(60)}
+460	1	Clotho a cessé de fonctionner.{wend(60)}
+462	0	 - - - DÉBUT DU COMPTE À REBOURS - - - {wait(60)}\n                             5                {wend(60)}
+462	1	  - - - RÉINITIALISATION DU \n                   COMPTE À REBOURS - - - {wait(60)}\n                             5                {wend(60)}
+462	2	4                {wend(60)}
+462	3	3                {wend(60)}
+462	4	2                {wend(60)}
+462	5	1                {wend(60)}
+462	6	0                {wend(60)}
+478	0	Anselme :\nCette fois, ils ne nous auront pas !{bpage}\nJe vais les réduire en bouillie avec un\nde ces éléments formidablement formidables\nque tu m'as achetés, Cayenne !{mend}
+478	1	Cayenne :\nTu parles des éléments d'invocation ?\nÇa va déménager !{mend}
+478	2	Anselme :\nC'est une catastrophe catastrophique !\nJe suis désolé, Cayenne, mais...{bpage}\nJe viens de me rappeler que j'avais perdu\nl'élément d'invocation que j'avais sur moi !{mend}
+478	3	Cayenne :\n... ?!\nComment ça, tu l'as « perdu » ?{bpage}\nNe me dis pas que tu l'as laissé tomber\nou que ton chien l'a mangé, ou une autre\nexcuse bidon de ce genre !{bpage}\nTu mériterais vraiment une bonne raclée !{mend}
+478	4	Anselme :\nJe ne suis pas stupidement stupide Cayenne,\ntu sais !{bpage}\nEn fait, si tu veux tout savoir... C'est\nce mille-pattes géant qui me l'a volé\ndans les marais de l'Hydre.{bpage}\nCette fantastique expédition se serait\ntrès bien passée sans ça...{mend}
+478	5	Cayenne :\nComment ça, un mille-pattes géant t'a volé\nton élément ?!{bpage}\nIl s'est glissé derrière toi et il t'a fait les poches\navec ses centaines de pattes, c'est ça ?{mend}
+478	6	Anselme :\nNon, Cayenne.{bpage}\nPar « voler », je ne veux pas dire\nqu'il m'a fait les poches !{bpage}\nJe veux dire qu'il l'a capturé\nen posant un piège à éléments\ndans lequel mon élément s'est pris !{mend}
+478	7	Cayenne :\nMais qu'est-ce que tu racontes ?{bpage}\nTu veux bien m'expliquer ce qu'est\nun piège à éléments ?{mend}
+478	8	Anselme :\nEh bien...{wait(10)}\nEuh...{bpage}\nC'est difficilement difficile à expliquer\navec des mots, Cayenne, alors je vais\nte faire une démonstration.{bpage}\nJe vais poser un piège devant toi\net ensuite, je te demanderai d'utiliser\nun de tes éléments spéciaux.{mend}
+478	9	Cayenne :\nD'accord.\nEssayons, pour voir...{mend}
+478	10	Anselme :\nBien reçu, Cayenne !{mend}
+478	11	Anselme :\nTu vois comment j'ai pris ton élément,\nCayenne ?{bpage}\nJ'ai utilisé un piège conçu exclusivement\npour capturer les éléments « Trous noirs ».{bpage}\nVois-tu, chaque piège fonctionne\nsur un seul type d'élément.{bpage}\nIls ne peuvent pas capturer d'autres éléments\nque ceux pour lesquels ils sont prévus.{mend}
+478	12	Cayenne :\nIncroyable !{wait(10)}\nMmm...{bpage}\nJe vois comment tu as pu te faire voler\nton élément, maintenant.{bpage}\nOui, je comprends.{wait(10)}\nBon, tu peux me rendre mon Trou noir ?{mend}
+478	13	Anselme :\nOups ! J'aurais dû te le dire.\nJe ne peux pas te le rendre.{bpage}\nTu ne pourras pas récupérer cet élément,\nsauf si un monstre est assez stupide\npour te laisser voler le sien...{mend}
+478	14	Cayenne :\nHein ?{bpage}\nBah, ce n'est pas si grave,\nvu que tu l'as entre les mains...{bpage}\nBon...{wait(10)}\nPourquoi tu n'utilises pas l'élément\nque tu viens juste de piéger sur l'ennemi ?{bpage}\nAllez, dépêche-toi !\nQu'est-ce que tu attends ?{bpage}\nMmm ?{mend}
+478	15	Anselme :\nTu sais bien qu'on ne peut pas utiliser un élément\nsans s'en être équipé comme il faut !{bpage}\nNous allons devoir attendre la fin de ce combat\npour nous en équiper à nouveau et l'utiliser.{bpage}\n...{wait(20)}\nOups !{mend}
+478	16	Cayenne :\n...{wait(120)} QU-{wait(120)}QU-{wait(110)}QU-{wait(100)}QU-{wait(90)}QU-{wait(80)}QU-{wait(70)}QU-{wait(60)}QU-{wait(50)}QU-\n{wait(40)}QU-{wait(30)}QU-{wait(20)}QU-{wait(15)}QU-{wait(10)}QU-{wait(5)}QU-{wait(1)}QU-{wait(1)}QU-{wait(1)}QU-{wait(1)}QU-\nQU'EST-CE QUE TU VIENS DE DIRE ?!{bpage}\nCOMMENT TU FAIS POUR ÊTRE\nAUSSI STUPIDE ?{bpage}\nCETTE FOIS, ÇA SUFFIT !!!{wait(10)}\nTU VAS T'EN PRENDRE UNE !{mend}
+478	17	Anselme :\nAaaaah ! Je suis désolé, Cayenne !{bpage}\nPitié, ne me frappe pas...{wait(30)} trop fort !{mend}
+487	0	Hiromichi Tanaka :\nMouuahahaa !!!{wend(60)}
+487	1	Toshiaki Suzuki :\nHiiyyaaaa!{wend(30)}
+487	2	Toshiaki Suzuki :\nÇa ne sert à rien !{wend(30)}
+487	3	Toshiaki Suzuki :\nJe ne gagnerai jamais...{wend(30)}
+487	4	Toshiaki Suzuki :\nHiiyyaaaa !{wend(30)}
+487	5	Toshiaki Suzuki :\nÇa ne sert à rien !{wend(30)}
+487	6	Toshiaki Suzuki :\nJe ne gagnerai jamais...{wend(30)}
+487	7	Toshiaki Suzuki :\nHiiyyaaaa !{wend(30)}
+487	8	Toshiaki Suzuki :\nÇa ne sert à rien !{wend(30)}
+487	9	Toshiaki Suzuki :\nJe ne gagnerai jamais...{wend(30)}
+487	10	Toshiaki Suzuki :\nHiiyyaaaa !{wend(30)}
+487	11	Toshiaki Suzuki :\nÇa ne sert à rien !{wend(30)}
+487	12	Toshiaki Suzuki :\nJe ne gagnerai jamais...{wend(30)}
+487	13	Toshiaki Suzuki :\nHiiyyaaaa !{wend(30)}
+487	14	Toshiaki Suzuki :\nÇa ne sert à rien !{wend(30)}
+487	15	Toshiaki Suzuki :\nJe ne gagnerai jamais...{wend(30)}
+488	0	Katsuhisa Higuchi :\nBonjour tout le monde !\nJe m'appelle Katsuhisa et\nje suis programmeur.{bpage}\nContrairement aux artistes, aux musiciens,\naux écrivains, etc., les programmeurs ont\ntendance à être plus dans l'ombre.{bpage}\nAlors aujourd'hui, j'ai décidé de t'apprendre\nce qu'est un programme !{bpage}\nAttends, je vais appeler mes amis.{bpage}\nHé oh, les gaaars !{mend}
+488	1	Kazumi Kobayashi :\nBonjour. Je m'appelle Kazumi.\nC'est un plaisir de te rencontrer.{mend}
+488	2	Katsuhisa Higuchi :\nKazumi a programmé les sections qui affichent\net manœuvrent les modèles de polygones.{bpage}\nPourquoi tu ne lui montres pas, Kazumi ?{mend}
+488	3	Katsuhisa Higuchi :\nÇa déménage !{bpage}\nÀ qui le tour ?{mend}
+488	4	Yoshiyuki Miyagawa :\nÀ moi, on dirait...\nTu peux m'appeler Miya !{mend}
+488	5	Katsuhisa Higuchi :\nMiya a écrit les parties du programme\nqui manipulent les effets.{bpage}\nSes effets ressemblent à ça...{mend}
+488	6	Katsuhisa Higuchi :\nTrès effectifs comme effets, pas vrai ?{bpage}\nEt notre dernier programmeur,\nmais non des moindres...{mend}
+488	7	Kohji Ohno :\nOHNO !!!{wait(30)} Pas de panique,\ntout va bien...{wait(10)}\nC'est juste mon nom !{mend}
+488	8	Katsuhisa Higuchi :\nIl a codé les effets spéciaux utilisés\nlors des combats, ainsi que le système\nde menus.{bpage}\nVas-y, Ohno !{mend}
+488	9	Katsuhisa Higuchi :\nQuelle patte !{mend}
+488	10	Katsuhisa Higuchi :\nOh, quant à moi...{wait(5)}\nEh bien, je me suis occupé\nde la programmation des combats.{bpage}\nJ'ai même écrit les données et les fonctions\nqui font que cette image de moi peut te parler !{bpage}\nC'est moi qui ai écrit l'intelligence artificielle\net la logique des monstres et autres ennemis.{mend}
+488	11	Katsuhisa Higuchi :\nMerci d'avoir écouté mon looong discours.{bpage}\nOh, et c'est gentil d'avoir acheté un exemplaire\nde Chrono Cross aussi.{bpage}\nBon, en attendant de te revoir dans un autre jeu,\nprends soin de toi et...{bpage}\nSA-YO-NA-RA !{mend}

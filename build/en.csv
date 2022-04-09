@@ -1006,7 +1006,7 @@
 26	3	{PARTY2%}:\nВам тоже показалось, что ваше тело только что прошло сквозь пол?{mend}
 26	4	{KID%}:\nЭто какая-то крепость.{bpage}\nТак ведь, {SERGE%}?{mend}
 26	5	!?{mend}
-26	6	{KID%}:\nТы в порядке, приятель?\nТы ведёшь себя очень странно.{bpage}\nМы не знаем, где сейчас находимся,\nтак что держи себя в руках,\nхорошо?{mend}
+26	6	{KID%}:\nТы в порядке, приятель?\nТы ведешь себя очень странно.{bpage}\nМы не знаем, где сейчас находимся,\nтак что держи себя в руках,\nхорошо?{mend}
 26	7	{ERROR}
 26	8	{ERROR}
 26	9	{ERROR}
@@ -1346,7 +1346,7 @@
 29	34	Marge:\nYou wouldn't want that, right?\n　　　She'd never do that!\n　　　That would be bad...{mend}
 29	35	Marge:\nMy, aren't we confident?{wait(20)}\nWell, I hope you can\nkeep your nerve!{mend}
 29	36	Marge:\nThen get your priorities\nstraight, and let her\nknow how you feel.{bpage}\nUnderstand?{wait(20)}\nTomorrow is a new\nday. Who knows\nwhat will happen...{mend}
-29	37	{MARGE}:\nДоброе утро, {SERGE%}.{bpage}\nТы наконец-то проснулся.{wait(20)}\nУже полдень.{mend}
+29	37	Мардж:\nДоброе утро, {SERGE%}.{bpage}\nТы наконец-то проснулся.{wait(20)}\nУже полдень.{mend}
 29	38	Marge:\nКстати, разве ты не планировал\nвстретиться с {LEENA%} этим утром?{bpage}\n{LEENA%} приходила утром в надежде, что\nты уже не спишь.{bpage}\nОднако застала тебя, юноша, спящим сном младенца.{bpage}\nYou shouldn't break\npromises like that.{wait(20)}\nGirls can be pretty scary\nif you make them angry!{mend}
 29	39	Marge:\nYou want to give\nthat to your mother?{bpage}\nI think there's someone\nelse out there who would\nappreciate it even more.{mend}
 29	40	{RADIUS%}:\nHalt!{wait(20)}\nWe haven't\nsettled anything!{mend}
@@ -3647,7 +3647,7 @@
 57	26	{MEL%}:\nHurry, {SERGE%}!{bpage}\nWe don't have time for\na stroll on the beach!{wait(20)}\nC'mon, I promise\nI'll do my best!{mend}
 57	27	{LEENA%}:\nSo, what's the plan\nnow, {SERGE%}?{mend}
 57	28	{KID%}:\nWhat do you expect\nus to do now, mate?{mend}
-57	29	{playwork(0)}:\n{Cap}{wha}t{-}do{-umeth}{-}{w}{e}\ndo{-umeth}{-}now,\n{SERGE}?{mend}
+57	29	{playwork(0)}:\n{Cap}{wha}t{-}do{-umeth}{-}{w}{e}\ndo{-umeth}{-}now,\n{SERGE%}?{mend}
 57	30	{KID%}:\nA wormhole that\ncrosses dimensions...{bpage}\nThe world's callin' you,\n{SERGE%}...{wait(20)}\nCallin' the lost piece\nof the puzzle...{mend}
 57	31	{POSHUL%}:\nPO-SHU-SHU!{wait(20)}\nWhat ith thith?{bpage}\nWill thith take uth\nto the other world?{wait(20)}\nVery dangerouth!{mend}
 57	32	{POSHUL%}:\nPO-SHU-SHU!{wait(20)}\nWhat ith thith?{bpage}\nIth thith how we made\nit to thith world?{mend}
@@ -4215,7 +4215,7 @@
 64	68	{ERROR}
 64	69	{ERROR}
 65	0	There's some writing\non the tombstone.{mend}
-65	1	{speed(96)}So you must be...{wait(20)}\nThe ghost of the boy\nwho died 10 years ago... {SERGE}...{mend}
+65	1	{speed(96)}So you must be...{wait(20)}\nThe ghost of the boy\nwho died 10 years ago... {SERGE%}...{mend}
 65	2	{fset(0)}{speed(255)}　　　  R.I.P.  　　　\nOur beloved {SERGE%}\n　　 Died age 7 　　{fwait(5)}{wend(1)}
 65	3	{speed(255)}　\n　\n　\n　\n　  Nobody can take  　\nanything away from him.\n　Nor can anyone give　\n　　anything to him.　　{fwait(5)}{wend(1)}
 65	4	{speed(255)}　\n　\n　\n　\n　\n　\n　\n　\n　\nWhat came from the sea,\nhas returned to the sea.{wait(60)}{bwait}{fset(5)}{wend(1)}
@@ -9917,7 +9917,7 @@
 138	2	{KID%}:\nThat means\nViper Manor's\nright above us!{mend}
 138	3	{KID%}:\nHey, mate, I say\nwe wait here\n'til nightfall.{mend}
 138	4	{playwork(0)}:\n{Cap}{w}e{'re}{-umeth}{-}at{-}{-the-}bottom\no{f}{-}{-a-}{w}ell...{mend}
-138	5	{playwork(0)}:\n{Cap}{SERGE},\nV{i}pe{rr}{-}Man{o}{rr}{'s}\n{rwr}{i}ght{-}above{-}u{sth}.{bpage}\n{Cap}{l}et'{stz}{-}{w}{a}it{-umeth}{-}{h'}{e}{rr}e\nuntil{-}n{i}ght{f}all.{mend}
+138	5	{playwork(0)}:\n{Cap}{SERGE%},\nV{i}pe{rr}{-}Man{o}{rr}{'s}\n{rwr}{i}ght{-}above{-}u{sth}.{bpage}\n{Cap}{l}et'{stz}{-}{w}{a}it{-umeth}{-}{h'}{e}{rr}e\nuntil{-}n{i}ght{f}all.{mend}
 138	6	{ERROR}
 138	7	{ERROR}
 138	8	{ERROR}
@@ -10180,7 +10180,7 @@
 142	44	{PIERRE%}:\nAhh la lah...\nThey said, non.{bpage}\nEven mon hero's medal\ndidn't work.{mend}
 142	45	{KID%}:\nHell yeah!{wait(60)}\nC'mon!{mend}
 142	46	{KID%}:\nOi!{wait(30)}{bpage}\nOpen up and\nlet us through!{mend}
-142	47	{playwork(0)}:\n{Cap}{l}et'{stz}{-}g{o}{-umeth},\n{SERGE}.{mend}
+142	47	{playwork(0)}:\n{Cap}{l}et'{stz}{-}g{o}{-umeth},\n{SERGE%}.{mend}
 142	48	{playwork(0)}:\n{Cap}{w}e{'re}{-}{h'}{e}{rr}e{-}to{-}{sth}{e}e{-umeth}\nGene{rwr}al{-}{VIPER%}.{bpage}\n{Cap}{l}et{-umeth}{-}u{sth}{-}{thf}{rwr}ough.{mend}
 142	49	You asked for it!{mend}
 142	50	Don't mess with the\nAcacia Dragoons!{mend}
@@ -10331,7 +10331,7 @@
 144	3	{KID%}:\nYou sound confident...{mend}
 144	4	{KID%}:\nAlright, let's get\nour arses in gear.{mend}
 144	5	{playwork(0)}:\n......{mend}
-144	6	{playwork(0)}:\n{Cap}{SERGE}, \n{l}et'{stz}{-}g{o}{-umeth}.{mend}
+144	6	{playwork(0)}:\n{Cap}{SERGE%}, \n{l}et'{stz}{-}g{o}{-umeth}.{mend}
 144	7	{KORCHA%}:\nWhat?\nYou wanna head back?{mend}
 144	8	{KORCHA%}:\nWell, hop on, then.{mend}
 144	9	{KORCHA%}:\nHeadin' back already!?\nYou just got here.{mend}
@@ -10623,7 +10623,7 @@
 148	16	Arghhhhhh!!!{wend(30)}
 148	17	{KID%}:\nOi, {SERGE%}.\nWe're inside.{mend}
 148	18	{KID%}:\nLet's wait here\n'til nightfall.{mend}
-148	19	{playwork(0)}:\n{Cap}{SERGE}, {w}{e}{-}m{a}de{-umeth}\nit{-}in{sth}{i}de{-}{-the-}p{rwr}emi{sth}e{sth}.{bpage}\n{Cap}{l}et'{stz}{-}{w}{a}it{-umeth}{-}{h'}{e}{rr}e\nuntil{-}n{i}ght{f}all.{mend}
+148	19	{playwork(0)}:\n{Cap}{SERGE%}, {w}{e}{-}m{a}de{-umeth}\nit{-}in{sth}{i}de{-}{-the-}p{rwr}emi{sth}e{sth}.{bpage}\n{Cap}{l}et'{stz}{-}{w}{a}it{-umeth}{-}{h'}{e}{rr}e\nuntil{-}n{i}ght{f}all.{mend}
 148	20	{ERROR}
 148	21	{ERROR}
 148	22	{ERROR}
@@ -10812,11 +10812,11 @@
 150	12	{playwork(0)}:\n{Cap}{w}{e}{-}n{e}ed{-umeth}{-}{-a-}k{e}y\nto{-}{o}pen{-umeth}{-}it.{mend}
 150	13	{playwork(0)}:\nAny{-}{sth}e{rr}vant\nin{-}V{i}pe{rr}{-}Mano{rr}\nshould{-}{h'}ave{-umeth}{-}one.{mend}
 150	14	{playwork(0)}:\n{Cap}{thd}e{rr}e{-}should{-}be{-umeth}\n{-a-}d{rwr}agon{-}{sth}t{a}ble\nout{-}back.{mend}
-150	15	{playwork(0)}:\n{Cap}{SERGE},\n{l}et'{stz}{-}check{-umeth}{-}out{-}back.{mend}
+150	15	{playwork(0)}:\n{Cap}{SERGE%},\n{l}et'{stz}{-}check{-umeth}{-}out{-}back.{mend}
 150	16	{KID%}:\nBloody hell!{wait(30)}\nI knew it was locked!{mend}
 150	17	{KID%}:\n{SERGE%}, let's\ncheck out back.{mend}
 150	18	{playwork(0)}:\nIt{-}{won't}{-}{o}pen{-umeth}.{mend}
-150	19	{playwork(0)}:\n{Cap}{SERGE},\n{l}et'{stz}{-}check{-umeth}{-}out{-}back.{mend}
+150	19	{playwork(0)}:\n{Cap}{SERGE%},\n{l}et'{stz}{-}check{-umeth}{-}out{-}back.{mend}
 150	20	Go down?\n　　　Yes\n　　　No{mend}
 150	21	{playwork(0)}:\n{Cap}{w}e{'re}{-}not{-}g{o}in{g'}{-umeth}{-}back,\na{rr}e{-}{w}{e}?{bpage}\nNow{'s}{-umeth}{-}ou{rr}{-}chance.{mend}
 150	22	{playwork(0)}:\n{Cap}{w}e{'re}{-}not{-}g{o}in{g'}{-umeth}{-}back,\na{rr}e{-}{w}{e}?{bpage}\nNow{'s}{-umeth}{-}ou{rr}{-}chance.{mend}
@@ -11017,7 +11017,7 @@
 152	60	My back gave out recently,{wait(20)}\nand I can't feed the dragons.\nI want you to take over for me.{mend}
 152	61	{playwork(0)}:\nDo{-}{-you-}{-}{h'}ave{-umeth}{-}{-a-}k{e}y\nto{-}{-the-}mano{rr}?{mend}
 152	62	Sure do. Wouldn't mind givin' it\nto ya if you take on this job.{mend}
-152	63	{playwork(0)}:\nDo{-umeth}{-}it, {SERGE}.{mend}
+152	63	{playwork(0)}:\nDo{-umeth}{-}it, {SERGE%}.{mend}
 152	64	HUH!? Intruders!?{mend}
 152	65	Hmmm...{wait(30)}\nI don't know how you got in,\nbut if you help me out,\nI won't report you.{mend}
 152	66	{PARTY0%} found\n{color(4)}Manor Key{color(0)}!{mend}
@@ -11363,7 +11363,7 @@
 157	6	{NORRIS%}:\nSir...{bpage}\nThis has been bothering me\nsince we met up in Termina.\nYou seem different from\nwhat I last remember...{bpage}\nYou just seem...\ndifferent...{mend}
 157	7	{playwork(0)}:\n{Cap}{thd}i{sth}{-}man{'s}{-umeth}\nnot{-}Lynx.{mend}
 157	8	{NORRIS%}:\nWhat?{mend}
-157	9	{playwork(0)}:\n{Cap}{h'}{e}{-}m{a}y{-}{l}ook{-umeth}{-}{l}{i}ke{-}Lynx\non{-}{-the-}out{sth}{i}de, but{-}{h'}i{stz}{-}{sth}pi{rwr}it\ni{stz}{-umeth}{-}{thd}at{-}o{f}{-}{SERGE}.{mend}
+157	9	{playwork(0)}:\n{Cap}{h'}{e}{-}m{a}y{-}{l}ook{-umeth}{-}{l}{i}ke{-}Lynx\non{-}{-the-}out{sth}{i}de, but{-}{h'}i{stz}{-}{sth}pi{rwr}it\ni{stz}{-umeth}{-}{thd}at{-}o{f}{-}{SERGE%}.{mend}
 157	10	{NORRIS%}:\nIs it true?\nSir Lynx...{bpage}\nWhat has happened?{mend}
 157	11	{NORRIS%}:\nI see...{mend}
 157	12	{NORRIS%}:\nSo the {SERGE%} commanding\nthe insurgent troops is\nthe real Lynx...{bpage}\nEverything is starting\nto make sense.{mend}
@@ -11688,7 +11688,7 @@
 161	16	Old Man:\nOh my... You must be...{wait(30)}\nYes, yes...{wait(20)}\nYou must be {SERGE%}.{bpage}\nMy, how you have grown.{mend}
 161	17	{MARCY%}:\nLike, can I kill 'em, yet?{mend}
 161	18	Old Man:\nPatience child, patience!\nI need to have a word\nwith these people...{mend}
-161	19	{playwork(0)}:\n{Cap}{w}ho{-}a{rr}e{-umeth}{-}{-you-}?{bpage}\n{Cap}And{-}{h'}ow{-}do{-umeth}\n{-you-}{-}kn{o}w{-umeth}\n{SERGE}?{mend}
+161	19	{playwork(0)}:\n{Cap}{w}ho{-}a{rr}e{-umeth}{-}{-you-}?{bpage}\n{Cap}And{-}{h'}ow{-}do{-umeth}\n{-you-}{-}kn{o}w{-umeth}\n{SERGE%}?{mend}
 161	20	Old Man:\nHmm... How do I explain...?{wait(30)}\nI guess you could say I am\nthe prophet of time.{mend}
 161	21	Prophet:\nListen carefully.{wend(40)}
 161	22	Prophet:\nThe world is not just\na single entity.{bpage}\nAnother world similar\nto our own exists in\nanother dimension.{bpage}\nThere you will find what\nyou might have become,\na world of possibilities\nthat might have existed,{bpage}\na whole history that has\nnot been written yet...{bpage}\nIt is out there somewhere...{bpage}\nWe are simply unable to\nsee, feel, or experience it.{mend}
@@ -11699,10 +11699,10 @@
 161	27	{KID%}:\nThen why the bloody hell\ndid {SERGE%} die...?{mend}
 161	28	{KID%}:\nThe reason has to be somethin' that happened 10 years ago!{mend}
 161	29	{playwork(0)}:\nI{f}{-}{wha}{t-you}{-}{sth}{a}y{'s}{-umeth}{-}t{rwr}ue,\nand{-}{thd}i{sth}{-}{w}o{rwr}ld{'s}{-umeth}\n{-an-}alte{rr}nate{-}{rwr}{e}al{i}ty...{mend}
-161	30	{playwork(0)}:\n{Cap}{thd}en, {w}hy{-}did{-umeth}\n{SERGE} d{i}e{-umeth}...?{mend}
+161	30	{playwork(0)}:\n{Cap}{thd}en, {w}hy{-}did{-umeth}\n{SERGE%} d{i}e{-umeth}...?{mend}
 161	31	{playwork(0)}:\n{Cap}{-the-}{CapL}{rwr}{e}a{sth}on{-}{h'}{a}{stz}{-}to{-}b{e}{-umeth}\n{sth}ome{thf}in{g'}{-}{thd}at{-}{h'}appened{-umeth}\n10{-}y{e}a{rr}{stz}{-}ag{o}!{mend}
 161	32	{playwork(0)}:\nI{f}{-}{wha}{t-you}{-}{sth}{a}y{'s}{-umeth}{-}t{rwr}ue,\nand{-}{thd}i{sth}{-}{w}o{rwr}ld{'s}{-umeth}\n{-an-}alte{rr}nate{-}{rwr}{e}ality...{mend}
-161	33	{playwork(0)}:\n{Cap}{thd}en, {w}hy{-}d{i}d{-umeth}\n{SERGE} d{i}e{-umeth}...?{mend}
+161	33	{playwork(0)}:\n{Cap}{thd}en, {w}hy{-}d{i}d{-umeth}\n{SERGE%} d{i}e{-umeth}...?{mend}
 161	34	{playwork(0)}:\n{Cap}{-the-}{CapL}{rwr}{e}a{sth}on{-}{h'}{a}{stz}{-}to{-}b{e}{-umeth}\n{sth}ome{thf}in{g'}{-}{thd}at{-}{h'}appened{-umeth}\n10{-}y{e}a{rr}{stz}{-}ag{o}!{mend}
 161	35	Prophet:\nYou can only find\nout by moving on...{mend}
 161	36	{MARCY%}:\nNo way I'm gonna let you!{mend}
@@ -12804,7 +12804,7 @@
 174	4	{FARGO%}:\nShiver me timbers!\nLYNX!?{mend}
 174	5	{playwork(0)}:\nJu{sth}t{-}ca{l}m{-umeth}{-}down...{bpage}\nDo{-}{-you-}{-}{rwr}{e}ally{-}{thf}ink{-umeth}\nLynx{-}{w}ou{l}d{-}b{e}{-umeth}{-}{h'}{e}{rr}e?{mend}
 174	6	{FARGO%}:\nHe's right before\nme eyes, ain't he!?{mend}
-174	7	{playwork(0)}:\n{Cap}{thd}i{sth}{-}i{stz}{n't}{-umeth}{-}Lynx.{bpage}\n{Cap}{h'}{e}{'s}{-umeth}{-}{SERGE}\non{-}{-the-}in{sth}{i}de.{mend}
+174	7	{playwork(0)}:\n{Cap}{thd}i{sth}{-}i{stz}{n't}{-umeth}{-}Lynx.{bpage}\n{Cap}{h'}{e}{'s}{-umeth}{-}{SERGE%}\non{-}{-the-}in{sth}{i}de.{mend}
 174	8	{FARGO%}:\nYou're pullin' me leg!{mend}
 174	9	{FARGO%}:\nHmmm... It is strange\nthat he'd be here...{mend}
 174	10	{FARGO%}:\nBut I'm honored that\nyou would come save me.{bpage}\nI owe ya one.{mend}
@@ -14312,7 +14312,7 @@
 194	12	{PIERRE%}:\nExcusez-moi, but\nshouldn't we wait\nuntil nightfall?{mend}
 194	13	{KID%}:\nTch...{wait(30)}\nYeah, I guess...{mend}
 194	14	{playwork(0)}:\n{Cap}{-I-}{-}gue{ss}{-umeth}{-}{sth}{o}.{mend}
-194	15	{playwork(0)}:\n{Cap}{SERGE}, should{n't}\n{w}{e}{-}{w}{a}it{-}until{-}n{i}ght{f}all?{mend}
+194	15	{playwork(0)}:\n{Cap}{SERGE%}, should{n't}\n{w}{e}{-}{w}{a}it{-}until{-}n{i}ght{f}all?{mend}
 194	16	We haven't received\nofficial word, but there\nseems to have been some\ntrouble inside.{mend}
 194	17	Sir Lynx,\nplease go on through.{mend}
 194	18	Please go on through.{mend}
@@ -17535,7 +17535,7 @@
 213	313	{ERROR}
 213	314	{ERROR}
 213	315	{ERROR}
-214	0	{PARTY1%}:\n{Cap}{SERGE}, \n{aren't-you}{-}g{o}in{g'}{-umeth} \nto{-}{sth}{e}e{-umeth}{-}{KID%}?{mend}
+214	0	{PARTY1%}:\n{Cap}{SERGE%}, \n{aren't-you}{-}g{o}in{g'}{-umeth} \nto{-}{sth}{e}e{-umeth}{-}{KID%}?{mend}
 214	1	{PARTY2%}:\n......{wait(15)}\nI{stz}{-}{thd}e{rr}e{-umeth}{-}n{o}{-}o{thvv}e{rr}\n{w}{a}y{-}to{-}{sth}{a}ve{-umeth}{-}{h'}e{rr}?{mend}
 214	2	{DOC%}:\n{speed(72)}...Oh, it's you dudes.\nThe patient's strength is at\nits limit.{wait(15)} Without the antidote...{mend}
 214	3	{DOC%}:\nI will do what I can.\nYou dudes go do whatever\nyou can for her.{bpage}\nTo be perfectly honest, without\nthe antidote, her chances of\nsurvival are close to zilch.{bpage}\nBut we cannot give up hope\nwithout a fight.{mend}
@@ -17574,8 +17574,8 @@
 214	36	...Doctor?{mend}
 214	37	{KORCHA%}:\nH-Hey,{wait(5)} {DOC%}!\nWhere are you going!?{wait(15)}\nNothing's been resolved yet!{mend}
 214	38	{DOC%}:\n...Excuse me.{wait(20)}\nI need to be alone\nfor a while.{mend}
-214	39	{PARTY1%}:\n{Cap}{SERGE},\n{wha}t{-}a{rr}e{-}{w}{e}\ng{o}in{g'}{-umeth}{-}to{-}do?{bpage}\n{Cap}{KID%}{-}i{stz}\ng{o}in{g'}{-umeth}{-}to{-}d{i}e{-umeth}\ni{f}{-}{w}{e}{-}{l}{e}ave{-umeth}\n{h'}e{rr}{-}{l}{i}ke{-}{thd}i{sth}.{mend}
-214	40	{PARTY2%}:\n{Cap}{SERGE},\n{wha}t{-}a{rr}e{-}{w}{e}\ng{o}in{g'}{-umeth}{-}to{-}do?{bpage}\n{Cap}{KID%}{-}i{stz}\ng{o}in{g'}{-umeth}{-}to{-}d{i}e{-umeth}\ni{f}{-}{w}{e}{-}{l}{e}ave{-umeth}\n{h'}e{rr}{-}{l}{i}ke{-}{thd}i{sth}.{mend}
+214	39	{PARTY1%}:\n{Cap}{SERGE%},\n{wha}t{-}a{rr}e{-}{w}{e}\ng{o}in{g'}{-umeth}{-}to{-}do?{bpage}\n{Cap}{KID%}{-}i{stz}\ng{o}in{g'}{-umeth}{-}to{-}d{i}e{-umeth}\ni{f}{-}{w}{e}{-}{l}{e}ave{-umeth}\n{h'}e{rr}{-}{l}{i}ke{-}{thd}i{sth}.{mend}
+214	40	{PARTY2%}:\n{Cap}{SERGE%},\n{wha}t{-}a{rr}e{-}{w}{e}\ng{o}in{g'}{-umeth}{-}to{-}do?{bpage}\n{Cap}{KID%}{-}i{stz}\ng{o}in{g'}{-umeth}{-}to{-}d{i}e{-umeth}\ni{f}{-}{w}{e}{-}{l}{e}ave{-umeth}\n{h'}e{rr}{-}{l}{i}ke{-}{thd}i{sth}.{mend}
 214	41	{KORCHA%}:\nI-Is this some kinda joke?{wait(20)}\nWait right here.\nI'll go get the Doctor back!{mend}
 214	42	What'z this? Non apologies\nfor bumping into moi?{wait(15)}\nOoh la lah, don't you\nknow any manners?{mend}
 214	43	{HARLEY%}:\nHa haa, she is down\nfor the count, just\nas I t'ought.{mend}
@@ -17623,7 +17623,7 @@
 214	85	{speed(160)}Y-{wait(3)}Yes!{wend(15)}
 214	86	{KORCHA%}:\nYou heard the Doc.\nWe've done all we can.{wait(15)}\nJust trust him and wait.{mend}
 214	87	{KID%}:\nWhat are ya gonna do, {SERGE%}?{wait(15)}\n　　　Go back home\n　　　I won't go back yet{mend}
-214	88	{PARTY1%}:\n{Cap}{SERGE},{wait(20)}\na{rr}e{-}{-you-}{-}{sth}u{rr}e{-}{-you-}{'re}{-}g{o}in{g'}{-umeth}\nto{-}b{e}{-umeth}{-}{sth}ati{sth}{f}{i}ed{-}{w}i{thff}{-}{thd}at?{mend}
+214	88	{PARTY1%}:\n{Cap}{SERGE%},{wait(20)}\na{rr}e{-}{-you-}{-}{sth}u{rr}e{-}{-you-}{'re}{-}g{o}in{g'}{-umeth}\nto{-}b{e}{-umeth}{-}{sth}ati{sth}{f}{i}ed{-}{w}i{thff}{-}{thd}at?{mend}
 214	89	{KID%}:\n{speed(48)}I see...{speed(128)}{wait(30)}\nThen I'll stick around with\nya a little longer.{bpage}\nBut just don't slow me\ndown, ya hear?{mend}
 214	90	{KID%}:\nI don't know what happened\n10 years ago...{bpage}\nBut it looks like {VIPER%}'s mob\nhave got something to do with it.{bpage}\nLet's go after 'em.{wait(15)}\nI need to go bash up that Lynx\ncharacter and get me hands on\nthe Frozen Flame!{mend}
 214	91	{KID%}:\n{speed(64)}Lynx...{bpage}\n{speed(72)}He stole something\nprecious from me...{wait(15)}\nHe's taken away my future...!{bpage}\n{speed(160)}I'll find him!{wait(15)}\nNo matter what it takes!{mend}
@@ -17642,9 +17642,9 @@
 214	104	{KORCHA%}:\nThe only ones looking over\nyou while we were gone were\nthe Doc and the nurse.{bpage}\nThey should be in the room next\ndoor, so let's ask them when we\nhead out.{wait(15)}\nThe Doc should know something.{mend}
 214	105	{KID%}:\n{speed(64)}......{wait(20)}\n{speed(96)}I hope you're right.{mend}
 214	106	{POSHUL%}:\nThink about it, {SERGE%}!{bpage}\nWhy did you take the \ntrouble to cross the \nworlds to help {KID%}?{bpage}\nIt wasn't just because you\nwanted to go back to your\nworld, right?{bpage}\nYou had other reasons to\ncome back to this world!{mend}
-214	107	{PARTY2%}:\n{Cap}{thf}ink{-umeth}{-}about{-}it, {SERGE}!{bpage}\n{Cap}{w}hy{-}did{-}{-you-}{-}t{a}ke{-umeth}{-}{-the-}\nt{rwr}ouble{-}to{-}c{rwr}o{ss}{-umeth}{-}{-the-}\n{w}o{rwr}ld{stz}{-}to{-}{h'}elp{-umeth}{-}{KID%}?{bpage}\nIt{-}{w}a{stz}{n't}{-}ju{sth}t{-}b{e}cau{sth}e{-}{-you-}\n{w}anted{-}to{-}g{o}{-umeth}{-}back{-}to{-}{-your-}\n{w}o{rwr}ld, {rwr}{i}ght?{bpage}\n{Cap}{-you-}{-}{h'}ad{-umeth}{-}o{thvv}e{rr}{-}{rwr}{e}a{sth}on{sth}{-}to\ncome{-umeth}{-}back{-}to{-}{thd}i{sth}{-}{w}o{rwr}ld!{mend}
-214	108	{PARTY2%}:\n{Cap}{thf}ink{-umeth}{-}about{-}it, {SERGE}!{bpage}\n{Cap}{w}hy{-}did{-}{-you-}{-}t{a}ke{-umeth}{-}{-the-}\nt{rwr}ouble{-}to{-}c{rwr}o{ss}{-umeth}{-}{-the-}\n{w}o{rwr}ld{stz}{-}to{-}{h'}elp{-umeth}{-}{KID%}?{bpage}\nIt{-}{w}a{stz}{n't}{-}ju{sth}t{-}b{e}cau{sth}e{-}{-you-}\n{w}anted{-}to{-}g{o}{-umeth}{-}back{-}to{-}{-your-}\n{w}o{rwr}ld, {rwr}{i}ght?{bpage}\n{Cap}{-you-}{-}{h'}ad{-umeth}{-}o{thvv}e{rr}{-}{rwr}{e}a{sth}on{sth}{-}to\ncome{-umeth}{-}back{-}to{-}{thd}i{sth}{-}{w}o{rwr}ld!{mend}
-214	109	{PARTY2%}:\n{Cap}{thf}ink{-umeth}{-}about{-}it, {SERGE}!{bpage}\n{Cap}{w}hy{-}did{-}{-you-}{-}t{a}ke{-umeth}{-}{-the-}\nt{rwr}ouble{-}to{-}c{rwr}o{ss}{-umeth}{-}{-the-}\n{w}o{rwr}ld{stz}{-}to{-}{h'}elp{-umeth}{-}{KID%}?{bpage}\nIt{-}{w}a{stz}{n't}{-}ju{sth}t{-}b{e}cau{sth}e{-}{-you-}\n{w}anted{-}to{-}g{o}{-umeth}{-}back{-}to{-}{-your-}\n{w}o{rwr}ld, {rwr}{i}ght?{bpage}\n{Cap}{-you-}{-}{h'}ad{-umeth}{-}o{thvv}e{rr}{-}{rwr}{e}a{sth}on{sth}{-}to\ncome{-umeth}{-}back{-}to{-}{thd}i{sth}{-}{w}o{rwr}ld!{mend}
+214	107	{PARTY2%}:\n{Cap}{thf}ink{-umeth}{-}about{-}it, {SERGE%}!{bpage}\n{Cap}{w}hy{-}did{-}{-you-}{-}t{a}ke{-umeth}{-}{-the-}\nt{rwr}ouble{-}to{-}c{rwr}o{ss}{-umeth}{-}{-the-}\n{w}o{rwr}ld{stz}{-}to{-}{h'}elp{-umeth}{-}{KID%}?{bpage}\nIt{-}{w}a{stz}{n't}{-}ju{sth}t{-}b{e}cau{sth}e{-}{-you-}\n{w}anted{-}to{-}g{o}{-umeth}{-}back{-}to{-}{-your-}\n{w}o{rwr}ld, {rwr}{i}ght?{bpage}\n{Cap}{-you-}{-}{h'}ad{-umeth}{-}o{thvv}e{rr}{-}{rwr}{e}a{sth}on{sth}{-}to\ncome{-umeth}{-}back{-}to{-}{thd}i{sth}{-}{w}o{rwr}ld!{mend}
+214	108	{PARTY2%}:\n{Cap}{thf}ink{-umeth}{-}about{-}it, {SERGE%}!{bpage}\n{Cap}{w}hy{-}did{-}{-you-}{-}t{a}ke{-umeth}{-}{-the-}\nt{rwr}ouble{-}to{-}c{rwr}o{ss}{-umeth}{-}{-the-}\n{w}o{rwr}ld{stz}{-}to{-}{h'}elp{-umeth}{-}{KID%}?{bpage}\nIt{-}{w}a{stz}{n't}{-}ju{sth}t{-}b{e}cau{sth}e{-}{-you-}\n{w}anted{-}to{-}g{o}{-umeth}{-}back{-}to{-}{-your-}\n{w}o{rwr}ld, {rwr}{i}ght?{bpage}\n{Cap}{-you-}{-}{h'}ad{-umeth}{-}o{thvv}e{rr}{-}{rwr}{e}a{sth}on{sth}{-}to\ncome{-umeth}{-}back{-}to{-}{thd}i{sth}{-}{w}o{rwr}ld!{mend}
+214	109	{PARTY2%}:\n{Cap}{thf}ink{-umeth}{-}about{-}it, {SERGE%}!{bpage}\n{Cap}{w}hy{-}did{-}{-you-}{-}t{a}ke{-umeth}{-}{-the-}\nt{rwr}ouble{-}to{-}c{rwr}o{ss}{-umeth}{-}{-the-}\n{w}o{rwr}ld{stz}{-}to{-}{h'}elp{-umeth}{-}{KID%}?{bpage}\nIt{-}{w}a{stz}{n't}{-}ju{sth}t{-}b{e}cau{sth}e{-}{-you-}\n{w}anted{-}to{-}g{o}{-umeth}{-}back{-}to{-}{-your-}\n{w}o{rwr}ld, {rwr}{i}ght?{bpage}\n{Cap}{-you-}{-}{h'}ad{-umeth}{-}o{thvv}e{rr}{-}{rwr}{e}a{sth}on{sth}{-}to\ncome{-umeth}{-}back{-}to{-}{thd}i{sth}{-}{w}o{rwr}ld!{mend}
 214	110	{ERROR}
 214	111	{ERROR}
 214	112	{ERROR}
@@ -19701,7 +19701,7 @@
 224	19	{STEENA%}:\n{speed(96)}The Land of Genesis...\nI have no idea where it\nmay lie...{mend}
 224	20	{STEENA%}:\n{speed(96)}But...all phenomena\nhave their reasons...{bpage}\nI feel that there is some\nother will acting behind this...\nSomething other than the fact\nthat you are dead in this world...{mend}
 224	21	{STEENA%}:\n{speed(96)}The dimensional distortion that\nChief Direa mentioned earlier...{bpage}\nAssuming that this exists in the\nLand of Genesis, why could you\nnot return to your own world?{wait(20)}\nI find that truly puzzling...{mend}
-224	22	{STEENA%}:\n{speed(96)}I believe that there is a “key item” that you need in order to make the jump between worlds.{bpage}\nSomething that matches the\nmissing piece of the puzzle.{bpage}\nSomething powerful enough to\nsend {SERGE%} back...\n{SERGE}, who in this world is a\nmissing piece himself...{mend}
+224	22	{STEENA%}:\n{speed(96)}I believe that there is a “key item” that you need in order to make the jump between worlds.{bpage}\nSomething that matches the\nmissing piece of the puzzle.{bpage}\nSomething powerful enough to\nsend {SERGE%} back...\n{SERGE%}, who in this world is a\nmissing piece himself...{mend}
 224	23	{STEENA%}:\nIt is a one-of-a-kind orb that\nour ancestors received from\nthe now extinct Dragonians.{bpage}\nTraditionally, it was passed\ndown to each successive\nshaman, but someone has\ntaken it away from Guldove.{mend}
 224	24	{STEENA%}:\nAccording to legend, the Dragon\nTear is required to activate the\nruin of Fort Dragonia.{bpage}\n{speed(96)}It is a tough and steep trail\nto the top. Not even the locals\nventure up there.{wait(20)}\n{speed(72)}But even so...{bpage}\n{speed(96)}If the assailant's goal is to\nactivate the fort, it will\ncertainly bring disaster\nto this world...{mend}
 224	25	Direa:\n{speed(80)}{color(GRAY)}Yes...{color(0)}{wait(15)} That is correct.{wait(30)}\nThis Dragonian ruin is a product\nof their “crystal of wisdom.”{bpage}\n{speed(96)}Its power is unknown, yet much\ntoo powerful for any human.{bpage}\nIf the ruin were to be\nactivated by chance, it would\nemit uncontrollable power...{wait(30)}\nAll would surely end in disaster.{mend}
@@ -20149,7 +20149,7 @@
 226	1	{speed(64)}...{wait(0)}...{mend}
 226	2	Please don't give up hope.\nWe will do the best that we can.{mend}
 226	3	{PARTY2%}:\n...{Cap}{wha}t{'s}{-}g{o}in{g'}{-umeth}{-}on?{wait(20)}\n{Cap}{w}he{rr}e{'s}{-umeth}{-}{KID%}...?\nD{o}{n't}{-}tell{-umeth}{-}{-me-}{-}sh{e}...{mend}
-226	4	{PARTY1%}:\n{Cap}{SERGE}...\nIt{'s}{-umeth}{-}not{-}{-your-}{-}fault...{mend}
+226	4	{PARTY1%}:\n{Cap}{SERGE%}...\nIt{'s}{-umeth}{-}not{-}{-your-}{-}fault...{mend}
 226	5	{KID%}:\n{speed(96)}...What're you guys\nall doin' there?{mend}
 226	6	{KID%}:\nOi, it's been a while, eh?{wait(15)}\nBut what's with the astonished\nlooks on yer faces?{mend}
 226	7	{KID%}:\nHuh, what?{wait(15)}\nWhere was I?{bpage}\nOh, I complained about this\nstupid gown, but then they hid\nme own clothes somewhere to\nstop me from tryin' to escape...{mend}
@@ -20181,7 +20181,7 @@
 226	33	{PARTY1%}:\n{speed(80)}{Cap}{wha}t{-}do{-}{-you-}{-}m{e}an{-umeth}\nby{-}{thd}at...?{mend}
 226	34	{KID%}:\n{speed(96)}{SERGE%}, you\nhold the key\nto our problems.{mend}
 226	35	{KID%}:\nYou heard the story from the\nvillage shaman, right?{bpage}\n{speed(72)}The story about the\n“{wait(0)}L{wait(0)}a{wait(0)}n{wait(0)}d{wait(0)} {wait(0)}o{wait(0)}f {wait(0)}G{wait(0)}e{wait(0)}n{wait(0)}e{wait(0)}s{wait(0)}i{wait(0)}s{wait(0)}.”{mend}
-226	36	{PARTY1%}:\n{Cap}{KID%}, a{rr}e{-}{-you-}\ntalkin{g'}{-umeth}{-}about\n{-the-}o{thvv}e{rr}{-}{w}o{rwr}ld...?{bpage}\n{Cap}{-the-}{CapL}{w}o{rwr}ld{-}{w}he{rr}e\n{SERGE}\nc{a}me{-umeth}{-}{f}{rwr}om?{mend}
+226	36	{PARTY1%}:\n{Cap}{KID%}, a{rr}e{-}{-you-}\ntalkin{g'}{-umeth}{-}about\n{-the-}o{thvv}e{rr}{-}{w}o{rwr}ld...?{bpage}\n{Cap}{-the-}{CapL}{w}o{rwr}ld{-}{w}he{rr}e\n{SERGE%}\nc{a}me{-umeth}{-}{f}{rwr}om?{mend}
 226	37	{KID%}:\nYeah, that's right.{bpage}\nThe situation in each\nworld is different, right?\nThings missing in one world\ncan be found in the other.{bpage}\nIf that's true, then we\nstill stand a chance!{mend}
 226	38	{PARTY2%}:\nBut{-}{h'}ow{-}a{rr}e{-}{w}{e}\ng{o}in{g'}{-}to{-}get{-umeth}{-}to\n{-the-}o{thvv}e{rr}{-}{w}o{rwr}ld?{mend}
 226	39	{KID%}:\n{speed(72)}My {wait(0)}a{wait(0)}m{wait(0)}u{wait(0)}l{wait(0)}e{wait(0)}t{wait(0)}.{mend}
@@ -20190,7 +20190,7 @@
 226	42	{KID%}:\n{speed(96)}I don't know if you've heard from\nthe Shaman, but you need lots of\npower to cross the dimensions.{bpage}\nShe said it was something\nabout the powers of {wait(0)}h{wait(0)}o{wait(0)}p{wait(0)}e{wait(0)}\nand {wait(0)}w{wait(0)}i{wait(0)}l{wait(0)}l{wait(0)}.{mend}
 226	43	{KID%}:\n{speed(96)}According to the Shaman,\nthis amulet has that sort\nof power.{bpage}\nNormally, I would've just\nthought she was crazy,\nbut this time, maybe I\noughta listen to her.{mend}
 226	44	{KID%}:\n{speed(96)}This amulet alone ain't\nenough to cross dimensions,\nthough.{bpage}\nWe need the other key to make\nthe connection between this\nworld and the other world.{mend}
-226	45	{PARTY1%}:\n{speed(80)}{Cap}{-a-}{CapL}connection...\n{Cap}{sth}{o}{-}{-you-}{'re}{-}{sth}{a}yin{g'}{-umeth}{-}{thd}at\n{SERGE}{-}i{stz}{-umeth}{-}{thd}i{sth}{-}k{e}y?{mend}
+226	45	{PARTY1%}:\n{speed(80)}{Cap}{-a-}{CapL}connection...\n{Cap}{sth}{o}{-}{-you-}{'re}{-}{sth}{a}yin{g'}{-umeth}{-}{thd}at\n{SERGE%}{-}i{stz}{-umeth}{-}{thd}i{sth}{-}k{e}y?{mend}
 226	46	{KID%}:\n{speed(96)}According to the Shaman,\nyeah.{bpage}\n{speed(72)}Someone that's not supposed\nto be in this world -- they're\nthe link to a world that was\nsevered 10 years ago.{bpage}\nThe missing piece of the puzzle.{mend}
 226	47	{KID%}:\n{speed(96)}That's the lowdown.{wait(20)}\nThe rest is up to you,\n{SERGE%}.{bpage}\nFirst we need to get that\n“divine protection” or\nwhatever from the\nWater Dragon.{mend}
 226	48	{KID%}:\nWell,{wait(5)} I don't know\nabout you, but...{bpage}\nI probably don't need\nno Dragon's protection\nto get me through hot\nwater!{mend}
@@ -20635,9 +20635,9 @@
 228	41	{ERROR}
 229	0	{ORLHA%}:\nThere,{wait(5)} that'll teach you\na lesson, o great soldier-man!{wait(15)}\nOr do you need another round?{mend}
 229	1	Y-{wait(5)}You{wait(5)} heard us.{wait(15)}\nC-{wait(5)}Cease your{wait(5)} r-{wait(5)}resistance.{wait(20)}\nA woman should...{wait(10)}be more gentle{wait(10)}\na-{wait(5)}and ladylike...{mend}
-229	2	{PARTY1%}:\n{Cap}{SERGE}, i{stz}{n't}{-umeth}{-}{thd}e{rr}e\n{sth}ome{thf}in{g'}{-}{sth}t{rwr}{a}nge\nabout{-}{thd}i{sth}{-}village?{mend}
-229	3	{PARTY2%}:\n{Cap}{SERGE}, i{stz}{n't}{-umeth}{-}{thd}e{rr}e\n{sth}ome{thf}in{g'}{-}{sth}t{rwr}{a}nge\nabout{-}{thd}i{sth}{-}village?{mend}
-229	4	{PARTY0%}:\n{Cap}{SERGE}, i{stz}{n't}{-umeth}{-}{thd}e{rr}e\n{sth}ome{thf}in{g'}{-}{sth}t{rwr}{a}nge\nabout{-}{thd}i{sth}{-}village?{mend}
+229	2	{PARTY1%}:\n{Cap}{SERGE%}, i{stz}{n't}{-umeth}{-}{thd}e{rr}e\n{sth}ome{thf}in{g'}{-}{sth}t{rwr}{a}nge\nabout{-}{thd}i{sth}{-}village?{mend}
+229	3	{PARTY2%}:\n{Cap}{SERGE%}, i{stz}{n't}{-umeth}{-}{thd}e{rr}e\n{sth}ome{thf}in{g'}{-}{sth}t{rwr}{a}nge\nabout{-}{thd}i{sth}{-}village?{mend}
+229	4	{PARTY0%}:\n{Cap}{SERGE%}, i{stz}{n't}{-umeth}{-}{thd}e{rr}e\n{sth}ome{thf}in{g'}{-}{sth}t{rwr}{a}nge\nabout{-}{thd}i{sth}{-}village?{mend}
 229	5	{PARTY2%}:\nPor{rr}e{-}{sth}oldie{rr}{sth}!?{wait(15)}\nIn{-umeth}{-}{-a-}{sth}mall{-}village\n{l}{i}ke{-}{thd}i{sth}!?{mend}
 229	6	{PARTY1%}:\nBut{-}{sth}ome{thf}in{g'}{'s}{-umeth}{-}odd.\nAnd{-}{w}ho{'s}{-umeth}{-}{thd}at{-}{l}{a}dy?{mend}
 229	7	{PARTY0%}:\nPor{rr}e{-}{sth}oldie{rr}{sth}!?{wait(15)}\nIn{-umeth}{-}{-a-}{sth}mall{-}village\n{l}{i}ke{-}{thd}i{sth}!?{mend}
@@ -20767,7 +20767,7 @@
 230	29	I wish I could beat the information\nout of those yellow monsters, but\nthey fight in large numbers.{bpage}\nWell, l must admit, I'm not very\nstrong, either...{wait(20)}\n{speed(72)}Anyway, my explorer instincts tell\nme they definitely know something!{mend}
 230	30	After we defeated the Hydra,\nthe forest-dwellers kept\nmurmuring...\n“The forest will die...”{bpage}\nI can't get it out of my head...{mend}
 230	31	{KORCHA%}:\nWhatCHA doin' standin'\nthere in a daze!?{bpage}\nI hate cold and clammy\nplaces! Besides, we ain't\ngot time to sit and toast\nmarshmallows, man!{mend}
-230	32	{PARTY2%}:\n{Cap}{SERGE}!{bpage}\n{Cap}{wha}t{-}a{rr}e{-}{-you-}{-}doin{g'}{-umeth}\nju{sth}t{-}{sth}tandin{g'}{-umeth}{-}{thd}e{rr}e\nin{-}{-a-}d{a}ze{-}{l}{i}ke{-}{thd}at?{bpage}\n{Cap}{w}{e}{-}{h'}ave{n't}{-}got\nt{i}me{-}to{-}{sth}pa{rr}e{-umeth}!\n{Cap}{l}et'{stz}{-}k{e}ep{-}movin{g'}{-umeth}!{mend}
+230	32	{PARTY2%}:\n{Cap}{SERGE%}!{bpage}\n{Cap}{wha}t{-}a{rr}e{-}{-you-}{-}doin{g'}{-umeth}\nju{sth}t{-}{sth}tandin{g'}{-umeth}{-}{thd}e{rr}e\nin{-}{-a-}d{a}ze{-}{l}{i}ke{-}{thd}at?{bpage}\n{Cap}{w}{e}{-}{h'}ave{n't}{-}got\nt{i}me{-}to{-}{sth}pa{rr}e{-umeth}!\n{Cap}{l}et'{stz}{-}k{e}ep{-}movin{g'}{-umeth}!{mend}
 230	33	It's unconscious and\nblocking the way...{mend}
 230	34	Dwarf Chieftain:\n{speed(32)}Ugh... Too strong...\nHatred...of mankind...{mend}
 230	35	Dwarf Chieftain:\nLeave this forest now, hi-ho!!!\n　　　OK, OK...\n　　　No way!{mend}
@@ -21888,13 +21888,13 @@
 234	10	{PARTY0%}:\n{Cap}{w}{e}{-}n{e}ed{-}{-the-}{Cap}{h'}yd{rwr}a{-}{Cap}{h'}umou{rr}\nto{-}{sth}{a}ve{-umeth}{-}ou{rr}{-}{f}{rwr}iend!{wait(15)}\nP{l}{e}a{sth}e, {w}{e}{-}n{e}ed{-}to{-}get{-umeth}...{mend}
 234	11	{PARTY0%}:\n{Cap}{-a-}{CapL}{h'}{u}man{-}{l}{i}{f}e{-}i{stz}\nat{-}{sth}t{a}ke{-umeth}{-}{h'}{e}{rr}e!{mend}
 234	12	{PARTY1%}:\n{Cap}{w}{e}{-}n{e}ed{-}{-the-}{Cap}{h'}yd{rwr}a{-}{Cap}{h'}umou{rr}\nto{-}{sth}{a}ve{-umeth}{-}ou{rr}{-}{f}{rwr}iend!{wait(15)}\nP{l}{e}a{sth}e, {w}{e}{-}n{e}ed{-}to{-}get{-umeth}...{mend}
-234	13	{PARTY2%}:\n{speed(160)}{Cap}{SERGE}!{wait(5)}\n{Cap}{w}{e}{'ve}{-}come{-umeth}{-}{thd}i{sth}{-}{f}a{rwr}.\n{Cap}{w}{e}{-}{h'}ave{-}to{-}do{-umeth}{-}{thd}i{sth}!{mend}
-234	14	{PARTY0%}:\n{speed(160)}{Cap}{SERGE}!{wait(5)}\n{Cap}{w}{e}{'ve}{-}come{-umeth}{-}{thd}i{sth}{-}{f}a{rwr}.\n{Cap}{w}{e}{-}{h'}ave{-}to{-}do{-umeth}{-}{thd}i{sth}!{mend}
-234	15	{PARTY1%}:\n{speed(160)}{Cap}{SERGE}!{wait(5)}\n{Cap}{w}{e}{'ve}{-}come{-umeth}{-}{thd}i{sth}{-}{f}a{rwr}.\n{Cap}{w}{e}{-}{h'}ave{-}to{-}do{-umeth}{-}{thd}i{sth}!{mend}
+234	13	{PARTY2%}:\n{speed(160)}{Cap}{SERGE%}!{wait(5)}\n{Cap}{w}{e}{'ve}{-}come{-umeth}{-}{thd}i{sth}{-}{f}a{rwr}.\n{Cap}{w}{e}{-}{h'}ave{-}to{-}do{-umeth}{-}{thd}i{sth}!{mend}
+234	14	{PARTY0%}:\n{speed(160)}{Cap}{SERGE%}!{wait(5)}\n{Cap}{w}{e}{'ve}{-}come{-umeth}{-}{thd}i{sth}{-}{f}a{rwr}.\n{Cap}{w}{e}{-}{h'}ave{-}to{-}do{-umeth}{-}{thd}i{sth}!{mend}
+234	15	{PARTY1%}:\n{speed(160)}{Cap}{SERGE%}!{wait(5)}\n{Cap}{w}{e}{'ve}{-}come{-umeth}{-}{thd}i{sth}{-}{f}a{rwr}.\n{Cap}{w}{e}{-}{h'}ave{-}to{-}do{-umeth}{-}{thd}i{sth}!{mend}
 234	16	{POSHUL%}:\nThe Hydra mutht\nbe up ahead.{wait(15)}\nRet'th go, {SERGE%}!{mend}
-234	17	{PARTY1%}:\n{Cap}{-the-}{Cap}{h'}yd{rwr}a{-}mu{sth}t\nb{e}{-umeth}{-}up{-}ahead.{wait(15)}\n{Cap}{l}et'{stz}{-}g{o}{-umeth}, {SERGE}!{mend}
-234	18	{PARTY2%}:\n{Cap}{-the-}{Cap}{h'}yd{rwr}a{-}mu{sth}t\nb{e}{-umeth}{-}up{-}ahead.{wait(15)}\n{Cap}{l}et'{stz}{-}g{o}{-umeth}, {SERGE}!{mend}
-234	19	{PARTY0%}:\n{Cap}{-the-}{Cap}{h'}yd{rwr}a{-}mu{sth}t\nb{e}{-umeth}{-}up{-}ahead.{wait(15)}\n{Cap}{l}et'{stz}{-}g{o}{-umeth}, {SERGE}!{mend}
+234	17	{PARTY1%}:\n{Cap}{-the-}{Cap}{h'}yd{rwr}a{-}mu{sth}t\nb{e}{-umeth}{-}up{-}ahead.{wait(15)}\n{Cap}{l}et'{stz}{-}g{o}{-umeth}, {SERGE%}!{mend}
+234	18	{PARTY2%}:\n{Cap}{-the-}{Cap}{h'}yd{rwr}a{-}mu{sth}t\nb{e}{-umeth}{-}up{-}ahead.{wait(15)}\n{Cap}{l}et'{stz}{-}g{o}{-umeth}, {SERGE%}!{mend}
+234	19	{PARTY0%}:\n{Cap}{-the-}{Cap}{h'}yd{rwr}a{-}mu{sth}t\nb{e}{-umeth}{-}up{-}ahead.{wait(15)}\n{Cap}{l}et'{stz}{-}g{o}{-umeth}, {SERGE%}!{mend}
 234	20	{PARTY2%}:\n{Cap}{thd}e{rr}e{'s}{-}not{-}{-a-}{sth}ingle\nd{w}a{rr}{f}{-}{rwr}{o}amin{g'}{-umeth}{-}{thd}i{sth}\n{f}o{rwr}e{sth}t{-}anym{o}{rr}e...{bpage}\n{Cap}{h'}ave{-}{thd}ey{-}abandoned{-umeth}\n{thd}i{sth}{-}p{l}{a}ce?{mend}
 234	21	{PARTY1%}:\n{speed(96)}...{Cap}{l}et'{stz}{-}{h'}u{rw}{rwr}y{-umeth}.{mend}
 234	22	{PARTY0%}:\n{Cap}{thd}e{rr}e{'s}{-}not{-}{-a-}{sth}ingle\nd{w}a{rr}{f}{-}{rwr}{o}amin{g'}{-umeth}{-}{thd}i{sth}\n{f}o{rwr}e{sth}t{-}anym{o}{rr}e...{bpage}\n{Cap}{h'}ave{-}{thd}ey{-}abandoned{-umeth}\n{thd}i{sth}{-}p{l}{a}ce?{mend}
@@ -22312,8 +22312,8 @@
 236	1	{SPRIGG%}:\nIt's time to pahr-tay!{wait(10)}\nLet's have a toast to our\nreturn into the real world!{mend}
 236	2	You beeba human...?{wait(15)}\nI don't like humans...{mend}
 236	3	There's a monster sleeping\nsoundly on top of a tree...{mend}
-236	4	{PARTY1%}:\n{Cap}{thd}at{-}{thf}in{g'}{'s}{-}b{l}ockin{g'}{-umeth}\n{-the-}{w}{a}y.{bpage}\nP{l}u{sth}, {thd}e{rr}e{'s}{-}n{o}\no{thvv}e{rr}{-}path{-}to{-}t{a}ke{-umeth}...{bpage}\n{Cap}{wha}t{-}do{-}{w}{e}{-}do{-umeth},\n{SERGE}?{mend}
-236	5	{PARTY0%}:\n{Cap}{thd}at{-}{thf}in{g'}{'s}{-}b{l}ockin{g'}{-umeth}\n{-the-}{w}{a}y.{bpage}\nP{l}u{sth}, {thd}e{rr}e{'s}{-}n{o}\no{thvv}e{rr}{-}path{-}to{-}t{a}ke{-umeth}...{bpage}\n{Cap}{wha}t{-}do{-}{w}{e}{-}do{-umeth},\n{SERGE}?{mend}
+236	4	{PARTY1%}:\n{Cap}{thd}at{-}{thf}in{g'}{'s}{-}b{l}ockin{g'}{-umeth}\n{-the-}{w}{a}y.{bpage}\nP{l}u{sth}, {thd}e{rr}e{'s}{-}n{o}\no{thvv}e{rr}{-}path{-}to{-}t{a}ke{-umeth}...{bpage}\n{Cap}{wha}t{-}do{-}{w}{e}{-}do{-umeth},\n{SERGE%}?{mend}
+236	5	{PARTY0%}:\n{Cap}{thd}at{-}{thf}in{g'}{'s}{-}b{l}ockin{g'}{-umeth}\n{-the-}{w}{a}y.{bpage}\nP{l}u{sth}, {thd}e{rr}e{'s}{-}n{o}\no{thvv}e{rr}{-}path{-}to{-}t{a}ke{-umeth}...{bpage}\n{Cap}{wha}t{-}do{-}{w}{e}{-}do{-umeth},\n{SERGE%}?{mend}
 236	6	You beeba persistent!{wait(15)}\nI don't like persistent people!{mend}
 236	7	　　　Turn back\n　　　Push it out of the way{mend}
 236	8	Whoever it may beeba that disturbs\nmy sleep, I will not tolerate!{wait(15)}\nBut I beeba too tired to\nchase you, so I will let you go.{mend}
@@ -22399,8 +22399,8 @@
 236	88	{ERROR}
 236	89	{ERROR}
 236	90	{ERROR}
-237	0	{PARTY1%}:\nA{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE}?{bpage}\n{speed(96)}{Cap}{-the-}{CapL}toxin{-}{l}evel{stz}{-}{sth}{e}em{-umeth}\n{h'}{i}ghe{rr}{-}{h'}{e}{rr}e{-}{thd}an{-}at\n{-the-}ent{rwr}{a}nce...{bpage}\n{Cap}{-the-}{CapL}p{l}ant{sth}{-}mu{sth}t{'ve}\nm{u}t{a}ted{-umeth}.{mend}
-237	1	{PARTY2%}:\nA{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE}?{bpage}\n{speed(96)}{Cap}{-the-}{CapL}toxin{-}{l}evel{stz}{-}{sth}{e}em{-umeth}\n{h'}{i}ghe{rr}{-}{h'}{e}{rr}e{-}{thd}an{-}at\n{-the-}ent{rwr}{a}nce...{bpage}\n{Cap}{-the-}{CapL}p{l}ant{sth}{-}mu{sth}t{'ve}\nm{u}t{a}ted{-umeth}.{mend}
+237	0	{PARTY1%}:\nA{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE%}?{bpage}\n{speed(96)}{Cap}{-the-}{CapL}toxin{-}{l}evel{stz}{-}{sth}{e}em{-umeth}\n{h'}{i}ghe{rr}{-}{h'}{e}{rr}e{-}{thd}an{-}at\n{-the-}ent{rwr}{a}nce...{bpage}\n{Cap}{-the-}{CapL}p{l}ant{sth}{-}mu{sth}t{'ve}\nm{u}t{a}ted{-umeth}.{mend}
+237	1	{PARTY2%}:\nA{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE%}?{bpage}\n{speed(96)}{Cap}{-the-}{CapL}toxin{-}{l}evel{stz}{-}{sth}{e}em{-umeth}\n{h'}{i}ghe{rr}{-}{h'}{e}{rr}e{-}{thd}an{-}at\n{-the-}ent{rwr}{a}nce...{bpage}\n{Cap}{-the-}{CapL}p{l}ant{sth}{-}mu{sth}t{'ve}\nm{u}t{a}ted{-umeth}.{mend}
 237	2	Jump down?{wait(15)}\n　　　Yes\n　　　No{mend}
 237	3	It's empty...{mend}
 237	4	{PARTY0%} cannot carry\nany more {color(2)}{itemwork(3)}{color(0)}s.{mend}
@@ -23468,9 +23468,9 @@
 240	27	BubbaBeeba:\nIf you beeba good and walk\naway, I will let you go.{wait(15)}\nBeeba gone!{mend}
 240	28	BubbaBeeba:\nYou beeba too persistent...{wait(15)}\nI will beebavenged!{mend}
 240	29	BubbaBeeba:\nI beeba strong!{wait(15)}\nYou beeba no match for me!{mend}
-240	30	{PARTY2%}:\n{Cap}{w}hy{-}d{o}{n't-you}{-}t{rwr}y{-umeth}\nb{l}{o}{w}in{g'}{-}{-the-}{f}{l}{u}te\n{h'}{e}{rr}e, {SERGE}?{mend}
-240	31	{PARTY0%}:\n{Cap}{w}hy{-}d{o}{n't-you}{-}t{rwr}y{-umeth}\nb{l}{o}{w}in{g'}{-}{-the-}{f}{l}{u}te\n{h'}{e}{rr}e, {SERGE}?{mend}
-240	32	{PARTY1%}:\n{Cap}{w}hy{-}d{o}{n't-you}{-}t{rwr}y{-umeth}\nb{l}{o}{w}in{g'}{-}{-the-}{f}{l}{u}te\n{h'}{e}{rr}e, {SERGE}?{mend}
+240	30	{PARTY2%}:\n{Cap}{w}hy{-}d{o}{n't-you}{-}t{rwr}y{-umeth}\nb{l}{o}{w}in{g'}{-}{-the-}{f}{l}{u}te\n{h'}{e}{rr}e, {SERGE%}?{mend}
+240	31	{PARTY0%}:\n{Cap}{w}hy{-}d{o}{n't-you}{-}t{rwr}y{-umeth}\nb{l}{o}{w}in{g'}{-}{-the-}{f}{l}{u}te\n{h'}{e}{rr}e, {SERGE%}?{mend}
+240	32	{PARTY1%}:\n{Cap}{w}hy{-}d{o}{n't-you}{-}t{rwr}y{-umeth}\nb{l}{o}{w}in{g'}{-}{-the-}{f}{l}{u}te\n{h'}{e}{rr}e, {SERGE%}?{mend}
 240	33	BubbaBeeba:\nThis beeba the wrong place!\nThis isn't the “wide open space”\nI was talking about!{mend}
 240	34	{speed(32)}......{mend}
 240	35	It's empty...{mend}
@@ -23898,26 +23898,26 @@
 241	88	{ERROR}
 241	89	{ERROR}
 242	0	{PARTY1%}:\n{Cap}{l}ook{sth}{-}{l}{i}ke{-}{w}{e}{-}{f}ell{-umeth}\n{f}{o}{rr}{-}it{sth}{-}t{rwr}ap.{wait(15)}\nIt{'s}{-}do{-umeth}{-}{o}{rr}{-}d{i}e{-umeth}, now!{mend}
-242	1	{PARTY2%}:\n{Cap}{SERGE}!{bpage}\nP{rwr}{e}pa{rr}e{-umeth}{-}{f}{o}{rr}{-}battle\n{w}h{i}le{-}{w}{e}{-}{h'}old{-umeth}\n{thd}i{sth}{-}{thf}in{g'}{-}o{f}{f}!{bpage}\n{Cap}{thd}e{rr}e{'s}{-}nowhe{rr}e{-}to\n{rwr}un{-umeth}{-}a{stz}{-}{l}on{g'}{-}a{stz}\n{w}e{'re}{-}up{-umeth}{-}{thd}i{sth}{-}t{rwr}{e}e!{mend}
+242	1	{PARTY2%}:\n{Cap}{SERGE%}!{bpage}\nP{rwr}{e}pa{rr}e{-umeth}{-}{f}{o}{rr}{-}battle\n{w}h{i}le{-}{w}{e}{-}{h'}old{-umeth}\n{thd}i{sth}{-}{thf}in{g'}{-}o{f}{f}!{bpage}\n{Cap}{thd}e{rr}e{'s}{-}nowhe{rr}e{-}to\n{rwr}un{-umeth}{-}a{stz}{-}{l}on{g'}{-}a{stz}\n{w}e{'re}{-}up{-umeth}{-}{thd}i{sth}{-}t{rwr}{e}e!{mend}
 242	2	{PARTY2%}:\n{Cap}{l}ook{sth}{-}{l}{i}ke{-}{w}{e}{-}{f}ell{-umeth}\n{f}{o}{rr}{-}it{sth}{-}t{rwr}ap.{wait(15)}\nIt{'s}{-}do{-umeth}{-}{o}{rr}{-}d{i}e{-umeth}, now!{mend}
-242	3	{PARTY0%}:\n{Cap}{SERGE}!{bpage}\nP{rwr}{e}pa{rr}e{-umeth}{-}{f}{o}{rr}{-}battle\n{w}h{i}le{-}{w}{e}{-}{h'}old{-umeth}\n{thd}i{sth}{-}{thf}in{g'}{-}o{f}{f}!{bpage}\n{Cap}{thd}e{rr}e{'s}{-}nowhe{rr}e{-}to\n{rwr}un{-umeth}{-}a{stz}{-}{l}on{g'}{-}a{stz}\n{w}e{'re}{-}up{-umeth}{-}{thd}i{sth}{-}t{rwr}{e}e!{mend}
+242	3	{PARTY0%}:\n{Cap}{SERGE%}!{bpage}\nP{rwr}{e}pa{rr}e{-umeth}{-}{f}{o}{rr}{-}battle\n{w}h{i}le{-}{w}{e}{-}{h'}old{-umeth}\n{thd}i{sth}{-}{thf}in{g'}{-}o{f}{f}!{bpage}\n{Cap}{thd}e{rr}e{'s}{-}nowhe{rr}e{-}to\n{rwr}un{-umeth}{-}a{stz}{-}{l}on{g'}{-}a{stz}\n{w}e{'re}{-}up{-umeth}{-}{thd}i{sth}{-}t{rwr}{e}e!{mend}
 242	4	{PARTY0%}:\n{Cap}{l}ook{sth}{-}{l}{i}ke{-}{w}{e}{-}{f}ell{-umeth}\n{f}{o}{rr}{-}it{sth}{-}t{rwr}ap.{wait(15)}\nIt{'s}{-}do{-umeth}{-}{o}{rr}{-}d{i}e{-umeth}, now!{mend}
-242	5	{PARTY1%}:\n{Cap}{SERGE}!{bpage}\nP{rwr}{e}pa{rr}e{-umeth}{-}{f}{o}{rr}{-}battle\n{w}h{i}le{-}{w}{e}{-}{h'}old{-umeth}\n{thd}i{sth}{-}{thf}in{g'}{-}o{f}{f}!{bpage}\n{Cap}{thd}e{rr}e{'s}{-}nowhe{rr}e{-}to\n{rwr}un{-umeth}{-}a{stz}{-}{l}on{g'}{-}a{stz}\n{w}e{'re}{-}up{-umeth}{-}{thd}i{sth}{-}t{rwr}{e}e!{mend}
+242	5	{PARTY1%}:\n{Cap}{SERGE%}!{bpage}\nP{rwr}{e}pa{rr}e{-umeth}{-}{f}{o}{rr}{-}battle\n{w}h{i}le{-}{w}{e}{-}{h'}old{-umeth}\n{thd}i{sth}{-}{thf}in{g'}{-}o{f}{f}!{bpage}\n{Cap}{thd}e{rr}e{'s}{-}nowhe{rr}e{-}to\n{rwr}un{-umeth}{-}a{stz}{-}{l}on{g'}{-}a{stz}\n{w}e{'re}{-}up{-umeth}{-}{thd}i{sth}{-}t{rwr}{e}e!{mend}
 242	6	Jump in the big hole?\n　　　Go for it!\n　　　Nah, too dangerous{mend}
 242	7	{PARTY2%}:\n{speed(96)}{Cap}{sth}{o}{-}{thd}i{sth}{-}i{stz}{-umeth}{-}{Cap}{w}ingap{e}de...{wait(20)}\nIt{'s}{-umeth}{-}actually{-}{sth}malle{rr}\n{thd}an{-}{-I-}{-}{thd}ought{-umeth}.{mend}
-242	8	{PARTY1%}:\n{Cap}{SERGE}, {w}hy{-}d{o}{n't-you}\nt{rwr}y{-}{f}{e}edin{g'}{-umeth}{-}it{-}{sth}ome{thf}in{g'}?{mend}
+242	8	{PARTY1%}:\n{Cap}{SERGE%}, {w}hy{-}d{o}{n't-you}\nt{rwr}y{-}{f}{e}edin{g'}{-umeth}{-}it{-}{sth}ome{thf}in{g'}?{mend}
 242	9	{PARTY0%}:\n{speed(96)}{Cap}{sth}{o}{-}{thd}i{sth}{-}i{stz}{-umeth}{-}{Cap}{w}ingap{e}de...{wait(20)}\nIt{'s}{-umeth}{-}actually{-}{sth}malle{rr}\n{thd}an{-}{-I-}{-}{thd}ought{-umeth}.{mend}
-242	10	{PARTY2%}:\n{Cap}{SERGE}, {w}hy{-}d{o}{n't-you}\nt{rwr}y{-}{f}{e}edin{g'}{-umeth}{-}it{-}{sth}ome{thf}in{g'}?{mend}
+242	10	{PARTY2%}:\n{Cap}{SERGE%}, {w}hy{-}d{o}{n't-you}\nt{rwr}y{-}{f}{e}edin{g'}{-umeth}{-}it{-}{sth}ome{thf}in{g'}?{mend}
 242	11	{PARTY1%}:\n{speed(96)}{Cap}{sth}{o}{-}{thd}i{sth}{-}i{stz}{-umeth}{-}{Cap}{w}ingap{e}de...{wait(20)}\nIt{'s}{-umeth}{-}actually{-}{sth}malle{rr}\n{thd}an{-}{-I-}{-}{thd}ought{-umeth}.{mend}
-242	12	{PARTY0%}:\n{Cap}{SERGE}, {w}hy{-}d{o}{n't-you}\nt{rwr}y{-}{f}{e}edin{g'}{-umeth}{-}it{-}{sth}ome{thf}in{g'}?{mend}
+242	12	{PARTY0%}:\n{Cap}{SERGE%}, {w}hy{-}d{o}{n't-you}\nt{rwr}y{-}{f}{e}edin{g'}{-umeth}{-}it{-}{sth}ome{thf}in{g'}?{mend}
 242	13	{PARTY1%}:\n{speed(64)}{Cap}{-a-}{CapL}{w}{i}de{wait(5)} {o}pen{-}{sth}p{a}ce...{wait(15)}\n{speed(128)}Could{-}{thd}i{sth}{-}b{e}{-umeth}{-}it?{mend}
-242	14	{PARTY2%}:\n{Cap}{SERGE}, {w}hy{-}d{o}{n't-you}\nt{rwr}y{-}b{l}{o}{w}in{g'}{-umeth}{-}{thd}at{-}{f}{l}ute?{mend}
-242	15	{PARTY1%}:\n{speed(72)}{Cap}{h'}u{rw}{rwr}y, {SERGE}!{wait(15)}\n{Cap}{w}{e}{-}{can't}{-}{h'}{o}{l}d{-umeth}{-}it\no{f}{f}{-}much{-}{l}onge{rr}!{bpage}\n{Cap}{thd}e{rr}e{'s}{-}no{w}he{rr}e{-}to{-}{rwr}un{-umeth}\n{f}{rwr}om{-}up{-}{thd}i{sth}{-}t{rwr}{e}e!{wait(15)}\n　　　Just a bit longer\n　　　OK, let's do it!{mend}
-242	16	{PARTY2%}:\n{speed(72)}{Cap}{h'}u{rw}{rwr}y, {SERGE}!{wait(15)}\n{Cap}{w}{e}{-}{can't}{-}{h'}{o}{l}d{-umeth}{-}it\no{f}{f}{-}much{-}{l}onge{rr}!{bpage}\n{Cap}{thd}e{rr}e{'s}{-}no{w}he{rr}e{-}to{-}{rwr}un{-umeth}\n{f}{rwr}om{-}up{-}{thd}i{sth}{-}t{rwr}{e}e!{wait(15)}\n　　　Just a bit longer\n　　　OK, let's do it!{mend}
-242	17	{PARTY0%}:\n{speed(72)}{Cap}{h'}u{rw}{rwr}y, {SERGE}!{wait(15)}\n{Cap}{w}{e}{-}{can't}{-}{h'}{o}{l}d{-umeth}{-}it\no{f}{f}{-}much{-}{l}onge{rr}!{bpage}\n{Cap}{thd}e{rr}e{'s}{-}no{w}he{rr}e{-}to{-}{rwr}un{-umeth}\n{f}{rwr}om{-}up{-}{thd}i{sth}{-}t{rwr}{e}e!{wait(15)}\n　　　Just a bit longer\n　　　OK, let's do it!{mend}
-242	18	{PARTY2%}:\n{Cap}{-the-}{CapL}{f}oothold{-}could\ngive{-umeth}{-}{w}{a}y{-}at{-}any{-}minute.{bpage}\n{Cap}{SERGE}, {w}{e}{-}should\navoid{-}pa{ss}in{g'}{-umeth}{-}{thf}{rwr}ough\n{-the-}middle.{mend}
-242	19	{PARTY0%}:\n{Cap}{-the-}{CapL}{f}oothold{-}could\ngive{-umeth}{-}{w}{a}y{-}at{-}any{-}minute.{bpage}\n{Cap}{SERGE}, {w}{e}{-}should\navoid{-}pa{ss}in{g'}{-umeth}{-}{thf}{rwr}ough\n{-the-}middle.{mend}
-242	20	{PARTY1%}:\n{Cap}{-the-}{CapL}{f}oothold{-}could\ngive{-umeth}{-}{w}{a}y{-}at{-}any{-}minute.{bpage}\n{Cap}{SERGE}, {w}{e}{-}should\navoid{-}pa{ss}in{g'}{-umeth}{-}{thf}{rwr}ough\n{-the-}middle.{mend}
+242	14	{PARTY2%}:\n{Cap}{SERGE%}, {w}hy{-}d{o}{n't-you}\nt{rwr}y{-}b{l}{o}{w}in{g'}{-umeth}{-}{thd}at{-}{f}{l}ute?{mend}
+242	15	{PARTY1%}:\n{speed(72)}{Cap}{h'}u{rw}{rwr}y, {SERGE%}!{wait(15)}\n{Cap}{w}{e}{-}{can't}{-}{h'}{o}{l}d{-umeth}{-}it\no{f}{f}{-}much{-}{l}onge{rr}!{bpage}\n{Cap}{thd}e{rr}e{'s}{-}no{w}he{rr}e{-}to{-}{rwr}un{-umeth}\n{f}{rwr}om{-}up{-}{thd}i{sth}{-}t{rwr}{e}e!{wait(15)}\n　　　Just a bit longer\n　　　OK, let's do it!{mend}
+242	16	{PARTY2%}:\n{speed(72)}{Cap}{h'}u{rw}{rwr}y, {SERGE%}!{wait(15)}\n{Cap}{w}{e}{-}{can't}{-}{h'}{o}{l}d{-umeth}{-}it\no{f}{f}{-}much{-}{l}onge{rr}!{bpage}\n{Cap}{thd}e{rr}e{'s}{-}no{w}he{rr}e{-}to{-}{rwr}un{-umeth}\n{f}{rwr}om{-}up{-}{thd}i{sth}{-}t{rwr}{e}e!{wait(15)}\n　　　Just a bit longer\n　　　OK, let's do it!{mend}
+242	17	{PARTY0%}:\n{speed(72)}{Cap}{h'}u{rw}{rwr}y, {SERGE%}!{wait(15)}\n{Cap}{w}{e}{-}{can't}{-}{h'}{o}{l}d{-umeth}{-}it\no{f}{f}{-}much{-}{l}onge{rr}!{bpage}\n{Cap}{thd}e{rr}e{'s}{-}no{w}he{rr}e{-}to{-}{rwr}un{-umeth}\n{f}{rwr}om{-}up{-}{thd}i{sth}{-}t{rwr}{e}e!{wait(15)}\n　　　Just a bit longer\n　　　OK, let's do it!{mend}
+242	18	{PARTY2%}:\n{Cap}{-the-}{CapL}{f}oothold{-}could\ngive{-umeth}{-}{w}{a}y{-}at{-}any{-}minute.{bpage}\n{Cap}{SERGE%}, {w}{e}{-}should\navoid{-}pa{ss}in{g'}{-umeth}{-}{thf}{rwr}ough\n{-the-}middle.{mend}
+242	19	{PARTY0%}:\n{Cap}{-the-}{CapL}{f}oothold{-}could\ngive{-umeth}{-}{w}{a}y{-}at{-}any{-}minute.{bpage}\n{Cap}{SERGE%}, {w}{e}{-}should\navoid{-}pa{ss}in{g'}{-umeth}{-}{thf}{rwr}ough\n{-the-}middle.{mend}
+242	20	{PARTY1%}:\n{Cap}{-the-}{CapL}{f}oothold{-}could\ngive{-umeth}{-}{w}{a}y{-}at{-}any{-}minute.{bpage}\n{Cap}{SERGE%}, {w}{e}{-}should\navoid{-}pa{ss}in{g'}{-umeth}{-}{thf}{rwr}ough\n{-the-}middle.{mend}
 242	21	{ERROR}
 242	22	{ERROR}
 242	23	{ERROR}
@@ -24613,23 +24613,23 @@
 244	23	{PARTY0%}:\n{speed(80)}But{-}{thd}i{sth}{-}t{i}me{-}{w}e{'re}\nt{rwr}apped{-umeth}{-}in{-}{-a-}{h'}{o}le!{wait(15)}\n{Cap}{w}i{thd}{-}n{o}{-}{w}{a}y{-}out{-umeth}!{bpage}\n{speed(128)}{Cap}{w}{e}{'ve}{-}got{-umeth}{-}n{o}\nchoice{-}but{-}to{-}{f}{i}ght{-umeth}!{mend}
 244	24	{PARTY0%}:\n{Cap}{-I-}{-}d{o}{n't}{-}b{e}{l}i{e}ve{-umeth}{-}{thd}i{sth}!{wait(15)}\nIt{'s}{-umeth}{-}ju{sth}t{-}one{-}battle\na{f}te{rr}{-}anothe{rr}!{mend}
 244	25	{PARTY1%}:\n{speed(80)}But{-}{thd}i{sth}{-}t{i}me{-}{w}e{'re}\nt{rwr}apped{-umeth}{-}in{-}{-a-}{h'}{o}le!{wait(15)}\n{Cap}{w}i{thd}{-}n{o}{-}{w}{a}y{-}out{-umeth}!{bpage}\n{speed(128)}{Cap}{w}{e}{'ve}{-}got{-umeth}{-}n{o}\nchoice{-}but{-}to{-}{f}{i}ght{-umeth}!{mend}
-244	26	{PARTY1%}:\n{Cap}{h'}ey, {SERGE}!{wait(10)}\nA{rr}e{n't}{-}{w}{e}{-}g{o}in{g'}{-}to\n{h'}elp{-umeth}{-}{thd}at{-}{f}ai{rwr}y{-}out?{bpage}\n{Cap}{-the-}{CapL}poo{rr}{-}{thf}in{g'}{-}could\nd{i}e{-}i{f}{-}{w}{e}{-}{l}{e}ave{-umeth}{-}it\n{-a-}p{rwr}i{sth}one{rr}{-}in{-}{thd}at\nc{a}ge{-}{l}{i}ke{-}{thd}at!{mend}
-244	27	{PARTY2%}:\n{Cap}{h'}ey, {SERGE}!{wait(10)}\nA{rr}e{n't}{-}{w}{e}{-}g{o}in{g'}{-}to\n{h'}elp{-umeth}{-}{thd}at{-}{f}ai{rwr}y{-}out?{bpage}\n{Cap}{-the-}{CapL}poo{rr}{-}{thf}in{g'}{-}could\nd{i}e{-}i{f}{-}{w}{e}{-}{l}{e}ave{-umeth}{-}it\n{-a-}p{rwr}i{sth}one{rr}{-}in{-}{thd}at\nc{a}ge{-}{l}{i}ke{-}{thd}at!{mend}
-244	28	{PARTY0%}:\n{Cap}{h'}ey, {SERGE}!{wait(10)}\nA{rr}e{n't}{-}{w}{e}{-}g{o}in{g'}{-}to\n{h'}elp{-umeth}{-}{thd}at{-}{f}ai{rwr}y{-}out?{bpage}\n{Cap}{-the-}{CapL}poo{rr}{-}{thf}in{g'}{-}could\nd{i}e{-}i{f}{-}{w}{e}{-}{l}{e}ave{-umeth}{-}it\n{-a-}p{rwr}i{sth}one{rr}{-}in{-}{thd}at\nc{a}ge{-}{l}{i}ke{-}{thd}at!{mend}
+244	26	{PARTY1%}:\n{Cap}{h'}ey, {SERGE%}!{wait(10)}\nA{rr}e{n't}{-}{w}{e}{-}g{o}in{g'}{-}to\n{h'}elp{-umeth}{-}{thd}at{-}{f}ai{rwr}y{-}out?{bpage}\n{Cap}{-the-}{CapL}poo{rr}{-}{thf}in{g'}{-}could\nd{i}e{-}i{f}{-}{w}{e}{-}{l}{e}ave{-umeth}{-}it\n{-a-}p{rwr}i{sth}one{rr}{-}in{-}{thd}at\nc{a}ge{-}{l}{i}ke{-}{thd}at!{mend}
+244	27	{PARTY2%}:\n{Cap}{h'}ey, {SERGE%}!{wait(10)}\nA{rr}e{n't}{-}{w}{e}{-}g{o}in{g'}{-}to\n{h'}elp{-umeth}{-}{thd}at{-}{f}ai{rwr}y{-}out?{bpage}\n{Cap}{-the-}{CapL}poo{rr}{-}{thf}in{g'}{-}could\nd{i}e{-}i{f}{-}{w}{e}{-}{l}{e}ave{-umeth}{-}it\n{-a-}p{rwr}i{sth}one{rr}{-}in{-}{thd}at\nc{a}ge{-}{l}{i}ke{-}{thd}at!{mend}
+244	28	{PARTY0%}:\n{Cap}{h'}ey, {SERGE%}!{wait(10)}\nA{rr}e{n't}{-}{w}{e}{-}g{o}in{g'}{-}to\n{h'}elp{-umeth}{-}{thd}at{-}{f}ai{rwr}y{-}out?{bpage}\n{Cap}{-the-}{CapL}poo{rr}{-}{thf}in{g'}{-}could\nd{i}e{-}i{f}{-}{w}{e}{-}{l}{e}ave{-umeth}{-}it\n{-a-}p{rwr}i{sth}one{rr}{-}in{-}{thd}at\nc{a}ge{-}{l}{i}ke{-}{thd}at!{mend}
 244	29	There's an empty cage here.\nLooks like it was used to\nkeep something captive...{mend}
 244	30	Caged Fairy:\n{speed(48)}............{mend}
-244	31	{PARTY1%}:\n{Cap}{h'}ey, {SERGE}!\nI{stz}{-umeth}{-}{thd}at{-}{rwr}{e}ally{-}{-a-}{f}ai{rwr}y?{bpage}\n{Cap}{-I-}{'ve}{-}neve{rr}{-}{sth}{e}en{-umeth}\none{-}b{e}{f}{o}{rr}e!{mend}
+244	31	{PARTY1%}:\n{Cap}{h'}ey, {SERGE%}!\nI{stz}{-umeth}{-}{thd}at{-}{rwr}{e}ally{-}{-a-}{f}ai{rwr}y?{bpage}\n{Cap}{-I-}{'ve}{-}neve{rr}{-}{sth}{e}en{-umeth}\none{-}b{e}{f}{o}{rr}e!{mend}
 244	32	{PARTY2%}:\n{Cap}{w}{e}{-}{can't}{-}ju{sth}t{-}{l}{e}ave{-umeth}\n{h'}e{rr}{-}t{rwr}apped{-}{l}{i}ke{-}{thd}i{sth}!\n{Cap}{l}et'{stz}{-}{h'}elp{-umeth}{-}{h'}e{rr}{-}out!{mend}
-244	33	{PARTY2%}:\n{Cap}{h'}ey, {SERGE}!\nI{stz}{-umeth}{-}{thd}at{-}{rwr}{e}ally{-}{-a-}{f}ai{rwr}y?{bpage}\n{Cap}{-I-}{'ve}{-}neve{rr}{-}{sth}{e}en{-umeth}\none{-}b{e}{f}{o}{rr}e!{mend}
+244	33	{PARTY2%}:\n{Cap}{h'}ey, {SERGE%}!\nI{stz}{-umeth}{-}{thd}at{-}{rwr}{e}ally{-}{-a-}{f}ai{rwr}y?{bpage}\n{Cap}{-I-}{'ve}{-}neve{rr}{-}{sth}{e}en{-umeth}\none{-}b{e}{f}{o}{rr}e!{mend}
 244	34	{PARTY0%}:\n{Cap}{w}{e}{-}{can't}{-}ju{sth}t{-}{l}{e}ave{-umeth}\n{h'}e{rr}{-}t{rwr}apped{-}{l}{i}ke{-}{thd}i{sth}!\n{Cap}{l}et'{stz}{-}{h'}elp{-umeth}{-}{h'}e{rr}{-}out!{mend}
-244	35	{PARTY0%}:\n{Cap}{h'}ey, {SERGE}!\nI{stz}{-umeth}{-}{thd}at{-}{rwr}{e}ally{-}{-a-}{f}ai{rwr}y?{bpage}\n{Cap}{-I-}{'ve}{-}neve{rr}{-}{sth}{e}en{-umeth}\none{-}b{e}{f}{o}{rr}e!{mend}
+244	35	{PARTY0%}:\n{Cap}{h'}ey, {SERGE%}!\nI{stz}{-umeth}{-}{thd}at{-}{rwr}{e}ally{-}{-a-}{f}ai{rwr}y?{bpage}\n{Cap}{-I-}{'ve}{-}neve{rr}{-}{sth}{e}en{-umeth}\none{-}b{e}{f}{o}{rr}e!{mend}
 244	36	{PARTY1%}:\n{Cap}{w}{e}{-}{can't}{-}ju{sth}t{-}{l}{e}ave{-umeth}\n{h'}e{rr}{-}t{rwr}apped{-}{l}{i}ke{-}{thd}i{sth}!\n{Cap}{l}et'{stz}{-}{h'}elp{-umeth}{-}{h'}e{rr}{-}out!{mend}
 244	37	Fairy:\nThank you for rescuing me!{wait(15)}\nYou are kind of strong for\nhuman-folk! I was surprised!{bpage}\nLet me introduce myself.{wait(15)}\nMy name is {RAZZLY%}!{wait(15)}\nI come from Water Dragon Isle.{bpage}\nI think you can tell by just\nlooking at me, but I'm a fairy!\nI guess you could say it's\nfairy obvious! Tee-hee-hee!{mend}
 244	38	{LEENA%}:\n{speed(96)}I've heard of that island.{wait(15)}\nThe old fisherman in my village\nsometimes spoke about it.{bpage}\nBut he says that because of the\nstrange dry spell we've been\nhaving lately, the island's\nwater source has dried up!{bpage}\nI wonder if it's the same\nthing in this world?{mend}
 244	39	{RAZZLY%}:\nHuh?{wait(5)} Our water source\nhas dried up...?{wait(15)}\nThis world...?{bpage}\nI don't understand what\nin Fairy Godmother's name\nyou are talking about!{mend}
-244	40	{PARTY1%}:\n{Cap}{SERGE}...\nPe{rr}hap{sth}{-}{w}{e}{'d}\nbette{rr}{-}exp{l}{a}in{-umeth}!{mend}
-244	41	{PARTY2%}:\n{Cap}{SERGE}...\nPe{rr}hap{sth}{-}{w}{e}{'d}\nbette{rr}{-}exp{l}{a}in{-umeth}!{mend}
-244	42	{PARTY0%}:\n{Cap}{SERGE}...\nPe{rr}hap{sth}{-}{w}{e}{'d}\nbette{rr}{-}exp{l}{a}in{-umeth}!{mend}
+244	40	{PARTY1%}:\n{Cap}{SERGE%}...\nPe{rr}hap{sth}{-}{w}{e}{'d}\nbette{rr}{-}exp{l}{a}in{-umeth}!{mend}
+244	41	{PARTY2%}:\n{Cap}{SERGE%}...\nPe{rr}hap{sth}{-}{w}{e}{'d}\nbette{rr}{-}exp{l}{a}in{-umeth}!{mend}
+244	42	{PARTY0%}:\n{Cap}{SERGE%}...\nPe{rr}hap{sth}{-}{w}{e}{'d}\nbette{rr}{-}exp{l}{a}in{-umeth}!{mend}
 244	43	{RAZZLY%}\n{speed(96)}Gee...\nSo there's another world...?{bpage}\nAnd you've come to these\nmarshes in this world to\nsave your friend in that\nother world?{mend}
 244	44	{RAZZLY%}:\nThere sure is a Hydra\nin this forest. I saw it\nwith my fairy own eyes!{bpage}\nBut that's when those\nbig-noses caught me and\nthrew me in here to\nbecome Pentapus bait!{bpage}\nI want to go home to my\nisland, but it's too far\nfor a fairy like me to\nfly on my own!{bpage}\nTee-hee...{wait(5)}\nHow about taking me\nalong with you!?{mend}
 244	45	{PARTY2%}:\n{Cap}{-I-}{'ve}{-}{h'}ea{rr}d{-umeth}{-}{rwr}{u}mo{rr}{sth}\nabout{-}{thd}at{-}is{l}and...{bpage}\n{Cap}{thd}{e}y{-}{sth}{a}y{-umeth}{-}{thd}at{-}d{u}e{-}to{-}{-the-}\nabno{rwr}mal{-}{w}ea{thvv}e{rr}{-}{thd}ey{'ve}\nb{e}en{-}{h'}avin{g'}{-umeth}, {thd}ei{rr}{-}{w}ate{rr}\n{sth}ou{rr}ce{-}{h'}a{stz}{-}d{rwr}{i}ed{-umeth}{-}up.{bpage}\nBut{-}{thd}at{-}{w}a{stz}{-umeth}{-}in{-}{-the-}o{thvv}e{rr}\n{w}o{rwr}ld{-}{w}{e}{-}ju{sth}t{-}c{a}me{-umeth}{-}{f}{rwr}om.{wait(15)}\n{Cap}{-I-}{-}{w}onde{rr}{-umeth}{-}i{f}{-}it{'s}{-}{-the-}\n{sth}{a}me{-}{thf}in{g'}{-}in{-}{thd}i{sth}{-}{w}o{rwr}ld?{mend}
@@ -24715,17 +24715,17 @@
 245	0	{speed(64)}　 This forest...is dead... 　\n　\n　  Our Hydra...perished...  　\n　 We hate...mankind so much... 　\n　\nListen to the planet's woes...\n　\n　　　　   Humans...   　　　　{mend}
 245	1	{PARTY0%} received\n{color(3)}{itemwork(3)}{color(0)}.{mend}
 245	2	{PARTY1%}:\n{speed(96)}{Cap}{h'}ave{-}{w}{e}{-}b{rwr}ought\nabout{-}any{-}ch{a}nge{-}by\nd{e}{f}{e}atin{g'}{-umeth}{-}{thd}at{-}{Cap}{h'}yd{rwr}a...?{bpage}\nDid{-}{w}{e}{-}do{-umeth}{-}{-the-}{rwr}{i}ght\n{thf}in{g'}?{mend}
-245	3	{PARTY2%}:\n{speed(80)}{Cap}{w}ho{-}kn{o}w{sth}{-umeth}{-}{wha}t{'s}\n{rwr}{i}ght{-}{o}{rr}{-}{w}{rr}ong?{wait(15)}\nN{o}body{-}{h'}a{stz}{-umeth}{-}{-the-}{a}n{sth}{w}e{rr}.{bpage}\n...{Cap}{SERGE},\n{w}{e}{-}should{-}get{-}g{o}in{g'}{-umeth}.{mend}
+245	3	{PARTY2%}:\n{speed(80)}{Cap}{w}ho{-}kn{o}w{sth}{-umeth}{-}{wha}t{'s}\n{rwr}{i}ght{-}{o}{rr}{-}{w}{rr}ong?{wait(15)}\nN{o}body{-}{h'}a{stz}{-umeth}{-}{-the-}{a}n{sth}{w}e{rr}.{bpage}\n...{Cap}{SERGE%},\n{w}{e}{-}should{-}get{-}g{o}in{g'}{-umeth}.{mend}
 245	4	{PARTY2%}:\n{speed(96)}{Cap}{h'}ave{-}{w}{e}{-}b{rwr}ought\nabout{-}any{-}ch{a}nge{-}by\nd{e}{f}{e}atin{g'}{-umeth}{-}{thd}at{-}{Cap}{h'}yd{rwr}a...?{bpage}\nDid{-}{w}{e}{-}do{-umeth}{-}{-the-}{rwr}{i}ght\n{thf}in{g'}?{mend}
-245	5	{PARTY0%}:\n{speed(80)}{Cap}{w}ho{-}kn{o}w{sth}{-umeth}{-}{wha}t{'s}\n{rwr}{i}ght{-}{o}{rr}{-}{w}{rr}ong?{wait(15)}\nN{o}body{-}{h'}a{stz}{-umeth}{-}{-the-}{a}n{sth}{w}e{rr}.{bpage}\n...{Cap}{SERGE},\n{w}{e}{-}should{-}get{-}g{o}in{g'}{-umeth}.{mend}
+245	5	{PARTY0%}:\n{speed(80)}{Cap}{w}ho{-}kn{o}w{sth}{-umeth}{-}{wha}t{'s}\n{rwr}{i}ght{-}{o}{rr}{-}{w}{rr}ong?{wait(15)}\nN{o}body{-}{h'}a{stz}{-umeth}{-}{-the-}{a}n{sth}{w}e{rr}.{bpage}\n...{Cap}{SERGE%},\n{w}{e}{-}should{-}get{-}g{o}in{g'}{-umeth}.{mend}
 245	6	{PARTY0%}:\n{speed(96)}{Cap}{h'}ave{-}{w}{e}{-}b{rwr}ought\nabout{-}any{-}ch{a}nge{-}by\nd{e}{f}{e}atin{g'}{-umeth}{-}{thd}at{-}{Cap}{h'}yd{rwr}a...?{bpage}\nDid{-}{w}{e}{-}do{-umeth}{-}{-the-}{rwr}{i}ght\n{thf}in{g'}?{mend}
-245	7	{PARTY1%}:\n{speed(80)}{Cap}{w}ho{-}kn{o}w{sth}{-umeth}{-}{wha}t{'s}\n{rwr}{i}ght{-}{o}{rr}{-}{w}{rr}ong?{wait(15)}\nN{o}body{-}{h'}a{stz}{-umeth}{-}{-the-}an{sth}{w}e{rr}.{bpage}\n...{Cap}{SERGE},\n{w}{e}{-}should{-}get{-}g{o}in{g'}{-umeth}.{mend}
+245	7	{PARTY1%}:\n{speed(80)}{Cap}{w}ho{-}kn{o}w{sth}{-umeth}{-}{wha}t{'s}\n{rwr}{i}ght{-}{o}{rr}{-}{w}{rr}ong?{wait(15)}\nN{o}body{-}{h'}a{stz}{-umeth}{-}{-the-}an{sth}{w}e{rr}.{bpage}\n...{Cap}{SERGE%},\n{w}{e}{-}should{-}get{-}g{o}in{g'}{-umeth}.{mend}
 245	8	{PARTY2%}:\n{speed(96)}It{-}di{sth}app{e}a{rr}ed{-umeth}...{wait(20)}\n{Cap}{wha}t{-}{w}a{stz}{-umeth}{-}{thd}at{-}{thf}in{g'}?{mend}
-245	9	{PARTY1%}:\n{Cap}{sth}ome{-}k{i}nd{-}o{f}{-}{sth}pi{rwr}it\nbound{-}to{-}{thd}i{sth}{-}{l}and...?{bpage}\n...{Cap}{SERGE},\n{w}{e}{-}should{-}get{-}g{o}in{g'}{-umeth}.{mend}
+245	9	{PARTY1%}:\n{Cap}{sth}ome{-}k{i}nd{-}o{f}{-}{sth}pi{rwr}it\nbound{-}to{-}{thd}i{sth}{-}{l}and...?{bpage}\n...{Cap}{SERGE%},\n{w}{e}{-}should{-}get{-}g{o}in{g'}{-umeth}.{mend}
 245	10	{PARTY2%}:\n{speed(96)}It{-}di{sth}app{e}a{rr}ed{-umeth}...{wait(20)}\n{Cap}{wha}t{-}{w}a{stz}{-umeth}{-}{thd}at{-}{thf}in{g'}?{mend}
-245	11	{PARTY0%}:\n{Cap}{sth}ome{-}k{i}nd{-}o{f}{-}{sth}pi{rwr}it\nbound{-}to{-}{thd}i{sth}{-}{l}and...?{bpage}\n...{Cap}{SERGE},\n{w}{e}{-}should{-}get{-}g{o}in{g'}{-umeth}.{mend}
+245	11	{PARTY0%}:\n{Cap}{sth}ome{-}k{i}nd{-}o{f}{-}{sth}pi{rwr}it\nbound{-}to{-}{thd}i{sth}{-}{l}and...?{bpage}\n...{Cap}{SERGE%},\n{w}{e}{-}should{-}get{-}g{o}in{g'}{-umeth}.{mend}
 245	12	{PARTY0%}:\n{speed(96)}It{-}di{sth}app{e}a{rr}ed{-umeth}...{wait(20)}\n{Cap}{wha}t{-}{w}a{stz}{-umeth}{-}{thd}at{-}{thf}in{g'}?{mend}
-245	13	{PARTY1%}:\n{Cap}{sth}ome{-}k{i}nd{-}o{f}{-}{sth}pi{rwr}it\nbound{-}to{-}{thd}i{sth}{-}{l}and...?{bpage}\n...{Cap}{SERGE},\n{w}{e}{-}should{-}get{-}g{o}in{g'}{-umeth}.{mend}
+245	13	{PARTY1%}:\n{Cap}{sth}ome{-}k{i}nd{-}o{f}{-}{sth}pi{rwr}it\nbound{-}to{-}{thd}i{sth}{-}{l}and...?{bpage}\n...{Cap}{SERGE%},\n{w}{e}{-}should{-}get{-}g{o}in{g'}{-umeth}.{mend}
 245	14	{speed(255)}　 This forest...is dead... 　\n　\n　  Our Hydra...perished...  　\n　 We hate...mankind so much... 　 　\n　\nListen to the planet's woes...\n　\n　　　　   Humans...   　　　　{mend}
 245	15	{speed(255)}Humans... Mankind...{mend}
 245	16	It's empty...{mend}
@@ -25737,9 +25737,9 @@
 248	11	{RAZZLY%}:\n{speed(160)}Wait, {SERGE%}!{wait(15)}\n{speed(72)}This Hydra...is carrying\nnewborns in her womb...{bpage}\n{speed(96)}Tee-hee...\nThe Hydra isn't extinct,{wait(5)} and\nthis forest isn't going to die...{wait(5)}\nas long as there is life.{mend}
 248	12	{RAZZLY%}:\nAll that may be left is a small,\nfragile, life force, but\nthis forest will make it...{mend}
 248	13	{PARTY0%} received\n{speed(255)}{color(4)}{itemwork(3)}{color(0)}!{mend}
-248	14	{PARTY1%}:\n{Cap}{w}{a}it{-}{-a-}minute.{wait(15)}\n{Cap}{w}e{'re}{-}not{-}g{o}in{g'}{-}to{-}{l}{e}ave{-umeth}\nempty-{h'}anded, a{rr}e{-umeth}{-}{w}{e}?{bpage}\n{Cap}{w}{e}{-}c{a}me{-}all{-}{-the-}{w}{a}y{-}out\n{h'}{e}{rr}e{-}to{-}{sth}{a}ve{-}{KID%}.{wait(20)}\nD{o}{n't}{-}tell{-umeth}{-}{-me-}{-}{-you-}\n{f}{o}{rr}got{-umeth}, {SERGE}.{mend}
-248	15	{PARTY2%}:\n{Cap}{w}{a}it{-}{-a-}minute.{wait(15)}\n{Cap}{w}e{'re}{-}not{-}g{o}in{g'}{-}to{-}{l}{e}ave{-umeth}\nempty-{h'}anded, a{rr}e{-umeth}{-}{w}{e}?{bpage}\n{Cap}{w}{e}{-}c{a}me{-}all{-}{-the-}{w}{a}y{-}out\n{h'}{e}{rr}e{-}to{-}{sth}{a}ve{-}{KID%}.{wait(20)}\nD{o}{n't}{-}tell{-umeth}{-}{-me-}{-}{-you-}\n{f}{o}{rr}got{-umeth}, {SERGE}.{mend}
-248	16	{PARTY0%}:\n{Cap}{w}{a}it{-}{-a-}minute.{wait(15)}\n{Cap}{w}e{'re}{-}not{-}g{o}in{g'}{-}to{-}{l}{e}ave{-umeth}\nempty-{h'}anded, a{rr}e{-umeth}{-}{w}{e}?{bpage}\n{Cap}{w}{e}{-}c{a}me{-}all{-}{-the-}{w}{a}y{-}out\n{h'}{e}{rr}e{-}to{-}{sth}{a}ve{-}{KID%}.{wait(20)}\nD{o}{n't}{-}tell{-umeth}{-}{-me-}{-}{-you-}\n{f}{o}{rr}got{-umeth}, {SERGE}.{mend}
+248	14	{PARTY1%}:\n{Cap}{w}{a}it{-}{-a-}minute.{wait(15)}\n{Cap}{w}e{'re}{-}not{-}g{o}in{g'}{-}to{-}{l}{e}ave{-umeth}\nempty-{h'}anded, a{rr}e{-umeth}{-}{w}{e}?{bpage}\n{Cap}{w}{e}{-}c{a}me{-}all{-}{-the-}{w}{a}y{-}out\n{h'}{e}{rr}e{-}to{-}{sth}{a}ve{-}{KID%}.{wait(20)}\nD{o}{n't}{-}tell{-umeth}{-}{-me-}{-}{-you-}\n{f}{o}{rr}got{-umeth}, {SERGE%}.{mend}
+248	15	{PARTY2%}:\n{Cap}{w}{a}it{-}{-a-}minute.{wait(15)}\n{Cap}{w}e{'re}{-}not{-}g{o}in{g'}{-}to{-}{l}{e}ave{-umeth}\nempty-{h'}anded, a{rr}e{-umeth}{-}{w}{e}?{bpage}\n{Cap}{w}{e}{-}c{a}me{-}all{-}{-the-}{w}{a}y{-}out\n{h'}{e}{rr}e{-}to{-}{sth}{a}ve{-}{KID%}.{wait(20)}\nD{o}{n't}{-}tell{-umeth}{-}{-me-}{-}{-you-}\n{f}{o}{rr}got{-umeth}, {SERGE%}.{mend}
+248	16	{PARTY0%}:\n{Cap}{w}{a}it{-}{-a-}minute.{wait(15)}\n{Cap}{w}e{'re}{-}not{-}g{o}in{g'}{-}to{-}{l}{e}ave{-umeth}\nempty-{h'}anded, a{rr}e{-umeth}{-}{w}{e}?{bpage}\n{Cap}{w}{e}{-}c{a}me{-}all{-}{-the-}{w}{a}y{-}out\n{h'}{e}{rr}e{-}to{-}{sth}{a}ve{-}{KID%}.{wait(20)}\nD{o}{n't}{-}tell{-umeth}{-}{-me-}{-}{-you-}\n{f}{o}{rr}got{-umeth}, {SERGE%}.{mend}
 248	17	Dwarf Chieftain:\nHi-ho! It's no use!{wait(15)}\nYou can't escape from here!{bpage}\nThis forest will be\nyour burial ground!{mend}
 248	18	Can't escape!!!\n　　　Prepare for battle\n　　　Fight!{mend}
 248	19	{KORCHA%}:\n{speed(160)}Damn...{wait(5)} They're a subspecies of\nthe ancient Dragonians!\nAnd they're strong as hell!!!{bpage}\nYo, {SERGE%}, we better\nretreat for now!{wait(15)}\nWe'll be dead meat for sure!{mend}
@@ -28938,8 +28938,8 @@
 262	57	{DOC%}:\nWhat are you\ngetting at?{mend}
 262	58	{LUCCIA%}:\nSpeak your mind.{mend}
 262	59	{NEOFIO%}:\nWhat are you\ngetting at?{mend}
-262	60	{PARTY1%}:\n{Cap}{SERGE}!!!{mend}
-262	61	{PARTY0%}:\n{Cap}{SERGE}!!!{mend}
+262	60	{PARTY1%}:\n{Cap}{SERGE%}!!!{mend}
+262	61	{PARTY0%}:\n{Cap}{SERGE%}!!!{mend}
 262	62	{KID%}:\nYeah, yeah...\nI don't need this mushy\ntalk from a pirate.{mend}
 262	63	{POSHUL%}:\nIt racks perthuathiveneth\nwhen thaid by a pirate.{mend}
 262	64	{MOJO%}:\nThat's not something\na pirate would say.{mend}
@@ -29385,42 +29385,42 @@
 266	94	{ERROR}
 266	95	{ERROR}
 266	96	{ERROR}
-267	0	{KID%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
+267	0	{KID%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE%}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
 267	1	{KID%}:\nB{e}{-umeth}{-}on{-}{-your-}{-}gua{rwr}d.\n{Cap}{thd}e{rr}e{'s}{-}{sth}ome{thf}in{g'}\ng{o}in{g'}{-umeth}{-}on{-}out{sth}{i}de.{mend}
-267	2	{POSHUL%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
+267	2	{POSHUL%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE%}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
 267	3	{POSHUL%}:\nB{e}{-umeth}{-}on{-}{-your-}{-}gua{rwr}d.\n{Cap}{thd}e{rr}e{'s}{-}{sth}ome{thf}in{g'}\ng{o}in{g'}{-umeth}{-}on{-}out{sth}{i}de.{mend}
-267	4	{MOJO%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
+267	4	{MOJO%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE%}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
 267	5	{MOJO%}:\nB{e}{-umeth}{-}on{-}{-your-}{-}gua{rwr}d.\n{Cap}{thd}e{rr}e{'s}{-}{sth}ome{thf}in{g'}\ng{o}in{g'}{-umeth}{-}on{-}out{sth}{i}de.{mend}
-267	6	{LEENA%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
+267	6	{LEENA%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE%}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
 267	7	{LEENA%}:\nB{e}{-umeth}{-}on{-}{-your-}{-}gua{rwr}d.\n{Cap}{thd}e{rr}e{'s}{-}{sth}ome{thf}in{g'}\ng{o}in{g'}{-umeth}{-}on{-}out{sth}{i}de.{mend}
-267	8	{SKELLY%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
+267	8	{SKELLY%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE%}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
 267	9	{SKELLY%}:\nB{e}{-umeth}{-}on{-}{-your-}{-}gua{rwr}d.\n{Cap}{thd}e{rr}e{'s}{-}{sth}ome{thf}in{g'}\ng{o}in{g'}{-umeth}{-}on{-}out{sth}{i}de.{mend}
-267	10	{PIERRE%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
+267	10	{PIERRE%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE%}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
 267	11	{PIERRE%}:\nB{e}{-umeth}{-}on{-}{-your-}{-}gua{rwr}d.\n{Cap}{thd}e{rr}e{'s}{-}{sth}ome{thf}in{g'}\ng{o}in{g'}{-umeth}{-}on{-}out{sth}{i}de.{mend}
-267	12	{NIKKI%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
+267	12	{NIKKI%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE%}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
 267	13	{NIKKI%}:\nB{e}{-umeth}{-}on{-}{-your-}{-}gua{rwr}d.\n{Cap}{thd}e{rr}e{'s}{-}{sth}ome{thf}in{g'}\ng{o}in{g'}{-umeth}{-}on{-}out{sth}{i}de.{mend}
-267	14	{KORCHA%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
+267	14	{KORCHA%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE%}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
 267	15	{KORCHA%}:\nB{e}{-umeth}{-}on{-}{-your-}{-}gua{rwr}d.\n{Cap}{thd}e{rr}e{'s}{-}{sth}ome{thf}in{g'}\ng{o}in{g'}{-umeth}{-}on{-}out{sth}{i}de.{mend}
-267	16	{RAZZLY%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
+267	16	{RAZZLY%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE%}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
 267	17	{RAZZLY%}:\nB{e}{-umeth}{-}on{-}{-your-}{-}gua{rwr}d.\n{Cap}{thd}e{rr}e{'s}{-}{sth}ome{thf}in{g'}\ng{o}in{g'}{-umeth}{-}on{-}out{sth}{i}de.{mend}
-267	18	{MEL%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
+267	18	{MEL%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE%}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
 267	19	{MEL%}:\nB{e}{-umeth}{-}on{-}{-your-}{-}gua{rwr}d.\n{Cap}{thd}e{rr}e{'s}{-}{sth}ome{thf}in{g'}\ng{o}in{g'}{-umeth}{-}on{-}out{sth}{i}de.{mend}
-267	20	{GRECO%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
+267	20	{GRECO%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE%}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
 267	21	{GRECO%}:\nB{e}{-umeth}{-}on{-}{-your-}{-}gua{rwr}d.\n{Cap}{thd}e{rr}e{'s}{-}{sth}ome{thf}in{g'}\ng{o}in{g'}{-umeth}{-}on{-}out{sth}{i}de.{mend}
-267	22	{GUILE%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
+267	22	{GUILE%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE%}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
 267	23	{GUILE%}:\nB{e}{-umeth}{-}on{-}{-your-}{-}gua{rwr}d.\n{Cap}{thd}e{rr}e{'s}{-}{sth}ome{thf}in{g'}\ng{o}in{g'}{-umeth}{-}on{-}out{sth}{i}de.{mend}
-267	24	{GLENN%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
+267	24	{GLENN%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE%}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
 267	25	{GLENN%}:\nB{e}{-umeth}{-}on{-}{-your-}{-}gua{rwr}d.\n{Cap}{thd}e{rr}e{'s}{-}{sth}ome{thf}in{g'}\ng{o}in{g'}{-umeth}{-}on{-}out{sth}{i}de.{mend}
-267	26	{MACHA%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
+267	26	{MACHA%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE%}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
 267	27	{MACHA%}:\nB{e}{-umeth}{-}on{-}{-your-}{-}gua{rwr}d.\n{Cap}{thd}e{rr}e{'s}{-}{sth}ome{thf}in{g'}\ng{o}in{g'}{-umeth}{-}on{-}out{sth}{i}de.{mend}
-267	28	{DOC%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
+267	28	{DOC%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE%}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
 267	29	{DOC%}:\nB{e}{-umeth}{-}on{-}{-your-}{-}gua{rwr}d.\n{Cap}{thd}e{rr}e{'s}{-}{sth}ome{thf}in{g'}\ng{o}in{g'}{-umeth}{-}on{-}out{sth}{i}de.{mend}
-267	30	{LUCCIA%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
+267	30	{LUCCIA%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE%}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
 267	31	{LUCCIA%}:\nB{e}{-umeth}{-}on{-}{-your-}{-}gua{rwr}d.\n{Cap}{thd}e{rr}e{'s}{-}{sth}ome{thf}in{g'}\ng{o}in{g'}{-umeth}{-}on{-}out{sth}{i}de.{mend}
-267	32	{NEOFIO%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
+267	32	{NEOFIO%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE%}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
 267	33	{NEOFIO%}:\nB{e}{-umeth}{-}on{-}{-your-}{-}gua{rwr}d.\n{Cap}{thd}e{rr}e{'s}{-}{sth}ome{thf}in{g'}\ng{o}in{g'}{-umeth}{-}on{-}out{sth}{i}de.{mend}
-267	34	{PARTY1%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
-267	35	{PARTY0%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
+267	34	{PARTY1%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE%}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
+267	35	{PARTY0%}:\n{Cap}A{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth},\n{SERGE%}?\n{Cap}{-you-}{-}d{o}{n't}{-}{l}ook{-umeth}{-}{sth}{o}{-}{w}ell.{mend}
 267	36	{PARTY1%}:\nB{e}{-umeth}{-}on{-}{-your-}{-}gua{rwr}d.\n{Cap}{thd}e{rr}e{'s}{-}{sth}ome{thf}in{g'}\ng{o}in{g'}{-umeth}{-}on{-}out{sth}{i}de.{mend}
 267	37	{PARTY0%}:\nB{e}{-umeth}{-}on{-}{-your-}{-}gua{rwr}d.\n{Cap}{thd}e{rr}e{'s}{-}{sth}ome{thf}in{g'}\ng{o}in{g'}{-umeth}{-}on{-}out{sth}{i}de.{mend}
 267	38	{PARTY1%}:\n......\n{Cap}{sth}ome{thf}in{g'}{'s}{-umeth}{-}up...{mend}
@@ -29868,9 +29868,9 @@
 272	43	{MEL%}:\nWhat are you\ngetting at?{mend}
 272	44	{GRECO%}:\nWhat are you\ngetting at?{mend}
 272	45	{GUILE%}:\nWhat are you\ngetting at?{mend}
-272	46	{PARTY1%}:\n{Cap}{SERGE}!!!{mend}
+272	46	{PARTY1%}:\n{Cap}{SERGE%}!!!{mend}
 272	47	Another falls
-272	48	{PARTY0%}:\n{Cap}{SERGE}!!!{mend}
+272	48	{PARTY0%}:\n{Cap}{SERGE%}!!!{mend}
 272	49	Another falls
 272	50	Another falls
 272	51	The last one falls
@@ -32403,14 +32403,14 @@
 290	12	Rosetta:\n{speed(72)}So, these people saved you...{wait(15)}\nOw,{wait(5)} agh...{mend}
 290	13	{RAZZLY%}:\n{speed(160)}!?{wait(5)} Sis, it's alright!{wait(15)}\nPlease, hold on to yourself.{wait(30)}\n{speed(72)}I'll be here with you...{mend}
 290	14	{RAZZLY%}:\n{speed(72)}I'm fairy sorry, {SERGE%}.{wait(30)}\nLet me stay with Rosetta\nfor a little while.{mend}
-290	15	{PARTY1%}:\n{Cap}{l}et'{stz}{-}g{o}{-umeth}, {SERGE}.{wait(30)}\n{Cap}{-the-}{Cap}{w}ate{rr}{-}D{rwr}agon{-}\nmu{sth}t{-}b{e} b{e}yond{-umeth}{-}\n{thd}i{sth}{-}point...{mend}
-290	16	{PARTY2%}:\n{Cap}{l}et'{stz}{-}g{o}{-umeth}, {SERGE}.{wait(30)}\n{Cap}{-the-}{Cap}{w}ate{rr}{-}D{rwr}agon{-}\nmu{sth}t{-}b{e} b{e}yond{-umeth}{-}\n{thd}i{sth}{-}point...{mend}
-290	17	{PARTY0%}:\n{Cap}{l}et'{stz}{-}g{o}{-umeth}, {SERGE}.{wait(30)}\n{Cap}{-the-}{Cap}{w}ate{rr}{-}D{rwr}agon{-}\nmu{sth}t{-}b{e} b{e}yond{-umeth}{-}\n{thd}i{sth}{-}point...{mend}
-290	18	{PARTY1%}:\n{speed(160)}{Cap}{SERGE}!\n{Cap}{thd}e{rr}e{-}i{stz}{-umeth}{-}{-a-}{f}ai{rwr}y\n{o}ve{rr}{-}{thd}e{rr}e...{mend}
-290	19	{PARTY1%}:\n{speed(48)}...{Cap}{SERGE}.{wait(20)}\n{Cap}I{stz}{-}it{-}a{l}{rwr}{i}ght{-umeth}?{mend}
-290	20	{PARTY2%}:\n{speed(48)}...{Cap}{SERGE}?{mend}
+290	15	{PARTY1%}:\n{Cap}{l}et'{stz}{-}g{o}{-umeth}, {SERGE%}.{wait(30)}\n{Cap}{-the-}{Cap}{w}ate{rr}{-}D{rwr}agon{-}\nmu{sth}t{-}b{e} b{e}yond{-umeth}{-}\n{thd}i{sth}{-}point...{mend}
+290	16	{PARTY2%}:\n{Cap}{l}et'{stz}{-}g{o}{-umeth}, {SERGE%}.{wait(30)}\n{Cap}{-the-}{Cap}{w}ate{rr}{-}D{rwr}agon{-}\nmu{sth}t{-}b{e} b{e}yond{-umeth}{-}\n{thd}i{sth}{-}point...{mend}
+290	17	{PARTY0%}:\n{Cap}{l}et'{stz}{-}g{o}{-umeth}, {SERGE%}.{wait(30)}\n{Cap}{-the-}{Cap}{w}ate{rr}{-}D{rwr}agon{-}\nmu{sth}t{-}b{e} b{e}yond{-umeth}{-}\n{thd}i{sth}{-}point...{mend}
+290	18	{PARTY1%}:\n{speed(160)}{Cap}{SERGE%}!\n{Cap}{thd}e{rr}e{-}i{stz}{-umeth}{-}{-a-}{f}ai{rwr}y\n{o}ve{rr}{-}{thd}e{rr}e...{mend}
+290	19	{PARTY1%}:\n{speed(48)}...{Cap}{SERGE%}.{wait(20)}\n{Cap}I{stz}{-}it{-}a{l}{rwr}{i}ght{-umeth}?{mend}
+290	20	{PARTY2%}:\n{speed(48)}...{Cap}{SERGE%}?{mend}
 290	21	{PARTY1%}:\n{speed(160)}...!?\n{speed(72)}T{sth}k,{wait(10)} i{f}{-}on{l}y{-}{w}{e}{-}{h'}ad{-}gotten{-umeth}\n{h'}{e}{rr}e{-}{-a-}{l}ittle{-}ea{rr}{l}ie{rr}...{mend}
-290	22	{PARTY2%}:\n{Cap}{l}et'{stz}{-}g{o}{-umeth}, {SERGE}.{wait(30)}\n{Cap}{-the-}{Cap}{w}ate{rr}{-}D{rwr}agon{-}\nmu{sth}t{-}b{e} b{e}yond{-umeth}{-}\n{thd}i{sth}{-}point...{mend}
+290	22	{PARTY2%}:\n{Cap}{l}et'{stz}{-}g{o}{-umeth}, {SERGE%}.{wait(30)}\n{Cap}{-the-}{Cap}{w}ate{rr}{-}D{rwr}agon{-}\nmu{sth}t{-}b{e} b{e}yond{-umeth}{-}\n{thd}i{sth}{-}point...{mend}
 290	23	Rosetta:\n{speed(64)}Agh... Who are...you?{wait(20)}\nI will{wait(5)} be fine.{wait(15)} The other\nfairies,{wait(5)} are they alright?{mend}
 290	24	{PARTY2%}:\n{speed(72)}{Cap}{-I-}{-}d{o}{n't}{-}{f}{e}el{-umeth}{-}{thd}ei{rr}\np{rwr}e{sth}ence{-}in{-}{-the-}c{a}ve{stz}\nanymo{rr}e...{bpage}\n{speed(64)}{Cap}{-I-}{-}am{-}{sth}u{rr}e{-umeth}{-}it{'s}{-}{sth}{a}{f}e\nout{sth}{i}de{-}a{stz}{-}{w}ell.{mend}
 290	25	{PARTY1%}:\n{speed(72)}{Cap}{w}e{'re}{-}{sth}o{rw}{rwr}y{-umeth},\nbut{-}{w}{a}it{-umeth}{-}{rwr}{i}ght\n{h'}{e}{rr}e{-}{f}{o}{rr}{-}{-a-}minute...{bpage}\n{Cap}{w}{e}{-}n{e}ed{-}to{-}g{o}{-umeth}{-}{f}u{rr}{thvv}e{rr}\ninto{-}{-the-}c{a}ve.{wait(30)}\nIt{-}{w}ill{-}on{l}y{-}b{e}{-umeth}{-}{-a-}\n{l}ittle{-}{w}h{i}le...{mend}
@@ -32428,16 +32428,16 @@
 290	37	Dwarf Chieftain:\n{speed(80)}Someday...{wait(5)}let us hope that we\nchildren of the planet can live\ntogether in peace...{mend}
 290	38	Dwarf Chieftain:\n{speed(80)}Grr...{wait(5)} Such strength...{wait(20)}\nAre we to be driven off\nour land once again?{bpage}\nIs there no land on this planet\nwhere we can live in peace?\nOh, Goddess of Fate, why were we\ndealt such a hand?{bpage}\n{speed(72)}Are humans really the greatest\nspecies on this planet?{bpage}\n{speed(56)}These heretics of evolution,{wait(5)}\n{speed(32)}these destroyers of\nthe planet...?{wait(10)} {color(GRAY)}U{wait(1)}g{wait(1)}h{wait(1)}...{color(0)}{mend}
 290	39	Dwarf Chieftain:\n{speed(96)}I told you, we will not let you go.{wait(20)}\nThe shot we just fired is our\nprized Element cannon.{bpage}\nHehehe... Causing painful\nafflictions is just one of\nits many features...{bpage}\nIf you wish, we can blow you to\npieces, too!{mend}
-290	40	{PARTY1%}:\nUr{rr}, {w}{e}{-}{can't}{-}get{-umeth}{-}a{w}{a}y {f}{rwr}om{-}{thd}i{sth}{-}one!{wait(15)} {Cap}{thd}i{sth} i{stz}{n't}{-umeth}{-}good, {SERGE}.{mend}
-290	41	{PARTY2%}:\nUr{rr}, {w}{e}{-}{can't}{-}get{-umeth}{-}a{w}{a}y {f}{rwr}om{-}{thd}i{sth}{-}one!{wait(15)} {Cap}{thd}i{sth} i{stz}{n't}{-umeth}{-}good, {SERGE}.{mend}
-290	42	{PARTY0%}:\nUr{rr}, {w}{e}{-}{can't}{-}get{-umeth}{-}a{w}{a}y {f}{rwr}om{-}{thd}i{sth}{-}one!{wait(15)} {Cap}{thd}i{sth} i{stz}{n't}{-umeth}{-}good, {SERGE}.{mend}
+290	40	{PARTY1%}:\nUr{rr}, {w}{e}{-}{can't}{-}get{-umeth}{-}a{w}{a}y {f}{rwr}om{-}{thd}i{sth}{-}one!{wait(15)} {Cap}{thd}i{sth} i{stz}{n't}{-umeth}{-}good, {SERGE%}.{mend}
+290	41	{PARTY2%}:\nUr{rr}, {w}{e}{-}{can't}{-}get{-umeth}{-}a{w}{a}y {f}{rwr}om{-}{thd}i{sth}{-}one!{wait(15)} {Cap}{thd}i{sth} i{stz}{n't}{-umeth}{-}good, {SERGE%}.{mend}
+290	42	{PARTY0%}:\nUr{rr}, {w}{e}{-}{can't}{-}get{-umeth}{-}a{w}{a}y {f}{rwr}om{-}{thd}i{sth}{-}one!{wait(15)} {Cap}{thd}i{sth} i{stz}{n't}{-umeth}{-}good, {SERGE%}.{mend}
 290	43	Nooo, this treasure is mine!{wait(15)}\nI'm not giving it up!{mend}
-290	44	{PARTY1%}:\n{speed(80)}...{Cap}{SERGE}.\n{Cap}{w}e{'re}{-}not\n{f}ini{sth}hed{-umeth}{-}yet.{bpage}\nIt{'s}{-umeth}{-}too{-}ea{rr}{l}y\nto{-}g{o}{-umeth}{-}out{sth}{i}de...{mend}
-290	45	{PARTY2%}:\n{speed(96)}{Cap}{l}et'{stz}{-}g{o}{-umeth}, {SERGE}.\n{Cap}{-the-}{Cap}{w}ate{rr}{-}D{rwr}agon{-}i{stz}{-}ju{sth}t\nb{e}yond{-umeth}{-}{h'}{e}{rr}e...{bpage}\n{Cap}{w}{e}{'ve}{-}to{-}{f}ini{sth}h{-umeth}{-}{wha}t\n{w}{e}{-}c{a}me{-umeth}{-}{h'}{e}{rr}e{-}{f}{o}{rr}.{mend}
-290	46	{PARTY2%}:\n{speed(80)}...{Cap}{SERGE}.\n{Cap}{w}e{'re}{-}not\n{f}ini{sth}hed{-umeth}{-}yet.{bpage}\nIt{'s}{-umeth}{-}too{-}ea{rr}{l}y\nto{-}g{o}{-umeth}{-}out{sth}{i}de...{mend}
-290	47	{PARTY0%}:\n{speed(96)}{Cap}{l}et'{stz}{-}g{o}{-umeth}, {SERGE}.\n{Cap}{-the-}{Cap}{w}ate{rr}{-}D{rwr}agon{-}i{stz}{-}ju{sth}t\nb{e}yond{-umeth}{-}{h'}{e}{rr}e...{bpage}\n{Cap}{w}{e}{'ve}{-}to{-}{f}ini{sth}h{-umeth}{-}{wha}t\n{w}{e}{-}c{a}me{-umeth}{-}{h'}{e}{rr}e{-}{f}{o}{rr}.{mend}
-290	48	{PARTY0%}:\n{speed(80)}...{Cap}{SERGE}.\n{Cap}{w}e{'re}{-}not\n{f}ini{sth}hed{-umeth}{-}yet.{bpage}\nIt{'s}{-umeth}{-}too{-}ea{rr}{l}y\nto{-}g{o}{-umeth}{-}out{sth}{i}de...{mend}
-290	49	{PARTY1%}:\n{speed(96)}{Cap}{l}et'{stz}{-}g{o}{-umeth}, {SERGE}.\n{Cap}{-the-}{Cap}{w}ate{rr}{-}D{rwr}agon{-}i{stz}{-}ju{sth}t\nb{e}yond{-umeth}{-}{h'}{e}{rr}e...{bpage}\n{Cap}{w}{e}{'ve}{-}to{-}{f}ini{sth}h{-umeth}{-}{wha}t\n{w}{e}{-}c{a}me{-umeth}{-}{h'}{e}{rr}e{-}{f}{o}{rr}.{mend}
+290	44	{PARTY1%}:\n{speed(80)}...{Cap}{SERGE%}.\n{Cap}{w}e{'re}{-}not\n{f}ini{sth}hed{-umeth}{-}yet.{bpage}\nIt{'s}{-umeth}{-}too{-}ea{rr}{l}y\nto{-}g{o}{-umeth}{-}out{sth}{i}de...{mend}
+290	45	{PARTY2%}:\n{speed(96)}{Cap}{l}et'{stz}{-}g{o}{-umeth}, {SERGE%}.\n{Cap}{-the-}{Cap}{w}ate{rr}{-}D{rwr}agon{-}i{stz}{-}ju{sth}t\nb{e}yond{-umeth}{-}{h'}{e}{rr}e...{bpage}\n{Cap}{w}{e}{'ve}{-}to{-}{f}ini{sth}h{-umeth}{-}{wha}t\n{w}{e}{-}c{a}me{-umeth}{-}{h'}{e}{rr}e{-}{f}{o}{rr}.{mend}
+290	46	{PARTY2%}:\n{speed(80)}...{Cap}{SERGE%}.\n{Cap}{w}e{'re}{-}not\n{f}ini{sth}hed{-umeth}{-}yet.{bpage}\nIt{'s}{-umeth}{-}too{-}ea{rr}{l}y\nto{-}g{o}{-umeth}{-}out{sth}{i}de...{mend}
+290	47	{PARTY0%}:\n{speed(96)}{Cap}{l}et'{stz}{-}g{o}{-umeth}, {SERGE%}.\n{Cap}{-the-}{Cap}{w}ate{rr}{-}D{rwr}agon{-}i{stz}{-}ju{sth}t\nb{e}yond{-umeth}{-}{h'}{e}{rr}e...{bpage}\n{Cap}{w}{e}{'ve}{-}to{-}{f}ini{sth}h{-umeth}{-}{wha}t\n{w}{e}{-}c{a}me{-umeth}{-}{h'}{e}{rr}e{-}{f}{o}{rr}.{mend}
+290	48	{PARTY0%}:\n{speed(80)}...{Cap}{SERGE%}.\n{Cap}{w}e{'re}{-}not\n{f}ini{sth}hed{-umeth}{-}yet.{bpage}\nIt{'s}{-umeth}{-}too{-}ea{rr}{l}y\nto{-}g{o}{-umeth}{-}out{sth}{i}de...{mend}
+290	49	{PARTY1%}:\n{speed(96)}{Cap}{l}et'{stz}{-}g{o}{-umeth}, {SERGE%}.\n{Cap}{-the-}{Cap}{w}ate{rr}{-}D{rwr}agon{-}i{stz}{-}ju{sth}t\nb{e}yond{-umeth}{-}{h'}{e}{rr}e...{bpage}\n{Cap}{w}{e}{'ve}{-}to{-}{f}ini{sth}h{-umeth}{-}{wha}t\n{w}{e}{-}c{a}me{-umeth}{-}{h'}{e}{rr}e{-}{f}{o}{rr}.{mend}
 290	50	{ERROR}
 290	51	{ERROR}
 290	52	{ERROR}
@@ -32798,12 +32798,12 @@
 291	13	Water Dragon:\n{speed(96)}The three mutual powers that\nobliterated the Dead Sea,{bpage}\nthey are none other than the god\nwho decides the world's fate,\nthe god that rules mankind --\n“FATE.”{bpage}\n{speed(72)}For mankind to be mankind...{wait(15)}\nFor the planet to be a planet...{wait(15)}\nThou who art bound by fate...{wait(20)}\n...Go now, to the Sea of Eden.{mend}
 291	14	Water Dragon:\n{speed(96)}Cross the worlds and seek the\nremaining Dragon Gods.{bpage}\nWhen all of our powers are\ngathered, the Sea of Eden\nshall open its gates.{mend}
 291	15	Water Dragon:\n{speed(96)}Withdrawal is another path.{wait(15)}\nUntil the march forward\nresumes, I shall wait here...{mend}
-291	16	{PARTY1%}:\n{Cap}{w}{a}it{-umeth}, {SERGE}.{wait(20)}\n{Cap}{w}{e}{'ve}{-}come{-umeth}{-}{sth}{o}{-}{f}a{rwr},\n{w}{e}{-}{can't}{-}tu{rwr}n{-umeth}{-}back{-}now.{mend}
-291	17	{PARTY2%}:\n{Cap}{SERGE}, {thd}e{rr}e{'s}{-umeth}\n{sth}ome{thf}in{g'}{-}{thd}at{-}{l}ook{sth}{-umeth}\n{l}{i}ke{-}{-a-}mon{u}ment{-}back{-}{thd}e{rr}e.{bpage}\n{Cap}{thd}at{-}mu{sth}t{-}b{e}{-umeth}\n{wha}t{-}{w}e{'re}\n{l}ookin{g'}{-umeth}{-}{f}{o}{rr}.{mend}
-291	18	{PARTY2%}:\n{Cap}{w}{a}it{-umeth}, {SERGE}.{wait(20)}\n{Cap}{w}{e}{'ve}{-}come{-umeth}{-}{sth}{o}{-}{f}a{rwr},\n{w}{e}{-}{can't}{-}tu{rwr}n{-umeth}{-}back{-}now.{mend}
-291	19	{PARTY0%}:\n{Cap}{SERGE}, {thd}e{rr}e{'s}{-umeth}\n{sth}ome{thf}in{g'}{-}{thd}at{-}{l}ook{sth}{-umeth}\n{l}{i}ke{-}{-a-}mon{u}ment{-}back{-}{thd}e{rr}e.{bpage}\n{Cap}{thd}at{-}mu{sth}t{-}b{e}{-umeth}\n{wha}t{-}{w}e{'re}\n{l}ookin{g'}{-umeth}{-}{f}{o}{rr}.{mend}
-291	20	{PARTY1%}:\n{Cap}{w}{a}it{-umeth}, {SERGE}.{wait(20)}\n{Cap}{w}{e}{'ve}{-}come{-umeth}{-}{sth}{o}{-}{f}a{rwr},\n{w}{e}{-}{can't}{-}tu{rwr}n{-umeth}{-}back{-}now.{mend}
-291	21	{PARTY0%}:\n{Cap}{SERGE}, {thd}e{rr}e{'s}{-umeth}\n{sth}ome{thf}in{g'}{-}{thd}at{-}{l}ook{sth}{-umeth}\n{l}{i}ke{-}{-a-}mon{u}ment{-}back{-}{thd}e{rr}e.{bpage}\n{Cap}{thd}at{-}mu{sth}t{-}b{e}{-umeth}\n{wha}t{-}{w}e{'re}\n{l}ookin{g'}{-umeth}{-}{f}{o}{rr}.{mend}
+291	16	{PARTY1%}:\n{Cap}{w}{a}it{-umeth}, {SERGE%}.{wait(20)}\n{Cap}{w}{e}{'ve}{-}come{-umeth}{-}{sth}{o}{-}{f}a{rwr},\n{w}{e}{-}{can't}{-}tu{rwr}n{-umeth}{-}back{-}now.{mend}
+291	17	{PARTY2%}:\n{Cap}{SERGE%}, {thd}e{rr}e{'s}{-umeth}\n{sth}ome{thf}in{g'}{-}{thd}at{-}{l}ook{sth}{-umeth}\n{l}{i}ke{-}{-a-}mon{u}ment{-}back{-}{thd}e{rr}e.{bpage}\n{Cap}{thd}at{-}mu{sth}t{-}b{e}{-umeth}\n{wha}t{-}{w}e{'re}\n{l}ookin{g'}{-umeth}{-}{f}{o}{rr}.{mend}
+291	18	{PARTY2%}:\n{Cap}{w}{a}it{-umeth}, {SERGE%}.{wait(20)}\n{Cap}{w}{e}{'ve}{-}come{-umeth}{-}{sth}{o}{-}{f}a{rwr},\n{w}{e}{-}{can't}{-}tu{rwr}n{-umeth}{-}back{-}now.{mend}
+291	19	{PARTY0%}:\n{Cap}{SERGE%}, {thd}e{rr}e{'s}{-umeth}\n{sth}ome{thf}in{g'}{-}{thd}at{-}{l}ook{sth}{-umeth}\n{l}{i}ke{-}{-a-}mon{u}ment{-}back{-}{thd}e{rr}e.{bpage}\n{Cap}{thd}at{-}mu{sth}t{-}b{e}{-umeth}\n{wha}t{-}{w}e{'re}\n{l}ookin{g'}{-umeth}{-}{f}{o}{rr}.{mend}
+291	20	{PARTY1%}:\n{Cap}{w}{a}it{-umeth}, {SERGE%}.{wait(20)}\n{Cap}{w}{e}{'ve}{-}come{-umeth}{-}{sth}{o}{-}{f}a{rwr},\n{w}{e}{-}{can't}{-}tu{rwr}n{-umeth}{-}back{-}now.{mend}
+291	21	{PARTY0%}:\n{Cap}{SERGE%}, {thd}e{rr}e{'s}{-umeth}\n{sth}ome{thf}in{g'}{-}{thd}at{-}{l}ook{sth}{-umeth}\n{l}{i}ke{-}{-a-}mon{u}ment{-}back{-}{thd}e{rr}e.{bpage}\n{Cap}{thd}at{-}mu{sth}t{-}b{e}{-umeth}\n{wha}t{-}{w}e{'re}\n{l}ookin{g'}{-umeth}{-}{f}{o}{rr}.{mend}
 291	22	Water Dragon:\n{speed(80)}...Thou need not explain.\nI know already what thou\nseekest here.{mend}
 291	23	Water Dragon:\nThere is naught to be\nsurprised about.{mend}
 291	24	Water Dragon:\nIt is but a trifle for we\nSleeping Dragons who have\ndwelt upon this land for ages.{bpage}\nMount Pyre, the land thou\nseekest, is home to the\nFire Dragon.{bpage}\nUnless thou quench his red\nblazes, it will prove a\ndifficult journey.{mend}
@@ -33516,9 +33516,9 @@
 293	324	{ERROR}
 293	325	{ERROR}
 293	326	{ERROR}
-294	0	{PARTY1%}:\n{Cap}{SERGE}.{wait(15)}\n{Cap}{-the-}{Cap}{w}ate{rr}{-}D{rwr}agon{'s}\nju{sth}t{-}b{e}yond{-umeth}{-}{h'}{e}{rr}e.{mend}
-294	1	{PARTY2%}:\n{Cap}{SERGE}.{wait(15)}\n{Cap}{-the-}{Cap}{w}ate{rr}{-}D{rwr}agon{'s}\nju{sth}t{-}b{e}yond{-umeth}{-}{h'}{e}{rr}e.{mend}
-294	2	{PARTY0%}:\n{Cap}{SERGE}.{wait(15)}\n{Cap}{-the-}{Cap}{w}ate{rr}{-}D{rwr}agon{'s}\nju{sth}t{-}b{e}yond{-umeth}{-}{h'}{e}{rr}e.{mend}
+294	0	{PARTY1%}:\n{Cap}{SERGE%}.{wait(15)}\n{Cap}{-the-}{Cap}{w}ate{rr}{-}D{rwr}agon{'s}\nju{sth}t{-}b{e}yond{-umeth}{-}{h'}{e}{rr}e.{mend}
+294	1	{PARTY2%}:\n{Cap}{SERGE%}.{wait(15)}\n{Cap}{-the-}{Cap}{w}ate{rr}{-}D{rwr}agon{'s}\nju{sth}t{-}b{e}yond{-umeth}{-}{h'}{e}{rr}e.{mend}
+294	2	{PARTY0%}:\n{Cap}{SERGE%}.{wait(15)}\n{Cap}{-the-}{Cap}{w}ate{rr}{-}D{rwr}agon{'s}\nju{sth}t{-}b{e}yond{-umeth}{-}{h'}{e}{rr}e.{mend}
 294	3	It's empty...{mend}
 294	4	{PARTY0%} cannot carry\nany more {color(2)}{itemwork(3)}{color(0)}s.{mend}
 294	5	{PARTY0%} cannot carry\nany more {color(3)}{itemwork(3)}{color(0)}s.{mend}
@@ -38587,10 +38587,10 @@
 364	49	{ERROR}
 364	50	{ERROR}
 364	51	{ERROR}
-365	0	{PARTY2%}:\n{Cap}{SERGE}!!!{fwait(1)}{wend(1)}
+365	0	{PARTY2%}:\n{Cap}{SERGE%}!!!{fwait(1)}{wend(1)}
 365	1	{STEENA%}:\n{SERGE%}...{wait(15)}\nYou must proceed\nalone from here.{bpage}\nYou must see and confirm for\nyourself who you really are.{wait(15)}\nTruth shall manifest itself\nonce you believe in your heart...{mend}
 365	2	{STEENA%}:\n{SERGE%}...{wait(15)}\nYou must proceed\nalone from here.{bpage}\nYou must see and confirm for\nyourself who you really are.{wait(15)}\nTruth shall manifest itself\nonce you believe in your heart...{mend}
-365	3	{PARTY1%}:\n{Cap}{SERGE}!!!{bwait}{fset(1)}{wend(1)}
+365	3	{PARTY1%}:\n{Cap}{SERGE%}!!!{bwait}{fset(1)}{wend(1)}
 365	4	{STEENA%}:\n{SERGE%}...{wait(15)}\nYou have regained your identity\nwithout being led astray.{bpage}\nYour eyes, which foresaw\nthe truth, shall help you\nto regain your trust among\nyour comrades...{bpage}\nThere is nothing we can do\nabout the Dragon Tear...{wait(15)}\nIts shattering does not\ncome as a surprise.{bpage}\nHowever, you also carry\nthe fate of the Dragon Tear\nfrom another world.{bpage}\nThe broken pieces of\nlove and hate... Although\ncontradictory, they are two\nsides of the same coin...{bpage}\nA mysterious force may\ncome to light when the\ntwo pieces are united...{bpage}\nPerhaps this force will be\nthe legendary Chrono Cross...{bpage}\nThe only problem is, the shrine,\nwhich is said to give life to the\nChrono Cross, is nothing but a\ncavern inside Divine Dragon Falls.{bpage}\n{SERGE%}...{wait(15)}\nYou may hold the key to\nbringing forth its powers.{mend}
 365	5	{STEENA%}:\n{SERGE%}...{wait(15)}\nYou have regained your identity\nwithout being led astray.{bpage}\nYour eyes, which foresaw\nthe truth, shall help you\nto regain your trust among\nyour comrades...{bpage}\nThere is nothing we can do\nabout the Dragon Tear...{wait(15)}\nIts shattering does not\ncome as a surprise.{bpage}\nHowever, you also carry\nthe fate of the Dragon Tear\nfrom another world.{bpage}\nThe broken pieces of\nlove and hate... Although\ncontradictory, they are two\nsides of the same coin...{bpage}\nA mysterious force may\ncome to light when the\ntwo pieces are united...{bpage}\nPerhaps this force will be\nthe legendary Chrono Cross...{bpage}\nThe only problem is, the shrine,\nwhich is said to give life to the\nChrono Cross, is nothing but a\ncavern inside Divine Dragon Falls.{bpage}\n{SERGE%}...{wait(15)}\nYou may hold the key to\nbringing forth its powers.{mend}
 365	6	The {color(4)}{itemwork(0)}{color(0)} shattered\nbut transformed into the {color(4)}{itemwork(1)}{color(0)}!{mend}
@@ -38821,7 +38821,7 @@
 368	50	{KID%}:\nNot once did I ever\nmention Lucca's name\nto you, {SERGE%}...{mend}
 368	51	{SERGE%}:\n......!!!{mend}
 368	52	{KID%}:\nNo...\nDon't tell me you're...!?{mend}
-368	53	{PARTY1%}:\n{Cap}{SERGE}...\n{Cap}{w}hy...!?{mend}
+368	53	{PARTY1%}:\n{Cap}{SERGE%}...\n{Cap}{w}hy...!?{mend}
 368	54	{SERGE%}:\nQUIET!!!{mend}
 368	55	{SERGE%}:\nYou, too!!!{mend}
 368	56	{PARTY2%}:\n......!?{wait(15)}\nN-Noooooo...!{mend}
@@ -49546,7 +49546,7 @@
 464	343	{ERROR}
 464	344	{ERROR}
 464	345	{ERROR}
-465	0	{PARTY2%}:\n{Cap}{wha}t{'s}{-umeth}{-}{w}{rr}ong,\n{SERGE}?\nDid{-}{-you-}{-}{sth}en{sth}e{-umeth}{-}{sth}ome{thf}in{g'}?{mend}
+465	0	{PARTY2%}:\n{Cap}{wha}t{'s}{-umeth}{-}{w}{rr}ong,\n{SERGE%}?\nDid{-}{-you-}{-}{sth}en{sth}e{-umeth}{-}{sth}ome{thf}in{g'}?{mend}
 465	1	{PARTY1%}:\nA{rr}e{-}{-you-}\na{l}{rwr}{i}ght{-umeth}?{mend}
 465	2	{PARTY1%}:\n{speed(64)}{Cap}{wha}t...?{wait(15)} {Cap}{-you-}{-}{sth}aw{-umeth}{-}{-a-}ch{i}ld?{wait(45)}\n{speed(96)}{Cap}{-I-}{-}did{n't}{-}{sth}{e}e{-umeth}{-}{-a-}ch{i}ld\nany{w}he{rr}e...{mend}
 465	3	　!?　{wend(20)}
@@ -49622,12 +49622,12 @@
 467	0	{PARTY2%}:\nA{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth}?{wait(20)}\n{Cap}{wha}t{'s}{-umeth}{-}{w}{rr}ong?{mend}
 467	1	{PARTY0%}:\nA{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth}?{wait(20)}\n{Cap}{wha}t{'s}{-umeth}{-}{w}{rr}ong?{mend}
 467	2	{PARTY1%}:\nA{rr}e{-}{-you-}{-}a{l}{rwr}{i}ght{-umeth}?{wait(20)}\n{Cap}{wha}t{'s}{-umeth}{-}{w}{rr}ong?{mend}
-467	3	{PARTY0%}:\n{Cap}{-you-}{'ve}{-}b{e}en{-}actin{g'}{-umeth}\n{sth}t{rwr}{a}nge{l}y{-}eve{rr}{-}{sth}ince\n{w}{e}{-}ente{rr}ed{-umeth}{-}{-the-}building.{bpage}\nI{stz}{-umeth}{-}it{-}{thd}at{-}ch{i}ld\nagain?{bpage}\n{Cap}{thd}e{rr}e{'s}{-}n{o}{-}tu{rwr}nin{g'}{-umeth}\nback{-}now!{wait(15)}\n{Cap}{w}e{-}mu{sth}t{-}k{e}ep{-}g{o}in{g'}{-umeth},\n{SERGE}.{mend}
-467	4	{PARTY0%}:\n{Cap}{-you-}{'ve}{-}b{e}en{-}actin{g'}{-umeth}\n{sth}t{rwr}{a}nge{l}y{-}eve{rr}{-}{sth}ince\n{w}{e}{-}ente{rr}ed{-umeth}{-}{-the-}building.{bpage}\nI{stz}{-umeth}{-}it{-}{thd}at{-}ch{i}ld\nagain?{bpage}\n{Cap}{thd}e{rr}e{'s}{-}n{o}{-}tu{rwr}nin{g'}{-umeth}\nback{-}now!{wait(15)}\n{Cap}{w}e{-}mu{sth}t{-}k{e}ep{-}g{o}in{g'}{-umeth},\n{SERGE}.{mend}
-467	5	{PARTY1%}:\n{Cap}{-you-}{'ve}{-}b{e}en{-}actin{g'}{-umeth}\n{sth}t{rwr}{a}nge{l}y{-}eve{rr}{-}{sth}ince\n{w}{e}{-}ente{rr}ed{-umeth}{-}{-the-}building.{bpage}\nI{stz}{-umeth}{-}it{-}{thd}at{-}ch{i}ld\nagain?{bpage}\n{Cap}{thd}e{rr}e{'s}{-}n{o}{-}tu{rwr}nin{g'}{-umeth}\nback{-}now!{wait(15)}\n{Cap}{w}e{-}mu{sth}t{-}k{e}ep{-}g{o}in{g'}{-umeth},\n{SERGE}.{mend}
-467	6	{PARTY1%}:\n{Cap}{-you-}{'ve}{-}b{e}en{-}actin{g'}{-umeth}\n{sth}t{rwr}{a}nge{l}y{-}eve{rr}{-}{sth}ince\n{w}{e}{-}ente{rr}ed{-umeth}{-}{-the-}building.{bpage}\nI{stz}{-umeth}{-}it{-}{thd}at{-}ch{i}ld\nagain?{bpage}\n{Cap}{thd}e{rr}e{'s}{-}n{o}{-}tu{rwr}nin{g'}{-umeth}\nback{-}now!{wait(15)}\n{Cap}{w}e{-}mu{sth}t{-}k{e}ep{-}g{o}in{g'}{-umeth},\n{SERGE}.{mend}
-467	7	{PARTY2%}:\n{Cap}{-you-}{'ve}{-}b{e}en{-}actin{g'}{-umeth}\n{sth}t{rwr}{a}nge{l}y{-}eve{rr}{-}{sth}ince\n{w}{e}{-}ente{rr}ed{-umeth}{-}{-the-}building.{bpage}\nI{stz}{-umeth}{-}it{-}{thd}at{-}ch{i}ld\nagain?{bpage}\n{Cap}{thd}e{rr}e{'s}{-}n{o}{-}tu{rwr}nin{g'}{-umeth}\nback{-}now!{wait(15)}\n{Cap}{w}e{-}mu{sth}t{-}k{e}ep{-}g{o}in{g'}{-umeth},\n{SERGE}.{mend}
-467	8	{PARTY2%}:\n{Cap}{-you-}{'ve}{-}b{e}en{-}actin{g'}{-umeth}\n{sth}t{rwr}{a}nge{l}y{-}eve{rr}{-}{sth}ince\n{w}{e}{-}ente{rr}ed{-umeth}{-}{-the-}building.{bpage}\nI{stz}{-umeth}{-}it{-}{thd}at{-}ch{i}ld\nagain?{bpage}\n{Cap}{thd}e{rr}e{'s}{-}n{o}{-}tu{rwr}nin{g'}{-umeth}\nback{-}now!{wait(15)}\n{Cap}{w}e{-}mu{sth}t{-}k{e}ep{-}g{o}in{g'}{-umeth},\n{SERGE}.{mend}
+467	3	{PARTY0%}:\n{Cap}{-you-}{'ve}{-}b{e}en{-}actin{g'}{-umeth}\n{sth}t{rwr}{a}nge{l}y{-}eve{rr}{-}{sth}ince\n{w}{e}{-}ente{rr}ed{-umeth}{-}{-the-}building.{bpage}\nI{stz}{-umeth}{-}it{-}{thd}at{-}ch{i}ld\nagain?{bpage}\n{Cap}{thd}e{rr}e{'s}{-}n{o}{-}tu{rwr}nin{g'}{-umeth}\nback{-}now!{wait(15)}\n{Cap}{w}e{-}mu{sth}t{-}k{e}ep{-}g{o}in{g'}{-umeth},\n{SERGE%}.{mend}
+467	4	{PARTY0%}:\n{Cap}{-you-}{'ve}{-}b{e}en{-}actin{g'}{-umeth}\n{sth}t{rwr}{a}nge{l}y{-}eve{rr}{-}{sth}ince\n{w}{e}{-}ente{rr}ed{-umeth}{-}{-the-}building.{bpage}\nI{stz}{-umeth}{-}it{-}{thd}at{-}ch{i}ld\nagain?{bpage}\n{Cap}{thd}e{rr}e{'s}{-}n{o}{-}tu{rwr}nin{g'}{-umeth}\nback{-}now!{wait(15)}\n{Cap}{w}e{-}mu{sth}t{-}k{e}ep{-}g{o}in{g'}{-umeth},\n{SERGE%}.{mend}
+467	5	{PARTY1%}:\n{Cap}{-you-}{'ve}{-}b{e}en{-}actin{g'}{-umeth}\n{sth}t{rwr}{a}nge{l}y{-}eve{rr}{-}{sth}ince\n{w}{e}{-}ente{rr}ed{-umeth}{-}{-the-}building.{bpage}\nI{stz}{-umeth}{-}it{-}{thd}at{-}ch{i}ld\nagain?{bpage}\n{Cap}{thd}e{rr}e{'s}{-}n{o}{-}tu{rwr}nin{g'}{-umeth}\nback{-}now!{wait(15)}\n{Cap}{w}e{-}mu{sth}t{-}k{e}ep{-}g{o}in{g'}{-umeth},\n{SERGE%}.{mend}
+467	6	{PARTY1%}:\n{Cap}{-you-}{'ve}{-}b{e}en{-}actin{g'}{-umeth}\n{sth}t{rwr}{a}nge{l}y{-}eve{rr}{-}{sth}ince\n{w}{e}{-}ente{rr}ed{-umeth}{-}{-the-}building.{bpage}\nI{stz}{-umeth}{-}it{-}{thd}at{-}ch{i}ld\nagain?{bpage}\n{Cap}{thd}e{rr}e{'s}{-}n{o}{-}tu{rwr}nin{g'}{-umeth}\nback{-}now!{wait(15)}\n{Cap}{w}e{-}mu{sth}t{-}k{e}ep{-}g{o}in{g'}{-umeth},\n{SERGE%}.{mend}
+467	7	{PARTY2%}:\n{Cap}{-you-}{'ve}{-}b{e}en{-}actin{g'}{-umeth}\n{sth}t{rwr}{a}nge{l}y{-}eve{rr}{-}{sth}ince\n{w}{e}{-}ente{rr}ed{-umeth}{-}{-the-}building.{bpage}\nI{stz}{-umeth}{-}it{-}{thd}at{-}ch{i}ld\nagain?{bpage}\n{Cap}{thd}e{rr}e{'s}{-}n{o}{-}tu{rwr}nin{g'}{-umeth}\nback{-}now!{wait(15)}\n{Cap}{w}e{-}mu{sth}t{-}k{e}ep{-}g{o}in{g'}{-umeth},\n{SERGE%}.{mend}
+467	8	{PARTY2%}:\n{Cap}{-you-}{'ve}{-}b{e}en{-}actin{g'}{-umeth}\n{sth}t{rwr}{a}nge{l}y{-}eve{rr}{-}{sth}ince\n{w}{e}{-}ente{rr}ed{-umeth}{-}{-the-}building.{bpage}\nI{stz}{-umeth}{-}it{-}{thd}at{-}ch{i}ld\nagain?{bpage}\n{Cap}{thd}e{rr}e{'s}{-}n{o}{-}tu{rwr}nin{g'}{-umeth}\nback{-}now!{wait(15)}\n{Cap}{w}e{-}mu{sth}t{-}k{e}ep{-}g{o}in{g'}{-umeth},\n{SERGE%}.{mend}
 467	9	　!!!　{wend(45)}
 467	10	{ZAPPA%}:\n{speed(72)}Arrchh! What's goin' on here!?{wait(45)}\n{speed(160)}{KARSH%}...!?{bpage}\nIs that you, lad...!?{wait(30)}\n{speed(64)}Ah don't believe this...!{mend}
 467	11	{RADIUS%}:\n{speed(64)}What in heaven's name\nis going on here...!?{wait(45)}\nGeneral...!{wait(5)} Miss {RIDDEL%}!!!{bpage}\nAnd {GLENN%} and the\nother Dragoons...!{wait(30)}\n{speed(72)}What could have\nhappened here...!?{mend}
@@ -49722,16 +49722,16 @@
 469	8	{TURNIP%}:\n{Cap}{w}ho{-}a{rr}e{-umeth}{-}{thd}{o}{sth}e\nchild{rwr}en...?{mend}
 469	9	{STARKY%}:\n{Cap}{w}ho{-}a{rr}e{-umeth}{-}{thd}{o}{sth}e\nchild{rwr}en...?{mend}
 469	10	{playwork(0)}:\n{Cap}{w}ho{-}a{rr}e{-umeth}{-}{thd}{o}{sth}e\nchild{rwr}en...?{mend}
-469	11	{HARLEY%}:\nIt{'s}{-umeth}{-}{SERGE}'s{-}{f}ault{wait(20)}\n{thd}at{-}{-the-}{w}o{rwr}ld{-}{w}ill\nend{-umeth}{-}up{-}{l}{i}ke{-}{thd}i{sth}...?{mend}
-469	12	{SPRIGG%}:\nIt{'s}{-umeth}{-}{SERGE}'s{-}{f}ault{wait(20)}\n{thd}at{-}{-the-}{w}o{rwr}ld{-}{w}ill\nend{-umeth}{-}up{-}{l}{i}ke{-}{thd}i{sth}...?{mend}
-469	13	{ZAPPA%}:\nIt{'s}{-umeth}{-}{SERGE}'s{-}{f}ault{wait(20)}\n{thd}at{-}{-the-}{w}o{rwr}ld{-}{w}ill\nend{-umeth}{-}up{-}{l}{i}ke{-}{thd}i{sth}...?{mend}
-469	14	{VAN%}:\nIt{'s}{-umeth}{-}{SERGE}'s{-}{f}ault{wait(20)}\n{thd}at{-}{-the-}{w}o{rwr}ld{-}{w}ill\nend{-umeth}{-}up{-}{l}{i}ke{-}{thd}i{sth}...?{mend}
-469	15	{NORRIS%}:\nIt{'s}{-umeth}{-}{SERGE}'s{-}{f}ault{wait(20)}\n{thd}at{-}{-the-}{w}o{rwr}ld{-}{w}ill\nend{-umeth}{-}up{-}{l}{i}ke{-}{thd}i{sth}...?{mend}
-469	16	{SNEFF%}:\nIt{'s}{-umeth}{-}{SERGE}'s{-}{f}ault{wait(20)}\n{thd}at{-}{-the-}{w}o{rwr}ld{-}{w}ill\nend{-umeth}{-}up{-}{l}{i}ke{-}{thd}i{sth}...?{mend}
-469	17	{MIKI%}:\nIt{'s}{-umeth}{-}{SERGE}'s{-}{f}ault{wait(20)}\n{thd}at{-}{-the-}{w}o{rwr}ld{-}{w}ill\nend{-umeth}{-}up{-}{l}{i}ke{-}{thd}i{sth}...?{mend}
-469	18	{TURNIP%}:\nIt{'s}{-umeth}{-}{SERGE}'s{-}{f}ault{wait(20)}\n{thd}at{-}{-the-}{w}o{rwr}ld{-}{w}ill\nend{-umeth}{-}up{-}{l}{i}ke{-}{thd}i{sth}...?{mend}
-469	19	{STARKY%}:\nIt{'s}{-umeth}{-}{SERGE}'s{-}{f}ault{wait(20)}\n{thd}at{-}{-the-}{w}o{rwr}ld{-}{w}ill\nend{-umeth}{-}up{-}{l}{i}ke{-}{thd}i{sth}...?{mend}
-469	20	{playwork(0)}:\nIt{'s}{-umeth}{-}{SERGE}'s{-}{f}ault{wait(20)}\n{thd}at{-}{-the-}{w}o{rwr}ld{-}{w}ill\nend{-umeth}{-}up{-}{l}{i}ke{-}{thd}i{sth}...?{mend}
+469	11	{HARLEY%}:\nIt{'s}{-umeth}{-}{SERGE%}'s{-}{f}ault{wait(20)}\n{thd}at{-}{-the-}{w}o{rwr}ld{-}{w}ill\nend{-umeth}{-}up{-}{l}{i}ke{-}{thd}i{sth}...?{mend}
+469	12	{SPRIGG%}:\nIt{'s}{-umeth}{-}{SERGE%}'s{-}{f}ault{wait(20)}\n{thd}at{-}{-the-}{w}o{rwr}ld{-}{w}ill\nend{-umeth}{-}up{-}{l}{i}ke{-}{thd}i{sth}...?{mend}
+469	13	{ZAPPA%}:\nIt{'s}{-umeth}{-}{SERGE%}'s{-}{f}ault{wait(20)}\n{thd}at{-}{-the-}{w}o{rwr}ld{-}{w}ill\nend{-umeth}{-}up{-}{l}{i}ke{-}{thd}i{sth}...?{mend}
+469	14	{VAN%}:\nIt{'s}{-umeth}{-}{SERGE%}'s{-}{f}ault{wait(20)}\n{thd}at{-}{-the-}{w}o{rwr}ld{-}{w}ill\nend{-umeth}{-}up{-}{l}{i}ke{-}{thd}i{sth}...?{mend}
+469	15	{NORRIS%}:\nIt{'s}{-umeth}{-}{SERGE%}'s{-}{f}ault{wait(20)}\n{thd}at{-}{-the-}{w}o{rwr}ld{-}{w}ill\nend{-umeth}{-}up{-}{l}{i}ke{-}{thd}i{sth}...?{mend}
+469	16	{SNEFF%}:\nIt{'s}{-umeth}{-}{SERGE%}'s{-}{f}ault{wait(20)}\n{thd}at{-}{-the-}{w}o{rwr}ld{-}{w}ill\nend{-umeth}{-}up{-}{l}{i}ke{-}{thd}i{sth}...?{mend}
+469	17	{MIKI%}:\nIt{'s}{-umeth}{-}{SERGE%}'s{-}{f}ault{wait(20)}\n{thd}at{-}{-the-}{w}o{rwr}ld{-}{w}ill\nend{-umeth}{-}up{-}{l}{i}ke{-}{thd}i{sth}...?{mend}
+469	18	{TURNIP%}:\nIt{'s}{-umeth}{-}{SERGE%}'s{-}{f}ault{wait(20)}\n{thd}at{-}{-the-}{w}o{rwr}ld{-}{w}ill\nend{-umeth}{-}up{-}{l}{i}ke{-}{thd}i{sth}...?{mend}
+469	19	{STARKY%}:\nIt{'s}{-umeth}{-}{SERGE%}'s{-}{f}ault{wait(20)}\n{thd}at{-}{-the-}{w}o{rwr}ld{-}{w}ill\nend{-umeth}{-}up{-}{l}{i}ke{-}{thd}i{sth}...?{mend}
+469	20	{playwork(0)}:\nIt{'s}{-umeth}{-}{SERGE%}'s{-}{f}ault{wait(20)}\n{thd}at{-}{-the-}{w}o{rwr}ld{-}{w}ill\nend{-umeth}{-}up{-}{l}{i}ke{-}{thd}i{sth}...?{mend}
 469	21	{SPRIGG%}:\n'ow can this be?{mend}
 469	22	{ZAPPA%}:\n{Cap}{h'}ow{-}can{-}{thd}i{sth}{-}b{e}{-umeth}!?{mend}
 469	23	{VAN%}:\n{Cap}{h'}ow{-}can{-}{thd}i{sth}{-}b{e}{-umeth}!?{mend}
@@ -49751,18 +49751,18 @@
 469	37	{TURNIP%}:\n{Cap}{h'}ow{-}i{stz}{-umeth}{-}{thd}at{-}po{ss}ible...!?{mend}
 469	38	{STARKY%}:\n{Cap}{h'}ow{-}i{stz}{-umeth}{-}{thd}at{-}po{ss}ible...!?{mend}
 469	39	{playwork(0)}:\n{Cap}{h'}ow{-}i{stz}{-umeth}{-}{thd}at{-}po{ss}ible...!?{mend}
-469	40	{HARLEY%}:\n{Cap}{SERGE}!?\n{Cap}{-you-}{-}{can't}{-}b{e}{-umeth}\n{sth}e{rwr}iou{sth}!?{mend}
-469	41	{SPRIGG%}:\n{Cap}{SERGE}!?\n{Cap}{-you-}{-}{can't}{-}b{e}{-umeth}\n{sth}e{rwr}iou{sth}!?{mend}
-469	42	{ZAPPA%}:\n{Cap}{SERGE}!?\n{Cap}{-you-}{-}{can't}{-}b{e}{-umeth}\n{sth}e{rwr}iou{sth}!?{mend}
-469	43	{VAN%}:\n{Cap}{SERGE}!?\n{Cap}{-you-}{-}{can't}{-}b{e}{-umeth}\n{sth}e{rwr}iou{sth}!?{mend}
-469	44	{NORRIS%}:\n{Cap}{SERGE}!?\n{Cap}{-you-}{-}{can't}{-}b{e}{-umeth}\n{sth}e{rwr}iou{sth}!?{mend}
-469	45	{SNEFF%}:\n{Cap}{SERGE}!?\n{Cap}{-you-}{-}{can't}{-}b{e}{-umeth}\n{sth}e{rwr}iou{sth}!?{mend}
-469	46	{MIKI%}:\n{Cap}{SERGE}!?\n{Cap}{-you-}{-}{can't}{-}b{e}{-umeth}\n{sth}e{rwr}iou{sth}!?{mend}
-469	47	{TURNIP%}:\n{Cap}{SERGE}!?\n{Cap}{-you-}{-}{can't}{-}b{e}{-umeth}\n{sth}e{rwr}iou{sth}!?{mend}
-469	48	{RADIUS%}:\n{Cap}{SERGE}!?\n{Cap}{-you-}{-}{can't}{-}b{e}{-umeth}\n{sth}e{rwr}iou{sth}!?{mend}
-469	49	{IRENES%}:\n{Cap}{SERGE}!?\n{Cap}{-you-}{-}{can't}{-}b{e}{-umeth}\n{sth}e{rwr}iou{sth}!?{mend}
-469	50	{STARKY%}:\n{Cap}{SERGE}!?\n{Cap}{-you-}{-}{can't}{-}b{e}{-umeth}\n{sth}e{rwr}iou{sth}!?{mend}
-469	51	{playwork(0)}:\n{Cap}{SERGE}!?\n{Cap}{-you-}{-}{can't}{-}b{e}{-umeth}\n{sth}e{rwr}iou{sth}!?{mend}
+469	40	{HARLEY%}:\n{Cap}{SERGE%}!?\n{Cap}{-you-}{-}{can't}{-}b{e}{-umeth}\n{sth}e{rwr}iou{sth}!?{mend}
+469	41	{SPRIGG%}:\n{Cap}{SERGE%}!?\n{Cap}{-you-}{-}{can't}{-}b{e}{-umeth}\n{sth}e{rwr}iou{sth}!?{mend}
+469	42	{ZAPPA%}:\n{Cap}{SERGE%}!?\n{Cap}{-you-}{-}{can't}{-}b{e}{-umeth}\n{sth}e{rwr}iou{sth}!?{mend}
+469	43	{VAN%}:\n{Cap}{SERGE%}!?\n{Cap}{-you-}{-}{can't}{-}b{e}{-umeth}\n{sth}e{rwr}iou{sth}!?{mend}
+469	44	{NORRIS%}:\n{Cap}{SERGE%}!?\n{Cap}{-you-}{-}{can't}{-}b{e}{-umeth}\n{sth}e{rwr}iou{sth}!?{mend}
+469	45	{SNEFF%}:\n{Cap}{SERGE%}!?\n{Cap}{-you-}{-}{can't}{-}b{e}{-umeth}\n{sth}e{rwr}iou{sth}!?{mend}
+469	46	{MIKI%}:\n{Cap}{SERGE%}!?\n{Cap}{-you-}{-}{can't}{-}b{e}{-umeth}\n{sth}e{rwr}iou{sth}!?{mend}
+469	47	{TURNIP%}:\n{Cap}{SERGE%}!?\n{Cap}{-you-}{-}{can't}{-}b{e}{-umeth}\n{sth}e{rwr}iou{sth}!?{mend}
+469	48	{RADIUS%}:\n{Cap}{SERGE%}!?\n{Cap}{-you-}{-}{can't}{-}b{e}{-umeth}\n{sth}e{rwr}iou{sth}!?{mend}
+469	49	{IRENES%}:\n{Cap}{SERGE%}!?\n{Cap}{-you-}{-}{can't}{-}b{e}{-umeth}\n{sth}e{rwr}iou{sth}!?{mend}
+469	50	{STARKY%}:\n{Cap}{SERGE%}!?\n{Cap}{-you-}{-}{can't}{-}b{e}{-umeth}\n{sth}e{rwr}iou{sth}!?{mend}
+469	51	{playwork(0)}:\n{Cap}{SERGE%}!?\n{Cap}{-you-}{-}{can't}{-}b{e}{-umeth}\n{sth}e{rwr}iou{sth}!?{mend}
 469	52	{HARLEY%}:\n{Cap}{w}{e}{-}{can't}{-}ju{sth}t{-}{l}et{-umeth}\nou{rr}{sth}elve{stz}{-}d{i}e{-umeth}{-}{h'}{e}{rr}e!{mend}
 469	53	{SPRIGG%}:\n{Cap}{w}{e}{-}{can't}{-}ju{sth}t{-}{l}et{-umeth}\nou{rr}{sth}elve{stz}{-}d{i}e{-umeth}{-}{h'}{e}{rr}e!{mend}
 469	54	{ZAPPA%}:\n{Cap}{w}{e}{-}{can't}{-}ju{sth}t{-}{l}et{-umeth}\nou{rr}{sth}elve{stz}{-}d{i}e{-umeth}{-}{h'}{e}{rr}e!{mend}
@@ -49877,7 +49877,7 @@
 471	0	I deem you worthy\nof entering the\nSea of Eden...{mend}
 471	1	Let the path be known for\nthe ones facing their fate...{mend}
 471	2	{PARTY1%}:\n{Cap}{-the-}D{rwr}agon{-}{Cap}{rwr}e{l}ic{sth}\na{rr}e{n't}{-}{rwr}{e}{sth}pondin{g'}{-umeth}.{mend}
-471	3	{PARTY2%}:\nM{a}yb{e}{-}{SERGE}\n{h'}a{stz}{-}to{-}{rwr}etu{rr}n{-umeth}\nto{-}{h'}i{stz}{-}{h'}{u}man{-}{f}{o}{rr}m.{mend}
+471	3	{PARTY2%}:\nM{a}yb{e}{-}{SERGE%}\n{h'}a{stz}{-}to{-}{rwr}etu{rr}n{-umeth}\nto{-}{h'}i{stz}{-}{h'}{u}man{-}{f}{o}{rr}m.{mend}
 471	4	{PARTY1%}:\nCould{-}{thd}i{sth}\n{l}{i}ght{-}be{-umeth}\n{-a-}{w}o{rr}mh{o}le?{mend}
 471	5	{PARTY2%}:\nBut{-}{-the-}am{u}{l}et\ni{stz}{n't}{-}{rwr}e{sth}pondin{g'}{-umeth}.{mend}
 471	6	{PARTY1%}:\nI{stz}{-umeth}{-}{thd}i{sth}\n{-a-}{w}o{rr}mh{o}le?{mend}
@@ -49942,7 +49942,7 @@
 472	3	{speed(255)}To the Sea of Eden...{mend}
 472	4	If thou intendest to defy\nthe Goddess of Fate,{bpage}\nspeak with the ancient\nDragon Gods, who sit in\nrepose in El Nido...{mend}
 472	5	Let the path to the Sea of Eden\nbe known when all the powers of\nthe Sleeping Dragons are\nbrought together...{mend}
-472	6	{PARTY1%}:\n{Cap}{SERGE}, {-you-}{'re}\nconce{rr}ned{-umeth}{-}about{-}{-the-}o{thvv}e{rr}\n{w}o{rwr}ld, a{rr}e{n't-you}?{mend}
+472	6	{PARTY1%}:\n{Cap}{SERGE%}, {-you-}{'re}\nconce{rr}ned{-umeth}{-}about{-}{-the-}o{thvv}e{rr}\n{w}o{rwr}ld, a{rr}e{n't-you}?{mend}
 472	7	{PARTY1%}:\n{Cap}{-the-}{CapL}dimen{sth}ional{-}di{sth}to{rr}tion\nshould{-}be{-}back{-umeth}{-}in{-}{o}{rwr}de{rr}.\n{Cap}{l}et'{stz}{-}{h'}ead{-umeth}{-}to{-}{Cap}{o}pa{ss}a{-}B{e}ach.{mend}
 472	8	{speed(255)}{fset(0)}You alone do not have the power...{fwait(3)}{wend(1)}
 472	9	{speed(255)}{fset(0)}And yet...{fwait(3)}{wend(1)}
@@ -51046,10 +51046,10 @@
 489	32	　　Let's go!\n　　　YES!\n　　　Not yet{mend}
 489	33	{KID%}:\nHurry up, will ya?{mend}
 489	34	　　Ready?\n　　　YES!\n　　　Not yet{mend}
-489	35	{playwork(0)}:\nCome{-umeth}{-}on,\n{SERGE}.{wait(30)}\n{Cap}{l}et'{stz}{-}g{o}{-umeth}.{mend}
+489	35	{playwork(0)}:\nCome{-umeth}{-}on,\n{SERGE%}.{wait(30)}\n{Cap}{l}et'{stz}{-}g{o}{-umeth}.{mend}
 489	36	{KID%}:\nWhat are you doin'!?\nC'mon, let's go!{mend}
-489	37	{playwork(0)}:\nCome{-umeth}{-}on,\n{SERGE}.{wait(30)}\n{Cap}{l}et'{stz}{-}g{o}{-umeth}.{mend}
-489	38	{playwork(0)}:\nCome{-umeth}{-}on,\n{SERGE}.{wait(30)}\n{Cap}{l}et'{stz}{-}g{o}{-umeth}.{mend}
+489	37	{playwork(0)}:\nCome{-umeth}{-}on,\n{SERGE%}.{wait(30)}\n{Cap}{l}et'{stz}{-}g{o}{-umeth}.{mend}
+489	38	{playwork(0)}:\nCome{-umeth}{-}on,\n{SERGE%}.{wait(30)}\n{Cap}{l}et'{stz}{-}g{o}{-umeth}.{mend}
 489	39	{KID%}:\nNot much further now...{wend(80)}
 489	40	{KID%}:\nNot much further now...{wend(80)}
 489	41	{KID%}:\nLet's do it!{mend}
@@ -51116,7 +51116,7 @@
 490	7	{KID%}:\nThat's it!!!{mend}
 490	8	{KID%}:\nThat's why Lynx\nstole your form!{mend}
 490	9	{PARTY1%}:\n{Cap}{sth}{o}{-}{thd}at{'s}{-umeth}{-}{w}hy!!!{mend}
-490	10	{PARTY1%}:\n{Cap}{sth}{o}{-}{thd}at{'s}{-}{w}hy{-}Lynx\nn{e}eded{-umeth}{-}{SERGE}'s\n{f}{o}{rr}m!{mend}
+490	10	{PARTY1%}:\n{Cap}{sth}{o}{-}{thd}at{'s}{-}{w}hy{-}Lynx\nn{e}eded{-umeth}{-}{SERGE%}'s\n{f}{o}{rr}m!{mend}
 490	11	{PARTY2%}:\nLynx{-}mu{sth}t{-}b{e}{-umeth}\nin{sth}{i}de{-}a{l}{rwr}eady.{mend}
 490	12	{KID%}:\nYeah...{bpage}\n...Along with the\nFrozen Flame.{mend}
 490	13	{PARTY1%}:\n{Cap}{yes}.{bpage}\n...A{l}on{g'}{-umeth}{-}{w}i{thff}\n{-the-}{Cap}{f}{rwr}{o}z{e}n{-}{Cap}{f}{l}{a}me.{mend}
@@ -52972,7 +52972,7 @@
 519	49	{ERROR}
 519	50	{ERROR}
 519	51	{ERROR}
-520	0	{PARTY1%}:\n{Cap}{SERGE},\nup{-}{thd}e{rr}e...{mend}
+520	0	{PARTY1%}:\n{Cap}{SERGE%},\nup{-}{thd}e{rr}e...{mend}
 520	1	{PARTY1%}:\n{Cap}{thd}at{-}mu{sth}t{-}b{e}{-umeth}\n{-the-}{sth}ummit.{mend}
 520	2	{PARTY2%}:\n{Cap}{l}ook{-umeth}!\n{Cap}{thd}{o}{sth}e{-}two{-}b{e}am{stz}{-}comin{g'}{-umeth}\n{f}{rwr}om{-}{e}i{thvv}e{rr}{-}{sth}{i}de...{bpage}\n{Cap}{-I-}{-}{w}onde{rr}{-}i{f}{-}{thd}ey{-}act{-umeth}\na{stz}{-}{sth}ome{-}k{i}nd{-}o{f}{-}s{e}a{l}in{g'}\nd{e}v{i}ce.{mend}
 520	3	It won't open.{mend}

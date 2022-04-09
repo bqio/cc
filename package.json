@@ -1,0 +1,25 @@
+{
+  "name": "cc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bqio/cc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bqio/cc/issues"
+  },
+  "homepage": "https://github.com/bqio/cc#readme",
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "dotenv": "^16.0.0"
+  }
+}
