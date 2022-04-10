@@ -1,0 +1,1 @@
+font "Neucha" /FontSize:70 /CharacterRegion:0x00-0x04FF /DebugOutputSpriteSheet:large_font_gn_70.png large_font_gn_70.spritefont

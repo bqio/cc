@@ -6,6 +6,7 @@ module.exports = {
     ["{LEENA_N}", "Лина"],
     ["{LYNX_N}", "Линкс"],
     ["{LEENA_I}", "Линой"],
+    ["{ARNY_V}", "Деревня Арни"],
   ],
   entries: [
     {

@@ -784,7 +784,7 @@
 21	50	{ERROR}
 21	51	{ERROR}
 22	0	Лина:\nЧто случилось, Серж?\nТы выглядишь взволнованным.{bpage}\nМы пришли.\nНазад дороги нет!{mend}
-22	1	{PARTY2%}:\nЧто случилось, Серж?\nТы выглядишь взволновАнным.{bpage}\nМы пришли.\nНАзАд дороги нет!{mend}
+22	1	{PARTY2%}:\nЧто случилось, Серж?\nТы выглядишь взволнованным.{bpage}\nМы пришли.\nНазад дороги нет!{mend}
 22	2	Кид:\nОй!\nВперед, Серж, {PARTY2%}!{mend}
 22	3	Кид:\nТолько дождись, Линкс!\nНастал час расплаты!!!{bpage}\nНачинай молиться!{wait(20)}\nХотя... тебя это не спасёт!!!{mend}
 22	4	Кид:\nХех-хех-хех......{wait(60)}\nХА-ХА-ХА-ХА-ХААА!{mend}
@@ -26166,7 +26166,7 @@
 250	5	{speed(255)}Earth Dragon Isle\n　　- Shore -{wend(255)}
 250	6	{speed(255)}Water Dragon Isle\n　　- Shore -{wend(255)}
 250	7	{speed(255)}Sky Dragon Isle\n    - Shore -{wend(255)}
-250	8	{speed(255)}Arni Village{wend(255)}
+250	8	{speed(255)}Деревня Арни{wend(255)}
 250	9	{speed(255)}Termina{wend(255)}
 250	10	{speed(255)}Guldove{wend(255)}
 250	11	{speed(255)}   Cruise Ship\n- S.S. Zelbess -{wend(255)}
@@ -26488,7 +26488,7 @@
 251	6	{speed(255)}Water Dragon Isle\n　　- Shore -{wend(255)}
 251	7	{speed(255)}Sky Dragon Isle\n　 - Shore -{wend(255)}
 251	8	The thick fog makes\nvisibility near zero...{wait(15)}\n　　　Pull back for now\n　　　Head into the fog{mend}
-251	9	{speed(255)}Arni Village{wend(255)}
+251	9	{speed(255)}Деревня Арни{wend(255)}
 251	10	{speed(255)}Termina{wend(255)}
 251	11	{speed(255)}Guldove{wend(255)}
 251	12	{speed(255)}Viper Manor\n　 Bluffs{wend(255)}
@@ -26805,7 +26805,7 @@
 252	1	{speed(160)}Board your boat?{wait(15)}\n　　　Yes\n　　　No{mend}
 252	2	{speed(160)}Board your boat?{wait(15)}\n　　　Yes\n　　　No{mend}
 252	3	{speed(160)}Board your boat?{wait(15)}\n　　　Yes\n　　　No{mend}
-252	4	{speed(255)}Arni Village{wend(255)}
+252	4	{speed(255)}Деревня Арни{wend(255)}
 252	5	{speed(255)}Cape Howl{wend(255)}
 252	6	{speed(255)}Shadow Forest{wend(255)}
 252	7	{speed(255)}Viper Manor{wend(255)}
@@ -27111,7 +27111,7 @@
 253	1	{speed(160)}Board your boat?{wait(15)}\n　　　Yes\n　　　No{mend}
 253	2	{speed(160)}Board your boat?{wait(15)}\n　　　Yes\n　　　No{mend}
 253	3	{speed(160)}Board your boat?{wait(15)}\n　　　Yes\n　　　No{mend}
-253	4	{speed(255)}Arni Village{wend(255)}
+253	4	{speed(255)}Деревня Арни{wend(255)}
 253	5	{speed(255)}Cape Howl{wend(255)}
 253	6	{speed(255)}Shadow Forest{wend(255)}
 253	7	{speed(255)}Viper Manor{wend(255)}
