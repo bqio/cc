@@ -1,0 +1,1 @@
+font neucha.bmp /FontSize:70 /CharacterRegion:0x00-0x04FF /TextureFormat:Rgba32 /DebugOutputSpriteSheet:large_font_gn_70.png large_font_gn_70.spritefont

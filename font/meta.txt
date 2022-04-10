@@ -1,3 +1,6 @@
 large_font_bn_70 - start screen
 large_font_ci_70 - start menu
 large_font_gn_70 - dialogue text
+
+font shadow padding - 4
+font shadow color - 73,6

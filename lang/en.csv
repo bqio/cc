@@ -1072,9 +1072,9 @@
 27	10	Arghhh...!!!{wait(30)}\nFREAK...!{mend}
 27	11	I have nothing\nto say to you\ndemi-humans!{bpage}\nNow git the hell\noutta our village!{wait(20)}\nAccursed monsters!{mend}
 27	12	Oh, it's you, {SERGE%}.{wait(30)}\nSo you wanna go to\nWater Dragon Isle?{bpage}\nPerhaps you should\ngo ask the old guy\nby the pier?{bpage}\nHe doesn't seem too\nbusy. I'm sure he'll\nbe willing to help you.{mend}
-27	13	Well now...\nYou're in Arni.{bpage}\nWhat brings you here to this\nquiet seaside village...?{wait(30)}\nOh, it's you, {SERGE%}.{bpage}\nJust don't be goin' near\nHydra Marshes to the\neast if you go outside.{bpage}\nDon't want you to run\ninto those evil dwarves\nand that Hydra, now.{mend}
-27	14	Say, why don't you\ngo talk to the village\nchief before you set out?{bpage}\nHis house is just\npast those gates\ndown yonder.{mend}
-27	15	By the way, {SERGE%}...\nYou'll be turning\n17 pretty soon, no?{bpage}\nWhat do you say we men\nhead out to sea and take\non a lion shark!?{bpage}\nOnly when you've defeated a\nlion shark can you call yourself\na true man of the sea!{wait(20)}\nHehehe...!{mend}
+27	13	Ну что ж... {wait(30)}ты в {color(2)}{ARNY_D}{color(0)}.{bpage}\nЧто привело тебя в это тихое место\nна берегу моря...?{bpage}{wait(30)}А, так это ты, {SERGE_N}.{bpage}\nЕсли ты собираешься выходить из деревни, не вздумай идти на {color(2)}{HYDRA_M}{color(0)} к востоку отсюда.{bpage}\nНе хочу, чтобы ты сталкивался с этими злыми гномами и Гидрой.{mend}
+27	14	Послушай, почему бы тебе не сходить к главе деревни перед тем как уйти?{bpage}\nЕго дом вон там, прямо за аркой.{mend}
+27	15	Кстати, {SERGE_N}...\nТебе же скоро 17, верно?{bpage}\nНе хочешь выйти в море и поохотиться на львиную акулу!?{bpage}\nВедь только одержав победу над львиной акулой ты сможешь назвать себя настоящим моряком!{wait(20)}\nХехехе...{mend}
 27	16	Ly...{wait(20)}\nLynx...!?{wend(40)}
 27	17	Aghhh...!{wait(20)}\nPlease... Just don't\nwreck our boats...!\nPlease, I beg of you!{bpage}\nWe live a quiet, humble life\nin this here village.{wait(20)}\nThere is no way any of\nus would oppose you!{mend}
 27	18	The pier's up ahead.{wait(20)}\nListen, don't be messin'\nwith those boats.{bpage}\nI'm sure you understand...\nA boat is like a limb\nto our fishermen.{bpage}\nPull any stunts like\nlast time, and I'll\nwhack you in the head!{mend}
@@ -1086,9 +1086,9 @@
 27	24	{HARLEY%}:\nHmmm... I see...{wait(20)}\n{SERGE%} would do\nzat for you...?{bpage}\nIf zat iz ze case,\nzen you are safe.{wait(20)}\nNo one will be able\nto hurt you.{mend}
 27	25	I know!{wait(20)}\nHah! So there!{mend}
 27	26	ALRIGHT!\nThanks, {-y}{SERGE%}!{wait(20)}\nI'll be sure to invite\nyou to our wedding!{bpage}\nOh yeah.{wait(20)}\nDid you know that\n{POSHUL%} goes nuts\nover Heckran bones?{bpage}\nBasically, she'll do\nanything you want\nif you give her one!{mend}
-27	27	Hey, {-y}{SERGE%}!{wait(20)}\nDo you know what's\npopular among the village\ngirls these days?{bpage}\nA necklace made from\nKomodo dragon scales!{wait(20)}\nYou know, those monsters\nthat eat fire!{bpage}\nI want to get some for\nKiki, but there's no\nway I can beat those\nmonsters...{bpage}\nOhhhh nooo!{wait(30)}\nIf I don't do something\nabout this now, Kiki\nmight start liking Lolo!{mend}
-27	28	Boy...{wait(20)}\nAm I in a fix...{mend}
-27	29	There's no way\nI can get a scale from\none of those monsters...{bpage}\nIf I don't do something\nabout this, Kiki will\nfall for Lolo for sure!{bpage}\nOh...boy...!{wait(30)}\nWhat am I gonna do!?{mend}
+27	27	Эй, {SERGE_N}!{wait(20)}\nТы в курсе, что сейчас популярно у девушек?{bpage}\nОжерелье, сделанное из чешуек дракона Комодо!{wait(20)} Ну знаешь, тех существ,\nпоедающих огонь!{bpage}Я хотел добыть немного для {KIKI_N}, но мне никак не победить этих монстров...{bpage}\nОоооо неееет!{wait(30)}\nЕсли я ничего не сделаю, {KIKI_N} начнет дружить с {LOLO_N}!{mend}
+27	28	Ээх...{wait(20)}\nЧто же делать...{mend}
+27	29	Я же не добуду и чешуйки с этих монстров...{bpage}\nМне нужно что-то срочно с этим сделать, иначе {KIKI_N} точно влюбится в {LOLO_N}!{bpage}Эх...{wait(30)}\nЧто мне делать!?{mend}
 27	30	I...I don't want it!{wait(20)}\nI'll get in big trouble\nif I accept stuff\nfrom strangers!{mend}
 27	31	W-W-Wait a minute!\n{-y}{SERGE%}, is that a\nKomodo dragon scale?{bpage}\nNO WAY!!! Is it real!?{wait(20)}\nUhhh, {-y}{SERGE%}...\nHow about giving it to me?\nPlease! Pretty pleeease!{bpage}\nOh, come on, {-y}{SERGE%}!{wait(20)}\nI won't ask another\nfavor for the rest of\nmy life! Now, pleeease!?{mend}
 27	32	So, how 'bout it,\n{-y}{SERGE%}?{wait(20)}\nC'mon, can I have it?\nPlease...?{bpage}\nC'mon, {-y}{SERGE%}...!\nMy life depends on it!{wait(20)}\nPretty please with sugar on top?{mend}
@@ -26166,7 +26166,7 @@
 250	5	{speed(255)}Earth Dragon Isle\n　　- Shore -{wend(255)}
 250	6	{speed(255)}Water Dragon Isle\n　　- Shore -{wend(255)}
 250	7	{speed(255)}Sky Dragon Isle\n    - Shore -{wend(255)}
-250	8	{speed(255)}{ARNY_V}{wend(255)}
+250	8	{speed(255)}{ARNY_N}{wend(255)}
 250	9	{speed(255)}Termina{wend(255)}
 250	10	{speed(255)}Guldove{wend(255)}
 250	11	{speed(255)}   Cruise Ship\n- S.S. Zelbess -{wend(255)}
@@ -26488,7 +26488,7 @@
 251	6	{speed(255)}Water Dragon Isle\n　　- Shore -{wend(255)}
 251	7	{speed(255)}Sky Dragon Isle\n　 - Shore -{wend(255)}
 251	8	The thick fog makes\nvisibility near zero...{wait(15)}\n　　　Pull back for now\n　　　Head into the fog{mend}
-251	9	{speed(255)}{ARNY_V}{wend(255)}
+251	9	{speed(255)}{ARNY_N}{wend(255)}
 251	10	{speed(255)}Termina{wend(255)}
 251	11	{speed(255)}Guldove{wend(255)}
 251	12	{speed(255)}Viper Manor\n　 Bluffs{wend(255)}
@@ -26805,7 +26805,7 @@
 252	1	{speed(160)}Board your boat?{wait(15)}\n　　　Yes\n　　　No{mend}
 252	2	{speed(160)}Board your boat?{wait(15)}\n　　　Yes\n　　　No{mend}
 252	3	{speed(160)}Board your boat?{wait(15)}\n　　　Yes\n　　　No{mend}
-252	4	{speed(255)}{ARNY_V}{wend(255)}
+252	4	{speed(255)}{ARNY_N}{wend(255)}
 252	5	{speed(255)}Cape Howl{wend(255)}
 252	6	{speed(255)}Shadow Forest{wend(255)}
 252	7	{speed(255)}Viper Manor{wend(255)}
@@ -27111,7 +27111,7 @@
 253	1	{speed(160)}Board your boat?{wait(15)}\n　　　Yes\n　　　No{mend}
 253	2	{speed(160)}Board your boat?{wait(15)}\n　　　Yes\n　　　No{mend}
 253	3	{speed(160)}Board your boat?{wait(15)}\n　　　Yes\n　　　No{mend}
-253	4	{speed(255)}{ARNY_V}{wend(255)}
+253	4	{speed(255)}{ARNY_N}{wend(255)}
 253	5	{speed(255)}Cape Howl{wend(255)}
 253	6	{speed(255)}Shadow Forest{wend(255)}
 253	7	{speed(255)}Viper Manor{wend(255)}
