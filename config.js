@@ -6,12 +6,9 @@ module.exports = {
     ["{LEENA_N}", "Лина"],
     ["{LYNX_N}", "Линкс"],
     ["{LEENA_I}", "Линой"],
-    ["{ARNY_N}", "Деревня Арни"],
-    ["{ARNY_G}", "Деревни Арни"],
-    ["{ARNY_D}", "Деревне Арни"],
-    ["{ARNY_A}", "Деревню Арни"],
-    ["{ARNY_I}", "Деревней Арни"],
-    ["{HYDRA_M}", "Болота Гидры"],
+    ["{L_ARNY_N}", "Деревня Арни"],
+    ["{L_ARNY_D}", "Деревне Арни"],
+    ["{L_HYDRA_N}", "Болота Гидры"],
     ["{KIKI_N}", "Кики"],
     ["{LOLO_N}", "Лоло"],
   ],
@@ -23,6 +20,12 @@ module.exports = {
     {
       path: "lang/sysmes.txt",
       enc: "utf16le",
+    },
+  ],
+  patches: [
+    {
+      entry: "opening.bin",
+      dist: "cdrom2/map/mapbin/",
     },
   ],
 };

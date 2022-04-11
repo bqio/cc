@@ -1122,7 +1122,7 @@
 27	60	Alrighty!{wait(20)}\nJust a minute,\nplease!{mend}
 27	61	Thanks.\nCome again.{mend}
 27	62	Why, hello there,\n{SERGE%}!{wait(20)}\nCan I interest\nyou in something?{bpage}\nI have some\ngreat Elements.{wait(20)}\nWould you like\nto take a look?{mend}
-27	63	　　　No, thank you.\n　　　Show me your Elements.\n　　　Show me your Weapons/Armor.{mend}
+27	63	　　　Нет, спасибо.\n　　　Покажи мне элементы.\n　　　Покажи мне снаряжение.{mend}
 27	64	Oh... Oh well...{wait(20)}\nCome again sometime.{mend}
 27	65	Sure!{wait(20)}\nJust one second...{mend}
 27	66	Thanks.\nCome again.{mend}
@@ -26159,7 +26159,7 @@
 249	344	{ERROR}
 249	345	{ERROR}
 250	0	{speed(255)}Gaea's Navel{mend}
-250	1	{speed(255)}The Sky Above\nHydra Marshes{mend}
+250	1	{speed(255)}The Sky Above\nБолота Гидры{mend}
 250	2	{speed(255)} Marbule\n- Shore -{wend(255)}
 250	3	{speed(255)}Hermit's Hideaway\n　   - Shore -{wend(255)}
 250	4	{speed(255)}Isle of the Damned\n　　- Shore -{wend(255)}
@@ -26817,7 +26817,7 @@
 252	13	{speed(255)}Fossil Valley\n  - South -{wend(255)}
 252	14	{speed(255)}Mount Pyre\n  - East -{wend(255)}
 252	15	{speed(255)}Mount Pyre\n  - West -{wend(255)}
-252	16	{speed(255)}Hydra Marshes{wend(255)}
+252	16	{speed(255)}Болота Гидры{wend(255)}
 252	17	{speed(255)}Fort Dragonia{wend(255)}
 252	18	{speed(255)}{color(2)}Divine Dragon Falls{color(0)}{wend(255)}
 252	19	{ERROR}
@@ -27123,7 +27123,7 @@
 253	13	{speed(255)}Fossil Valley\n  - South -{wend(255)}
 253	14	{speed(255)}Mount Pyre\n  - East -{wend(255)}
 253	15	{speed(255)}Mount Pyre\n  - West -{wend(255)}
-253	16	{speed(255)}Hydra Marshes{wend(255)}
+253	16	{speed(255)}Болота Гидры{wend(255)}
 253	17	{speed(255)}Fort Dragonia{wend(255)}
 253	18	{speed(255)}{color(2)}Divine Dragon Falls{color(0)}{wend(255)}
 253	19	{ERROR}
