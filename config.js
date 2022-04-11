@@ -27,5 +27,9 @@ module.exports = {
       entry: "opening.bin",
       dist: "cdrom2/map/mapbin/",
     },
+    {
+      entry: "large_font_gn_70.spritefont",
+      dist: "font",
+    },
   ],
 };

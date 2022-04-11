@@ -31,11 +31,16 @@ function applyGlossary() {
 
 function applyPatches() {
   for (let patch of config.patches) {
-    const patch_arch = patch.dist.split("/")[0];
+    const pathes = patch.dist.split("/");
+    const patch_arch = pathes[0];
     const zip = new AdmZip(`${process.env.GAME_PATH}\\data\\${patch_arch}.dat`);
-    let pathes = patch.dist.split("/");
-    pathes.splice(0, 1);
-    zip.addLocalFile(`patches\\${patch.entry}`, pathes.join("/"));
+    if (pathes.length > 1) {
+      pathes.splice(0, 1);
+      zip.addLocalFile(`patches\\${patch.entry}`, pathes.join("/"));
+    } else {
+      zip.addLocalFile(`patches\\${patch.entry}`);
+    }
+
     zip.writeZip();
     console.log(`Apply patch ${patch.entry} in ${patch.dist}`);
     console.log(
