@@ -1469,7 +1469,7 @@
 31	4	{PARTY0%} received\n{color(4)}Time Egg{color(0)}!{mend}
 31	5	Вы хотите отдохнуть?{wait(20)}\n　　　Конечно!\n　　　Не сейчас.{mend}
 31	6	{PARTY0%} взял свои плохо спрятанные\nсбережения.{mend}
-31	7	Найдено {color(4)}200{color(0)} золотых.{mend}
+31	7	Найдено\n{color(4)}200{color(0)} золотых.{mend}
 31	8	{PARTY0%} взял {color(3)}Таблетку{color(0)} из горшка.{mend}
 31	9	{ERROR}
 31	10	{ERROR}
