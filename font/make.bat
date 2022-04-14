@@ -1,1 +1,1 @@
-font "Neucha" /FontSize:70 /CharacterRegion:0x00-0x04FF large_font_gn_70.spritefont
+font "Neucha" /FontSize:70 /CharacterRegion:0x20-0x7E Neucha_70.spritefont

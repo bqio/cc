@@ -1,1 +1,1 @@
-font grid.png /DebugOutputSpriteSheet:map.png /CharacterRegion:0x20-0x7F /CharacterRegion:0x0410-0x0451 large_font_gn_70.spritefont
+font grid.png /DebugOutputSpriteSheet:map.png /CharacterRegion:0x21-0x7E /CharacterRegion:0x410-0x44F /CharacterRegion:0x451 /CharacterRegion:0x20 large_font_gn_70.spritefont
