@@ -2,8 +2,11 @@
 
 ![screenshot](screenshot.png)
 
-### Environment
-Set GAME_PATH variable. See .env.placeholder for example.
+### Requirements
+* Nodejs
 
-### Build
-` npm run build `
+### Usage
+* `npm install`
+* Create `.env` file
+* Set `GAME_PATH` variable. See `.env.placeholder` for example.
+* ` npm run build `
