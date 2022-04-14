@@ -1947,12 +1947,12 @@
 37	10	{LEENA%}:\nUnlike the rest of\nyou, we're not here\nto play!{bpage}\nDon't swim out\ntoo far, now!{mend}
 37	11	{LEENA%}:\nKids sure have\nit easy...{bpage}\nRemember when we\nwere like that?{wait(20)}\nNot a single care\nor worry on our minds...{bpage}\nHow each day lasted\nan eternity, filled\nwith newness, fun,\nand excitement...{mend}
 37	12	{LEENA%}:\nBut the important thing now\nis not our childhood, but\nmy Komodo-scale necklace!!!{bpage}\nYES!{wait(20)}\nWe have to face up\nto reality and live\neach day anew!!!{mend}
-37	13	{LEENA%}:\nSo, I want you to go\nto Lizard Rock and\nget some scales for me!{bpage}\nI would join you, but\nI still have to watch\nthe kids.{wait(20)}\nIt's your fault -- you were late!{bpage}\nOnce you've collected some\nKomodo dragon scales,{wait(20)}\nI'll catch up with you\nat Opassa Beach.{mend}
+37	13	{LEENA%}:\nSo, I want you to go\nto Скала Ящерицы and\nget some scales for me!{bpage}\nI would join you, but\nI still have to watch\nthe kids.{wait(20)}\nIt's your fault -- you were late!{bpage}\nOnce you've collected some\nKomodo dragon scales,{wait(20)}\nI'll catch up with you\nat Opassa Beach.{mend}
 37	14	{LEENA%}:\nIs that OK with you, {SERGE%}?\n　　　Sure, no problem!\n　　　Nah, forget it.{mend}
-37	15	{LEENA%}:\nGood!{wait(20)}\nThat's what I\nwanted to hear!{bpage}\nOK, then!{wait(20)}\nDon't just stand around!\nGo collect some scales\nat Lizard Rock.{bpage}\nLet's see...{wait(20)}\nI think 3 should be enough.\nGood luck, {SERGE%}!\nI'm counting on you!{mend}
+37	15	{LEENA%}:\nGood!{wait(20)}\nThat's what I\nwanted to hear!{bpage}\nOK, then!{wait(20)}\nDon't just stand around!\nGo collect some scales\nat Скала Ящерицы.{bpage}\nLet's see...{wait(20)}\nI think 3 should be enough.\nGood luck, {SERGE%}!\nI'm counting on you!{mend}
 37	16	{LEENA%}:\nEXCUSE ME!?{wait(20)}\nWhat did you just say?\nHm? {SERGE%}!?{bpage}\nThink about it!\nIt's your fault for\nsleeping in, you know!{bpage}\nSeeing as how you let\nme down, I'd say you\nowe me a couple hundred\nof those scales!{bpage}\nNow go! Go to Lizard\nRock and get some\nfor me!{bpage}\nI'll let you off easy this\ntime with only 3 scales.{wait(20)}\nI'm counting on you, {SERGE%}.\nGood luck, OK?{mend}
-37	17	{LEENA%}:\nOnce you get the\nscales, wait for me\nat Opassa Beach.{bpage}\nIt's just a bit south\nof Lizard Rock.{wait(20)}\nI'll come by as soon as\nI'm done babysitting!{mend}
-37	18	{LEENA%}:\nCome on, {SERGE%}!{wait(20)}\nGet your butt over to\nLizard Rock, already.{bpage}\nI think I really deserve\nabout a hundred scales, but\nI guess 3 will do for now.{bpage}\nOnce you get all 3 scales,\nwait for me at Opassa Beach.{wait(20)}\nYou know, it's south of\nLizard Rock.{bpage}\nAnd...I'll only accept scales\nthat YOU personally collect.{wait(20)}\nI don't want any that were\njust handed to you.{mend}
+37	17	{LEENA%}:\nOnce you get the\nscales, wait for me\nat Opassa Beach.{bpage}\nIt's just a bit south\nof Скала Ящерицы.{wait(20)}\nI'll come by as soon as\nI'm done babysitting!{mend}
+37	18	{LEENA%}:\nCome on, {SERGE%}!{wait(20)}\nGet your butt over to\nСкала Ящерицы, already.{bpage}\nI think I really deserve\nabout a hundred scales, but\nI guess 3 will do for now.{bpage}\nOnce you get all 3 scales,\nwait for me at Opassa Beach.{wait(20)}\nYou know, it's south of\nСкала Ящерицы.{bpage}\nAnd...I'll only accept scales\nthat YOU personally collect.{wait(20)}\nI don't want any that were\njust handed to you.{mend}
 37	19	{LEENA%}:\nWow... It just\nseems so weird.{bpage}\nI don't know what's\ngoing on, but\ngood luck!{mend}
 37	20	{LEENA%}:\nYou got it!{wait(30)}\nLeave it to me!{mend}
 37	21	{LEENA%}:\nHeeey!{wait(20)}\nThat girl looks\nlike me...!?{mend}
@@ -2066,9 +2066,9 @@
 38	23	{LEENA%}:\nWhy would I lie\nabout something\nlike that!?{bpage}\nDo you think I'm so\ncruel as to make\nsomething like that up!?{mend}
 38	24	{LEENA%}:\nThat boy...\nI guess I kinda liked him...{bpage}\nIf that boy were still\nalive today,{wait(20)} I wonder\nwhat would've become of us.{mend}
 38	25	{LEENA%}:\nSure is weird...\nWhy am I opening up\nto you like this?{bpage}\nWell, I guess there's\nno use thinking about\nthe past.{bpage}\nIt's not like {SERGE%}\nis going to come back...{bpage}\nMom always tells me\nI shouldn't dwell on\nlost loved ones...{mend}
-38	26	{LEENA%}:\n......{wait(30)}\nYou can find his\ngrave up on Cape Howl.{bpage}\nActually, why don't you go\nvisit the grave site?{wait(20)}\nNo one's been up\nthere in a while...{bpage}\nWell, I still have\nsome chores to finish.{wait(20)}\nSorry I blew up\nat you like that.{mend}
+38	26	{LEENA%}:\n......{wait(30)}\nYou can find his\ngrave up on Ревущий Мыс.{bpage}\nActually, why don't you go\nvisit the grave site?{wait(20)}\nNo one's been up\nthere in a while...{bpage}\nWell, I still have\nsome chores to finish.{wait(20)}\nSorry I blew up\nat you like that.{mend}
 38	27	{LEENA%}:\nGoodbye...{wait(20)}\nstranger.{mend}
-38	28	{LEENA%}:\nYou'll find the\nboy's grave up\non Cape Howl...{bpage}\nIt'd be great if\nyou could visit it.{wait(30)}\nI'm sure {SERGE%}\nwould be happy, too...{mend}
+38	28	{LEENA%}:\nYou'll find the\nboy's grave up\non Ревущий Мыс...{bpage}\nIt'd be great if\nyou could visit it.{wait(30)}\nI'm sure {SERGE%}\nwould be happy, too...{mend}
 38	29	{LEENA%}:\nIs that...{wait(20)}\na Komodo dragon scale!?{bpage}\nEeeeeeeK!{wait(30)}\nThat's disgusting!\nGet that away from me!{mend}
 38	30	{LEENA%}:\nHmm? What is it?{wait(20)}\nA {itemwork(0)}?{bpage}\nNope.{wait(20)}\nA {itemwork(0)} won't\nwin my heart.{mend}
 38	31	Huaaaaaah...{wait(20)}\nWhat? I don't have\nany business with\nyou demi-humans.{bpage}\nIf I were to let you\non my boat, I might end\nup waking the dead.{bpage}\nI'm very superstitious,\nyou know.{wait(20)}\nHow do you think I lived\nto be this age?{mend}
@@ -2785,7 +2785,7 @@
 46	59	{ERROR}
 47	0	Oh my!\nWho, may I ask, are you?{wait(20)}\nI don't believe we know\nany demi-humans...{bpage}\nIf there is nothing in\nparticular, I ask that you\nplease leave.{wait(20)} It may not\nseem so, but we are busy.{mend}
 47	1	That Kiki!{wait(20)}\nI wonder if that child\nknows how worried I get.{bpage}\nThat goes for you too, {SERGE%}.\nYou shouldn't be playing out there.{wait(20)}\nIt's dangerous.{mend}
-47	2	Do you know about\nLizard Rock, southwest\nof the village?{bpage}\nI've heard that a mother Komodo\ndragon comes out every once in a while.{wait(20)}\nI've told Kiki numerous times\nnot to play there, but...{bpage}\nShe never listens to me.{wait(20)}\nI guess kids will be kids.{mend}
+47	2	Do you know about\nСкала Ящерицы, southwest\nof the village?{bpage}\nI've heard that a mother Komodo\ndragon comes out every once in a while.{wait(20)}\nI've told Kiki numerous times\nnot to play there, but...{bpage}\nShe never listens to me.{wait(20)}\nI guess kids will be kids.{mend}
 47	3	Please, I don't\nwant anything!{wait(20)}\nJust leave, please!{mend}
 47	4	Oh, {SERGE%}?{wait(20)}\nA Komodo dragon scale\nfor me...?{mend}
 47	5	I can't!{wait(20)}\nI'm married!{mend}
@@ -2813,7 +2813,7 @@
 47	27	I guess\nI overestimated you...{mend}
 47	28	EeeeeeeK!\nH-H-Hello...{wait(20)}\nAre you a friend of my daddy?{bpage}\nUmm, umm... Mister...?{wait(30)}\nAren't you hot in\nthose clothes?{mend}
 47	29	Yikes!\nI-I-It's nothing!{wait(20)}\nI-I-I'm sorry!{mend}
-47	30	Isn't my Celine cute?{wait(20)}\nDaddy found her by\nLizard Rock.{bpage}\nA lot of baby Komodo\ndragons play out there.{wait(20)}\nI guess it's kinda\nlike their hangout.{mend}
+47	30	Isn't my Celine cute?{wait(20)}\nDaddy found her by\nСкала Ящерицы.{bpage}\nA lot of baby Komodo\ndragons play out there.{wait(20)}\nI guess it's kinda\nlike their hangout.{mend}
 47	31	And you know what, {-y}{SERGE%}?{wait(20)}\nDon't tell anyone what\nI'm about to tell you, OK...?\nIt's a secret...{mend}
 47	32	Lolo said he was going\nto get me some Komodo\ndragon scales!{wait(20)}\nHeeeeee! What should I do!?{mend}
 47	33	HUH!?\nIs that...{wait(20)}\na Komodo dragon scale!?{mend}
@@ -26806,20 +26806,20 @@
 252	2	{speed(160)}Board your boat?{wait(15)}\n　　　Yes\n　　　No{mend}
 252	3	{speed(160)}Board your boat?{wait(15)}\n　　　Yes\n　　　No{mend}
 252	4	{speed(255)}Деревня Арни{wend(255)}
-252	5	{speed(255)}Cape Howl{wend(255)}
+252	5	{speed(255)}Ревущий Мыс{wend(255)}
 252	6	{speed(255)}Shadow Forest{wend(255)}
 252	7	{speed(255)}Viper Manor{wend(255)}
 252	8	{speed(255)}Termina{wend(255)}
 252	9	{speed(255)}Opassa Beach{wend(255)}
-252	10	{speed(255)}Lizard Rock\n - North -{wend(255)}
-252	11	{speed(255)}Lizard Rock\n - South -{wend(255)}
-252	12	{speed(255)}Fossil Valley\n  - North -{wend(255)}
-252	13	{speed(255)}Fossil Valley\n  - South -{wend(255)}
+252	10	{speed(255)}Скала Ящерицы\n - Север -{wend(255)}
+252	11	{speed(255)}Скала Ящерицы\n - Юг -{wend(255)}
+252	12	{speed(255)}Долина Окаменелости\n  - Север -{wend(255)}
+252	13	{speed(255)}Долина Окаменелости\n  - Юг -{wend(255)}
 252	14	{speed(255)}Mount Pyre\n  - East -{wend(255)}
 252	15	{speed(255)}Mount Pyre\n  - West -{wend(255)}
 252	16	{speed(255)}Болота Гидры{wend(255)}
 252	17	{speed(255)}Fort Dragonia{wend(255)}
-252	18	{speed(255)}{color(2)}Divine Dragon Falls{color(0)}{wend(255)}
+252	18	{speed(255)}{color(2)}Водопад Божественного Дракона{color(0)}{wend(255)}
 252	19	{ERROR}
 252	20	{ERROR}
 252	21	{ERROR}
@@ -27112,20 +27112,20 @@
 253	2	{speed(160)}Board your boat?{wait(15)}\n　　　Yes\n　　　No{mend}
 253	3	{speed(160)}Board your boat?{wait(15)}\n　　　Yes\n　　　No{mend}
 253	4	{speed(255)}Деревня Арни{wend(255)}
-253	5	{speed(255)}Cape Howl{wend(255)}
+253	5	{speed(255)}Ревущий Мыс{wend(255)}
 253	6	{speed(255)}Shadow Forest{wend(255)}
 253	7	{speed(255)}Viper Manor{wend(255)}
 253	8	{speed(255)}Termina{wend(255)}
 253	9	{speed(255)}Opassa Beach{wend(255)}
-253	10	{speed(255)}Lizard Rock\n - North -{wend(255)}
-253	11	{speed(255)}Lizard Rock\n - South -{wend(255)}
-253	12	{speed(255)}Fossil Valley\n  - North -{wend(255)}
-253	13	{speed(255)}Fossil Valley\n  - South -{wend(255)}
+253	10	{speed(255)}Скала Ящерицы\n - Север -{wend(255)}
+253	11	{speed(255)}Скала Ящерицы\n - Юг -{wend(255)}
+253	12	{speed(255)}Долина Окаменелости\n  - Север -{wend(255)}
+253	13	{speed(255)}Долина Окаменелости\n  - Юг -{wend(255)}
 253	14	{speed(255)}Mount Pyre\n  - East -{wend(255)}
 253	15	{speed(255)}Mount Pyre\n  - West -{wend(255)}
 253	16	{speed(255)}Болота Гидры{wend(255)}
 253	17	{speed(255)}Fort Dragonia{wend(255)}
-253	18	{speed(255)}{color(2)}Divine Dragon Falls{color(0)}{wend(255)}
+253	18	{speed(255)}{color(2)}Водопад Божественного Дракона{color(0)}{wend(255)}
 253	19	{ERROR}
 253	20	{ERROR}
 253	21	{ERROR}
