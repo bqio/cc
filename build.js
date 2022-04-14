@@ -43,10 +43,8 @@ function applyPatches() {
 
     zip.writeZip();
     console.log(`Apply patch ${patch.entry} in ${patch.dist}`);
-    console.log(
-      "============================================================="
-    );
   }
+  console.log("=============================================================");
 }
 
 console.log("Build started.");
